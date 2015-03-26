@@ -1,0 +1,115 @@
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTVHD-NOT STABLE [/COLOR]  
+http://sctv.live.cdn.anluong.info/live/C001_HD_2/playlist.m3u8
+#EXTINF:0, --HD1 STARMOVIE HD
+http://sctv.live.cdn.anluong.info/live/C001_HD_2/playlist.m3u8
+#EXTINF:0, --HD2 NATGEO HD
+http://sctv.live.cdn.anluong.info/live/C002_HD_2/playlist.m3u8
+#EXTINF:0, --HD3 DISCOVERY HD
+http://sctv.live.cdn.anluong.info/live/C003_HD_2/playlist.m3u8
+#EXTINF:0, --HD4 HBO HD
+http://sctv.live.cdn.anluong.info/live/C004_HD_2/playlist.m3u8
+#EXTINF:0, --HD5 FOX HD
+http://sctv.live.cdn.anluong.info/live/C005_HD_2/playlist.m3u8
+#EXTINF:0, --HD6 VĂN HÓA
+http://sctv.live.cdn.anluong.info/live/C006_HD_2/playlist.m3u8
+#EXTINF:0, --HD7 DU LICH
+http://sctv.live.cdn.anluong.info/live/C007_HD_2/playlist.m3u8
+#EXTINF:0, --HD8 THE THAO
+http://sctv.live.cdn.anluong.info/live/C008_HD_2/playlist.m3u8
+#EXTINF:0, --HD9 PHIM VIỆT
+http://sctv.live.cdn.anluong.info/live/C009_HD_2/playlist.m3u8
+#EXTINF:0, --HD10 PHIM HQ
+http://sctv.live.cdn.anluong.info/live/C010_HD_2/playlist.m3u8
+#EXTINF:0, --HD11 HÀI
+http://sctv.live.cdn.anluong.info/live/C011_HD_2/playlist.m3u8
+#EXTINF:0, --HD12 SAN DIEN
+http://sctv.live.cdn.anluong.info/live/C012_HD_2/playlist.m3u8
+#EXTINF:0, --HD13  PHIM TỔNG HỢP
+http://sctv.live.cdn.anluong.info/live/C013_HD_2/playlist.m3u8
+#EXTINF:0, --HD14 GIẢI TRÍ TỔNG HỢP
+http://sctv.live.cdn.anluong.info/live/C014_HD_2/playlist.m3u8
+#EXTINF:0, --HD15 PHIM NUOC NGOAI
+http://sctv.live.cdn.anluong.info/live/C015_HD_2/playlist.m3u8
+#EXTINF:0, --HD16 THIẾU NHI
+http://sctv.live.cdn.anluong.info/live/C016_HD_2/playlist.m3u8
+#EXTINF:0, --HD17 PHỤ NỮ
+http://sctv.live.cdn.anluong.info/live/C017_HD_2/playlist.m3u8
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTVSD-NOT STABLE [/COLOR]  
+http://sctv.live.cdn.anluong.info/live/C012_SD_2/playlist.m3u8
+#EXTINF:0, --DISNEY CHANNEL
+http://sctv.live.cdn.anluong.info/live/C012_SD_2/playlist.m3u8
+#EXTINF:0, --CARTOON NETWORK
+http://sctv.live.cdn.anluong.info/live/C013_SD_2/playlist.m3u8
+#EXTINF:0, --HBO SD
+http://sctv.live.cdn.anluong.info/live/C014_SD_2/playlist.m3u8
+#EXTINF:0, --START WORLD SD
+http://sctv.live.cdn.anluong.info/live/C015_SD_2/playlist.m3u8
+#EXTINF:0, --AXN SD
+http://sctv.live.cdn.anluong.info/live/C016_SD_2/playlist.m3u8
+#EXTINF:0, --ANIMAL PLANET
+http://sctv.live.cdn.anluong.info/live/C017_SD_2/playlist.m3u8
+#EXTINF:0, --VCHANNEL
+http://sctv.live.cdn.anluong.info/live/C018_SD_2/playlist.m3u8
+#EXTINF:0, --FASHTION TV
+http://sctv.live.cdn.anluong.info/live/C019_SD_2/playlist.m3u8
+#EXTINF:0, --FOX2 
+http://sctv.live.cdn.anluong.info/live/C020_SD_2/playlist.m3u8
+#EXTINF:0, --DISCOVERY HD
+http://sctv.live.cdn.anluong.info/live/C021_SD_2/playlist.m3u8
+#EXTINF:0, --BBC
+http://sctv.live.cdn.anluong.info/live/C022_SD_2/playlist.m3u8
+#EXTINF:0, --CNN 
+http://sctv.live.cdn.anluong.info/live/C023_SD_2/playlist.m3u8
+#EXTINF:0, --CNBC
+http://sctv.live.cdn.anluong.info/live/C024_SD_2/playlist.m3u8
+#EXTINF:0, --CHANNEL
+http://sctv.live.cdn.anluong.info/live/C025_SD_2/playlist.m3u8
+#EXTINF:0, --YANTV
+http://sctv.live.cdn.anluong.info/live/C028_SD_2/playlist.m3u8
+#EXTINF:0, --BONGDA TV
+http://sctv.live.cdn.anluong.info/live/C036_SD_2/playlist.m3u8
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH ĐỊA PHƯƠNG SCTV-NOT STABLE[/COLOR] 
+http://sctv.live.cdn.anluong.info/live/C049_SD_2/playlist.m3u8
+#EXTINF:0, --THVL
+http://sctv.live.cdn.anluong.info/live/C049_SD_2/playlist.m3u8
+EXTINF:0, --HTV2
+http://sctv.live.cdn.anluong.info/live/C050_SD_2/playlist.m3u8
+#EXTINF:0, --LA34
+http://sctv.live.cdn.anluong.info/live/C051_SD_2/playlist.m3u8
+#EXTINF:0, --HTV7
+http://sctv.live.cdn.anluong.info/live/C052_SD_2/playlist.m3u8
+#EXTINF:0, --HTV9
+http://sctv.live.cdn.anluong.info/live/C053_SD_2/playlist.m3u8
+#EXTINF:0, --O2TV
+http://sctv.live.cdn.anluong.info/live/C054_SD_2/playlist.m3u8
+#EXTINF:0, --INFO TV
+http://sctv.live.cdn.anluong.info/live/C055_SD_2/playlist.m3u8
+#EXTINF:0, --VTV9 LetViet
+http://sctv.live.cdn.anluong.info/live/C056_SD_2/playlist.m3u8
+#EXTINF:0, --HN1
+http://sctv.live.cdn.anluong.info/live/C057_SD_2/playlist.m3u8
+#EXTINF:0, --VTC7 TodayTV
+http://sctv.live.cdn.anluong.info/live/C058_SD_2/playlist.m3u8
+#EXTINF:0, --VTVcab5 Echannel
+http://sctv.live.cdn.anluong.info/live/C059_SD_2/playlist.m3u8
+#EXTINF:0, --DRT1
+http://sctv.live.cdn.anluong.info/live/C060_SD_2/playlist.m3u8
+#EXTINF:0, --VTV Huế
+http://sctv.live.cdn.anluong.info/live/C061_SD_2/playlist.m3u8
+#EXTINF:0, --BRT
+http://sctv.live.cdn.anluong.info/live/C062_SD_2/playlist.m3u8
+#EXTINF:0, --VTV Cần Thơ
+http://sctv.live.cdn.anluong.info/live/C063_SD_2/playlist.m3u8
+#EXTINF:0, --DN1
+http://sctv.live.cdn.anluong.info/live/C065_SD_2/playlist.m3u8
+#EXTINF:0, --INFOTV
+http://sctv.live.cdn.anluong.info/live/C055_SD_2/playlist.m3u8
+#EXTINF:0, --eCHANNEL
+http://sctv.live.cdn.anluong.info/live/C059_SD_2/playlist.m3u8
+#EXTINF:0, --VTC7
+http://sctv.live.cdn.anluong.info/live/C058_SD_2/playlist.m3u8
+#EXTINF:0, --VTC9
+http://sctv.live.cdn.anluong.info/live/C056_SD_2/playlist.m3u8

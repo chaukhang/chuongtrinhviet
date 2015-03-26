@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon
+  id="plugin.video.phim60s.info"
+  version="1.0.41"
+  name="Phim-Phim60s"
+  provider-name="ThongLD">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.urlresolver" version="0.0.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>phim60s</summary>
+    <description>Xem Phim HD mien phi tai phim60s.info kodivn 2.0.6</description>
+    <platform>all</platform>
+  </extension>
+</addon>

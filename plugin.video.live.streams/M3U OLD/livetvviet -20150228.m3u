@@ -1,0 +1,1578 @@
+﻿#EXTM3U
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTV-ANLUONG[/COLOR]  
+rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
+
+#EXTINF:0, --SCTV1
+http://sctv.live.cdn.anluong.info/live/C027_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV2
+http://sctv.live.cdn.anluong.info/live/C028_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV3
+http://sctv.live.cdn.anluong.info/live/C029_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV4
+http://sctv.live.cdn.anluong.info/live/C030_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV5
+http://sctv.live.cdn.anluong.info/live/C037_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV6
+http://sctv.live.cdn.anluong.info/live/C038_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV7
+http://sctv.live.cdn.anluong.info/live/C039_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV8
+http://sctv.live.cdn.anluong.info/live/C040_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV9 TVB VN
+http://sctv.live.cdn.anluong.info/live/C041_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV10
+http://sctv.live.cdn.anluong.info/live/C064_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV11
+http://sctv.live.cdn.anluong.info/live/C066_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV12
+http://sctv.live.cdn.anluong.info/live/C067_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV13
+http://sctv.live.cdn.anluong.info/live/C031_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV14
+http://live.accessasia.tv:1935/vnptg_channels/sctv14.480p/playlist.m3u8
+#EXTINF:0, --SCTV15
+http://sctv.live.cdn.anluong.info/live/C042_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV16
+http://sctv.live.cdn.anluong.info/live/C033_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV17
+http://sctv.live.cdn.anluong.info/live/C034_SD_3/playlist.m3u8
+#EXTINF:0, --SCTV-Hài
+http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
+#EXTINF:0, --SCTV HD THE THAO
+http://sctv.live.cdn.anluong.info/live/C008_HD_3/playlist.m3u8
+#EXTINF:0, --SCTV HD Phim Nuoc Ngoai
+http://sctv.live.cdn.anluong.info/live/C033_SD_3/playlist.m3u8
+#EXTINF:0, --HD1 STARMOVIE HD
+http://sctv.live.cdn.anluong.info/live/C001_HD_3/playlist.m3u8
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH VTV-TV24[/COLOR]  
+rtmpe://112.197.2.154:1935/live//vtv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV1
+rtmpe://112.197.2.154:1935/live//vtv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV2
+rtmpe://112.197.2.154:1935/live//vtv2_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV3
+rtmpe://112.197.2.154:1935/live//vtv3_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV4
+rtmpe://112.197.2.154:1935/live//vtv4_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV6
+rtmpe://112.197.2.154:1935/live//vtv6_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV9
+rtmpe://112.197.2.154:1935/live//vtv9_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --ANTV
+rtmpe://112.197.2.154:1935/live//antv_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --HTV9
+rtmpe://112.197.2.154:1935/live//htv9_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --HN1
+rtmpe://112.197.2.154:1935/live//HN1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --THVL
+rtmpe://112.197.2.154:1935/live//thvl_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH VTVPLAY[/COLOR]  
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1hd_hls.smil/playlist.m3u8
+#EXTINF:0, --VTV1 HD 
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1hd_hls.smil/playlist.m3u8
+#EXTINF:0, --VTV3 HD 
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv3hd_hls.smil/playlist.m3u8
+#EXTINF:0, --VTV6 HD 
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv6hd_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB1 GIẢI TRÍ
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:giaitritv_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVcab2 PHIM VIET
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:phimviet_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB4 KÊNH17
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:kenh17_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB7 DDRAMAS
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:ddramas_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB8 BIBI 
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:bibi_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB9 INFOTV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:infotv_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB10 O2TV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:o2tv_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB12 STYLETV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:styletv_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB15 INVESTV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:investtv_hls.smil/playlist.m3u8
+#EXTINF:0, --HN1 HÀ NỘI 1
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:hanoi1_hls.smil/playlist.m3u8
+#EXTINF:0, --HTV9
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:htv9_hls.smil/playlist.m3u8
+#EXTINF:0, --HTVC PHỤ NỮ
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:htvcphunu_hls.smil/playlist.m3u8
+#EXTINF:0, --VTC4 YEAH1
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:yeah1tv_hls.smil/playlist.m3u8
+#EXTINF:0, --SCTVHD HÀI
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:sctvhaihd_hls.smil/playlist.m3u8
+#EXTINF:0, --ARIANG
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:arirang_hls.smil/playlist.m3u8
+#EXTINF:0, --KBS
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:kbs_hls.smil/playlist.m3u8
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH VP9[/COLOR]  
+http://115.146.126.226/chn/vtv1/v.m3u8
+#EXTINF:0, --VTV1   
+http://115.146.126.226/chn/vtv1/v.m3u8
+#EXTINF:0, --VTV2     
+http://115.146.126.226/chn/vtv2/v.m3u8
+#EXTINF:0, --VTV3 HD    
+http://115.146.126.226/chn/vtv3/v.m3u8
+#EXTINF:0, --VTV4   
+http://115.146.126.226/chn/vtv4/v.m3u8
+#EXTINF:0, --VTV6 HD    
+http://115.146.126.226/chn/vtv6/v.m3u8
+#EXTINF:0, --ANTV    
+http://115.146.126.226/chn/antv/v.m3u8
+#EXTINF:0, --QPVN    
+http://115.146.126.226/chn/qpvn/v.m3u8
+#EXTINF:0, --VOVTV    
+http://115.146.126.226/chn/vovtv/v.m3u8
+#EXTINF:0, --VTVcab 2 - Phim Việt 
+http://115.146.126.226/chn/phimv/v.m3u8
+#EXTINF:0, --VTVCAB3 THỂ THAO TV HD 
+http://115.146.126.226/chn/tttv/v.m3u8
+#EXTINF:0, --VTV Cab 7 - Dramas    
+http://115.146.126.226/chn/ddra/v.m3u8
+#EXTINF:0, --VTV Cab 8 - BiBi    
+http://115.146.126.226/chn/bibi/v.m3u8
+#EXTINF:0, --VTVcab 10 - O2TV    
+http://115.146.126.226/chn/o2tv/v.m3u8
+#EXTINF:0, --VTVCAB16 BÓNG ĐÁ TV HD
+http://115.146.126.226/chn/bdtv/v.m3u8
+#EXTINF:0, --HÀ NỘI 1    
+http://115.146.126.226/chn/hn1/v.m3u8
+#EXTINF:0, --HÀ NỘI 2    
+http://115.146.126.226/chn/hn2/v.m3u8
+#EXTINF:0, --HTV7    
+http://115.146.126.226/chn/htv7/v.m3u8
+#EXTINF:0, --VTC1    
+http://115.146.126.226/chn/vtc1/v.m3u8
+#EXTINF:0, --VTC2    
+http://115.146.126.226/chn/vtc2/v.m3u8
+#EXTINF:0, --VTC3    
+http://115.146.126.226/chn/vtc3/v.m3u8
+#EXTINF:0, --VTC6 - SG Channel    
+http://115.146.126.226/chn/sgc6/v.m3u8
+#EXTINF:0, --VTC7 - TODAY TV    
+http://115.146.126.226/chn/tdayt/v.m3u8
+#EXTINF:0, --VTC9 - LET"S VIỆT    
+http://115.146.126.226/chn/letsv/v.m3u8
+#EXTINF:0, --VTC11 - Kids TV    
+http://115.146.126.226/chn/kids/v.m3u8
+#EXTINF:0, --VTC16 - 3NTV 
+http://115.146.126.226/chn/3ntv/v.m3u8
+#EXTINF:0, --ARIANG    
+http://115.146.126.226/chn/arirg/v.m3u8
+#EXTINF:0, --DISNEY    
+http://115.146.126.226/chn/disny/v.m3u8
+#EXTINF:0, --NICKELODEON    
+http://115.146.126.226/chn/nicke/v.m3u8
+#EXTINF:0, --STARWORLD    	   
+http://115.146.126.226/chn/starw/v.m3u8
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH VTC[/COLOR] 
+http://119.18.186.116:1935/live/vtc11_h/playlist.m3u8
+#EXTINF:0, --VTC1
+http://119.18.186.116:1935/live/vtc11_h/playlist.m3u8
+#EXTINF:0, --VTC2
+http://119.18.186.116:1935/live/vtc21_h/playlist.m3u8
+#EXTINF:0, --VTC10
+http://119.18.186.116:1935/live/vtc101_h/playlist.m3u8
+#EXTINF:0, --VTC11
+http://119.18.186.116:1935/live/vtc111_h/playlist.m3u8
+#EXTINF:0, --VTC14
+http://119.18.186.116:1935/live/vtc114_h/playlist.m3u8
+#EXTINF:0, --HN1
+http://119.18.186.116:1935/live/hanoi11_h/playlist.m3u8
+#EXTINF:0, --HTV7
+http://119.18.186.116:1935/live/htv7_h/playlist.m3u8
+#EXTINF:0, --HTV9
+http://119.18.186.116:1935/live/htv91_h/playlist.m3u8
+#EXTINF:0, --VTV1
+http://119.18.186.116:1935/live/vtv11_h/playlist.m3u8
+#EXTINF:0, --VTV2
+http://119.18.186.116:1935/live/vtv12_h/playlist.m3u8
+#EXTINF:0, --VTV3
+http://119.18.186.116:1935/live/vtv13_h/playlist.m3u8
+#EXTINF:0, --VTV4
+http://119.18.186.116:1935/live/vtv14_h/playlist.m3u8
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH AVG[/COLOR] 
+http://113.160.49.34/lives/origin03/nhacthieunhisd.isml/nhacthieunhisd.m3u8
+#EXTINF:0, --AVG01 Ca Nhạc Thiếu Nhi
+http://113.160.49.34/lives/origin03/nhacthieunhisd.isml/nhacthieunhisd.m3u8
+#EXTINF:0, --AVG02 BTV10
+http://113.160.49.34/lives/origin03/ncmsd.isml/ncmsd.m3u8
+#EXTINF:0, --AVG03 Miền Tây
+http://113.160.49.34/lives/origin03/mientaysd.isml/mientaysd.m3u8
+#EXTINF:0, --AVG04 Phim Hay
+http://113.160.49.34/lives/origin01/phimhaysd.isml/phimhaysd.m3u8
+#EXTINF:0, --AVG05 SAM
+http://113.160.49.34/lives/origin01/samsd.isml/samsd.m3u8
+#EXTINF:0, --AVG06 Việt Teen
+http://113.160.49.34/lives/origin03/vietteensd.isml/vietteensd.m3u8
+#EXTINF:0, --AVG07 Đọc Sách
+http://113.160.49.34/lives/origin01/docsachsd.isml/docsachsd.m3u8
+#EXTINF:0, --AVG08 Nhạc Cách Mạng
+http://113.160.49.34/lives/origin03/nhaccachmangsd.isml/nhaccachmangsd.m3u8
+#EXTINF:0, --AVG09 Nhạc Cổ Điển
+http://113.160.49.34/lives/origin01/nhaccodiensd.isml/nhaccodiensd.m3u8
+#EXTINF:0, --AVG10 Nhạc Dân Tộc
+http://113.160.49.34/lives/origin01/nhacdantocsd.isml/nhacdantocsd.m3u8
+#EXTINF:0, --AVG11 Nhạc Nam Bộ
+http://113.160.49.34/lives/origin03/nhacnambosd.isml/nhacnambosd.m3u8
+#EXTINF:0, --AVG12 Nhạc Nhẹ
+http://113.160.49.34/lives/origin03/nhacnhesd.isml/nhacnhesd.m3u8
+#EXTINF:0, --AVG13 Nhac Trẻ
+http://113.160.49.34/lives/origin03/nhactresd.isml/nhactresd.m3u8
+#EXTINF:0, --AVG14 Nhac Trữ Tình
+http://113.160.49.34/lives/origin03/nhactrutinhsd.isml/nhactrutinhsd.m3u8
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH LIVE.ACCESSASIA [/COLOR]  
+http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
+#EXTINF:0, --HTVC Thuần Việt
+http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
+#EXTINF:0, --VTV4 Thời Sự
+http://live.accessasia.tv:1935/vnptg_channels/mp4:vtv4.480p/playlist.m3u8
+#EXTINF:0, --VTVcab2 Phim Việt
+http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
+#EXTINF:0, --HTVC Du Lịch
+http://live.accessasia.tv:1935/vnptg_channels/mp4:dulichcuocsong.480p/playlist.m3u8
+#EXTINF:0, --SCTV14 Phim Việt
+http://live.accessasia.tv:1935/vnptg_channels/mp4:sctv14.480p/playlist.m3u8
+#EXTINF:0, --VTVcab4 Kenh17
+http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
+#EXTINF:0, --VTVcab10 O2TV
+http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
+#EXTINF:0, --SCTV Hài HD
+http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
+#EXTINF:0, --SCTV7 Sân Khấu
+http://live.accessasia.tv:1935/vnptg_channels/mp4:sctv7.480p/playlist.m3u8
+#EXTINF:0, --FBNC-Thông tin thương mại
+http://live.accessasia.tv:1935/vnptg_channels/mp4:htvcfbnc.480p/playlist.m3u8
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH HẢI NGOẠI-ONWORLDTV[/COLOR]  
+http://stream.onworldtv.com/live/sgn/index.m3u8
+#EXTINF:0,--SGN Channel
+http://stream.onworldtv.com/live/sgn/index.m3u8
+#EXTINF:0,--Vietnamese American Network Television
+http://stream.onworldtv.com/live/van/index.m3u8
+#EXTINF:0,--Little Saigon Channel
+http://stream.onworldtv.com/live/lstv/index.m3u8
+#EXTINF:0,--BYN Channel
+http://stream.onworldtv.com/live/byn/index.m3u8
+#EXTINF:0,--The Gioi Tu Thien Channel
+http://stream.onworldtv.com/live/thegioituthien/index.m3u8
+#EXTINF:0,--ITV Shopping
+http://stream.onworldtv.com/live/itvshop/index.m3u8
+#EXTINF:0,--Viet USA Television
+http://stream.onworldtv.com/live/vus/index.m3u8
+#EXTINF:0,--News 24 Giờ
+http://stream.onworldtv.com/live/news24/index.m3u8
+#EXTINF:0,--MTV 24 Giờ
+http://stream.onworldtv.com/live/mtv24/index.m3u8
+#EXTINF:0,--Phim 24 Giờ
+http://stream.onworldtv.com/live/film24/index.m3u8
+#EXTINF:0,--Cười 24 Giờ
+http://stream.onworldtv.com/live/laugh24/index.m3u8
+#EXTINF:0,--Canal 6 TV Channel
+http://stream.onworldtv.com/live/canal6/index.m3u8
+#EXTINF:0,--CampusTV HD
+http://stream.onworldtv.com/live/campus/index.m3u8
+#EXTINF:0,--Teleprogreso TV
+http://stream.onworldtv.com/live/teleprogreso/index.m3u8
+#EXTINF:0,--TV Centro
+http://stream.onworldtv.com/live/centrotv/index.m3u8
+#EXTINF:0,--Teleceiba TV Channel
+http://stream.onworldtv.com/live/teleceiba/index.m3u8
+#EXTINF:0,--ACTIVA TV
+http://stream.onworldtv.com/live/activatv/index.m3u8
+#EXTINF:0,--GRT Channel
+http://stream.onworldtv.com/live/grt/index.m3u8
+#EXTINF:0,--SOL Channel
+http://stream.onworldtv.com/live/sol/index.m3u8
+#EXTINF:0,--TVO TV Channel
+http://stream.onworldtv.com/live/tvo/index.m3u8
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH HẢI NGOẠI-VIETV[/COLOR]  
+http://hls12.las.v247tv.com:8081/live/vietv-hou1/playlist.m3u8
+#EXTINF:0, --Houston
+http://hls12.las.v247tv.com:8081/live/vietv-hou1/playlist.m3u8
+#EXTINF:0, --Dalas
+http://hls12.las.v247tv.com:8081/live/vftv-dal1/playlist.m3u8
+#EXTINF:0, --Los Angeles
+http://hls12.las.v247tv.com:8081/live/vietv-oc1/playlist.m3u8
+#EXTINF:0, --San Jose
+http://hls12.las.v247tv.com:8081/live/vietv-sjo1/playlist.m3u8
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH HẢI NGOẠI-VIETTV24[/COLOR]  
+http://83.170.111.147/liveStream/viettv24_1/playlist.m3u8
+#EXTINF:0, --Viettv24
+http://83.170.111.147/liveStream/viettv24_1/playlist.m3u8
+#EXTINF:0, --MTV Việt
+http://83.170.111.147/liveStream/mtv_1/playlist.m3u8
+#EXTINF:0, --Cải Lương
+http://83.170.111.147/liveStream/cailuong_1/playlist.m3u8
+#EXTINF:0, --Hài
+http://83.170.111.147/liveStream/hai_1/playlist.m3u8
+#EXTINF:0, --VPOP
+http://83.170.111.147/liveStream/vpoptv_1/playlist.m3u8
+#EXTINF:0, --Đồng Giao
+http://83.170.111.147/liveStream/dgtv_1/playlist.m3u8
+#EXTINF:0, --Viet Face
+http://83.170.111.147/liveStream/vface_1/playlist.m3u8
+#EXTINF:0, --VietSun
+http://83.170.111.147/liveStream/vietsuntv_1/playlist.m3u8
+#EXTINF:0, --Phật Từ Bi
+http://83.170.111.147/liveStream/ptb_1/playlist.m3u8
+#EXTINF:0, --Ngôi Nhà Mơ Ước
+http://83.170.111.147/liveStream/vietvla_1/playlist.m3u8
+#EXTINF:0, --Tuổi Thần Tiên
+http://83.170.111.147/liveStream/ttt_1/playlist.m3u8
+#EXTINF:0, --Ẩm Thực
+http://83.170.111.147/liveStream/vnatv_1/playlist.m3u8
+#EXTINF:0, --Ngôi Nhà Vui Vẻ
+http://83.170.111.147/liveStream/BBBG_1/playlist.m3u8
+#EXTINF:0, --DÁM TV
+http://83.170.111.147/liveStream/DAMTV_1/playlist.m3u8
+#EXTINF:0, --Luật Pháp
+http://83.170.111.147/liveStream/lstv_1/playlist.m3u8
+#EXTINF:0, --Du Lịch
+http://83.170.111.147/liveStream/kvla_1/playlist.m3u8
+#EXTINF:0, --Fashion
+http://83.170.111.147/liveStream/set_1/playlist.m3u8
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH HẢI NGOẠI-NVTV[/COLOR]  
+http://206.190.140.142/liveStream/kvla_1/playlist-2096k.m3u8
+#EXTINF:0,--KVLA 56.5 Cali
+http://206.190.140.142/liveStream/kvla_1/playlist-2096k.m3u8
+#EXTINF:0,--VZN TV Houston TX
+http://206.190.136.254/liveStream/vantv_1/playlist.m3u8
+#EXTINF:0,--VietV LA
+http://206.190.140.142/liveStream/vietvla_1/playlist-2096k.m3u8
+#EXTINF:0,--VietTV 24
+http://83.170.111.147:1935/liveStream/viettv24_1/playlist-2096k.m3u8
+#EXTINF:0,--VietV Houston TX
+http://hls12.las.v247tv.com:8081/live/vietv-oc1/playlist-2096k.m3u8
+#EXTINF:0,--VietSun TV 57.11 Cali
+http://206.190.136.254/liveStream/vietsuntv_1/playlist-2096k.m3u8
+#EXTINF:0,--VNA TV 57.3 Cali
+http://206.190.140.142/liveStream/vnatv_1/playlist-2096k.m3u8
+#EXTINF:0,--VBS TV
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist-2096k.m3u8
+#EXTINF:0,--VietFace TV 57.2 Cali
+http://206.190.140.142/liveStream/vface_1/playlist-2096k.m3u8
+#EXTINF:0,--VietFace TV 54.4 Houston TX
+http://hls12.las.v247tv.com:8081/live/vietv-hou1/playlist-2096k.m3u8
+#EXTINF:0,--SET 57.4 Cali
+http://206.190.140.142:1935/liveStream/set_1/playlist-2096k.m3u8
+#EXTINF:0,--SaigonTV Dallas TX 55.3
+rtmp://origin3-edge1.yourstreamlive.com:1935/live/yourstreamlive/out_1651_211xdnzd?platform=Computer
+#EXTINF:0,--SaigonTV 57.5 Cali
+http://74.63.219.99:1935/sgvp/myStream.sdp/playlist-2096k.m3u8
+#EXTINF:0,--Little Saigon TV 57.7 Cali
+http://206.190.140.142/liveStream/lstv_1/playlist-2096k.m3u8
+#EXTINF:0,--IBC TV 57.8 Cali
+http://206.190.140.142:1935/liveStream/ibctv_1/playlist-2096k.m3u8
+#EXTINF:0,--Dong Giao TV
+http://206.190.140.142/liveStream/dgtv_1/playlist-2096k.m3u8
+#EXTINF:0,--MTV Viet TV
+http://206.190.140.142/liveStream/mtv_1/playlist-2096k.m3u8
+#EXTINF:0,--VPop TV
+http://206.190.136.254/liveStream/vpoptv_1/playlist-2096k.m3u8
+#EXTINF:0,--Viet Media TV
+http://206.190.140.142/liveStream/viettv24_1/playlist-2096k.m3u8
+#EXTINF:0,--CaiLuong TV
+http://206.190.136.254/liveStream/cailuong_1/playlist-2096k.m3u8
+#EXTINF:0,--Hai TV
+http://206.190.140.142/liveStream/hai_1/playlist-2096k.m3u8
+#EXTINF:0,--Tuoi Than Tien TV
+http://206.190.140.142/liveStream/ttt_1/playlist-2096k.m3u8
+#EXTINF:0,--VietNews
+rtmp://69.178.181.93:1935/VietNews/myStream
+#EXTINF:0,--Pho Viet TV
+http://69.178.181.93:1935/phoviettv/myStream/playlist-2096k.m3u8
+#EXTINF:0,--MTV Viet
+http://64.62.143.5:1935/live/do%20not%20steal%20my-Stream1/playlist.m3u8
+
+#EXTINF:0, [COLOR yellow]NHOM KENH VTVcab[/COLOR]  
+rtmp://123.29.69.69/live//VTVCab1_600k
+#EXTINF:-1,VTVCab 01
+rtmp://123.29.69.69/live//VTVCab1_600k
+#EXTINF:-1,VTVCab 02
+rtmp://123.29.69.69/live//VTVCab2_600k
+#EXTINF:-1,VTVCab 03
+rtmp://123.29.69.69/live//VTVCab3_600k
+#EXTINF:-1,VTVCab 04
+rtmp://123.29.69.69/live//VTVCab4_600k
+#EXTINF:-1,VTVCab 05
+rtmp://123.29.69.69/live//VTVCab5_600k
+#EXTINF:-1,VTVCab 06
+rtmp://123.29.69.69/live//VTVCab6_600k
+#EXTINF:-1,VTVCab 07
+rtmp://123.29.69.69/live//VTVCab7_600k
+#EXTINF:-1,VTVCab 08
+rtmp://123.29.69.69/live//VTVCab8_600k
+#EXTINF:-1,VTVCab 12
+rtmp://123.29.69.69/live//VTVCab12_600k
+#EXTINF:-1,VTVCab 16
+rtmp://123.29.69.69/live//VTVCab16_600k
+#EXTINF:-1,VTVCab 17
+rtmp://123.29.69.69/live//VTVCab17_600k
+
+
+#EXTINF:0, [COLOR yellow]NHOM KENH TONG HOP[/COLOR]  
+rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
+#EXTINF:0, --N+ Nhaccuatui
+rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
+#EXTINF:0, --ITV
+http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/playlist.m3u8
+#EXTINF:0, --Bibi
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:bibi_hls.smil/playlist.m3u8
+#EXTINF:0, --TOM&JERRY 
+rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
+#EXTINF:0, --CN
+http://113.160.49.34/lives/origin03/carsd.isml/carsd-1096k.m3u8
+
+
+#EXTINF:0, [COLOR yellow]NHOM KENH THỂ THAO-VNZEE[/COLOR]  
+http://tv.vnzee.com/live/beinsports1~ztv_CND_partner.m3u8
+#EXTINF:0, --Bein1
+http://tv.vnzee.com/live/beinsports1~ztv_CND_partner.m3u8
+#EXTINF:0, --Bein2
+http://tv.vnzee.com/live/beinsports2~ztv_CND_partner.m3u8
+#EXTINF:0, --Bein2
+http://tv.vnzee.com/live/beinsports3~ztv_CND_partner.m3u8
+#EXTINF:0, --EUROSport 1
+http://tv.vnzee.com/live/eurosport~ztv_CND_partner.m3u8
+#EXTINF:0, --EUROSport 1
+http://tv.vnzee.com/live/eurosport2~ztv_CND_partner.m3u8
+#EXTINF:0, --EUROSport News
+http://tv.vnzee.com/live/eurosportnews~ztv_CND_partner.m3u8
+
+#EXTINF:0, [COLOR yellow]NHOM KENH TEST[/COLOR] 
+
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, KVLA 56.5 Cali
+http://206.190.140.142/liveStream/kvla_1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, VZN TV Houston TX
+http://206.190.136.254/liveStream/vantv_1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, VietV LA
+http://206.190.140.142/liveStream/vietvla_1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, VietTV 24
+http://83.170.111.147:1935/liveStream/viettv24_1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, VietV Houston TX
+http://hls12.las.v247tv.com:8081/live/vietv-oc1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, VietSun TV 57.11 Cali
+http://206.190.136.254/liveStream/vietsuntv_1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, VNA TV 57.3 Cali
+http://206.190.140.142/liveStream/vnatv_1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, VBS TV
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, VietFace TV 57.2 Cali
+http://206.190.140.142/liveStream/vface_1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, VietFace TV 54.4 Houston TX
+http://hls12.las.v247tv.com:8081/live/vietv-hou1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, SET 57.4 Cali
+http://206.190.140.142:1935/liveStream/set_1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, Itv HomeShopping
+http://stream.onworldtv.com/live/itvshop/index.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, SGN TV Houston TX 51.3
+http://stream.onworldtv.com/live/sgn/index.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, SaigonTV Dallas TX 55.3
+rtmp://origin3-edge1.yourstreamlive.com:1935/live/yourstreamlive/out_1651_211xdnzd?platform=Computer
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, SaigonTV 57.5 Cali
+http://74.63.219.99:1935/sgvp/myStream.sdp/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, Little Saigon TV 57.7 Cali
+http://206.190.140.142/liveStream/lstv_1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, IBC TV 57.8 Cali
+http://206.190.140.142:1935/liveStream/ibctv_1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, Dong Giao TV
+http://206.190.140.142/liveStream/dgtv_1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, MTV Viet TV
+http://206.190.140.142/liveStream/mtv_1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, VPop TV
+http://206.190.136.254/liveStream/vpoptv_1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, Viet Media TV
+http://206.190.140.142/liveStream/viettv24_1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, CaiLuong TV
+http://206.190.136.254/liveStream/cailuong_1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, Hai TV
+http://206.190.140.142/liveStream/hai_1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, Tuoi Than Tien TV
+http://206.190.140.142/liveStream/ttt_1/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, VietNews
+rtmp://69.178.181.93:1935/VietNews/myStream
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, Pho Viet TV
+http://69.178.181.93:1935/phoviettv/myStream/playlist-2096k.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, Viet USA TV
+http://stream.onworldtv.com/live/vus/index.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, Phim 24h
+http://stream.onworldtv.com/live/film24/index.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, Cuoi 24h
+http://stream.onworldtv.com/live/laugh24/index.m3u8
+#EXTINF:-1 tvg-logo=”haingoai.png” group-title=”HAINGOAI”, BYN TV Houston TX 57.3
+http://stream.onworldtv.com/live/byn/index.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTVCab 1 GiaiTri TV
+http://118.69.184.20:80/vtvlive/smil:giaitritv_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTVCab 2 HD
+http://118.69.184.20:80/vtvlive/smil:phimviet_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTVCab 2 Phim Viet
+rtmp://123.29.69.69/live//VTVCab2_600k
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTVCab 3 HD THỂ THAO
+http://tv.vnzee.com/live/bongdatv~ztv_CND_partner.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTVCab 4 Kenh17
+http://118.69.184.20:80/vtvlive/smil:kenh17_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTVCab 4
+http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTVCab 5 E CHANNEL
+rtmp://123.29.69.69/live//VTVCab5_600k
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTVCab 6 HAY TV
+rtmp://123.29.69.69/live/VTVCab6_600k
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTVCab 7 Drama
+rtmp://123.29.69.69/live//VTVCab7_600k
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTVCab 8 BiBi
+http://118.69.184.20:80/vtvlive/smil:bibi_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTVCab 9 INFO TV
+http://118.69.184.20:80/vtvlive/smil:infotv_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTVCab 10
+rtmp://123.29.69.69/live//VTVCab10_600k
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTVCab 10 O2TV
+http://118.69.184.20:80/vtvlive/smil:o2tv_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTVCab 12 STYLE TV
+http://tv.vnzee.com/live/styletv~ztv_CND_partner.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTVCab 15 Invest TV
+http://118.69.184.20:80/vtvlive/smil:investtv_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTVCad 16 HD Bong Da
+rtmp://123.29.69.69/live/VTVCab16_600k
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”,VTVCab 17 YEAH! TV
+rtmp://123.29.69.69/live//VTVCab17_600k
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTV Cần Thơ 1
+rtmp://113.161.204.167:1935/livepkgr/livestream
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTV1 HD
+http://118.69.184.20:80/vtvlive/smil:vtv1hd_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTV1 HD2
+http://tv.vnzee.com/live/vtv1hd~ztv_CND_partner.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTV2
+rtmp://119.18.186.116/live/vtv2
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTV3 HD
+http://118.69.184.20:80/vtvlive/smil:vtv3hd_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTV3 HD2
+http://tv.vnzee.com/live/vtv3hd~ztv_CND_partner.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTV4
+http://222.255.27.137/vtv4.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTV6 HD
+http://118.69.184.20:80/vtvlive/smil:vtv6hd_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTV6 HD2
+http://tv.vnzee.com/live/vtv6hd~ztv_CND_partner.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTV9
+http://112.197.2.154:1935/colive/vtv9_2/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTV Phu Yen
+rtmp://113.161.4.102/live/vtvphuyen.tv
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTV Can Tho 1
+http://sctv.live.cdn.anluong.info/live/C063_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VTV Can Tho 2
+rtmp://113.161.204.168:1935/livepkgr/livestream1
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VOV TV
+rtmp://210.245.60.242/vovtv/vovtv
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@1 HD1
+http://113.160.49.34/lives/origin03/vtchd1hd.isml/vtchd1hd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@1
+http://113.160.49.34/lives/origin01/vtc1sd.isml/vtc1sd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@2 HD2
+http://113.160.49.34/lives/origin03/vtchd2hd.isml/vtchd2hd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@2
+http://113.160.49.34/lives/origin01/vtc2sd.isml/vtc2sd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@3
+rtmp://123.30.191.207/vtc3/live?e=1421658003&st=btQ68e817twTspulGt_9uA
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@3 HD TheThao
+http://113.160.49.34/lives/origin03/vtc3hd.isml/vtc3hd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@4 YEAH1 FAMILY
+http://113.160.49.34/lives/origin01/vtc4sd.isml/vtc4sd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@5
+http://113.160.49.34/lives/origin01/vtc5sd.isml/vtc5sd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@6
+http://113.160.49.34/lives/origin01/vtc6sd.isml/vtc6sd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@7 Today
+http://113.160.49.34/lives/origin01/vtc7sd.isml/vtc7sd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@8
+http://113.160.49.34/lives/origin01/vtc8sd.isml/vtc8sd-1096k.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@9 Let'sViet'
+http://14.161.5.88:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@10
+http://113.160.49.34/lives/origin01/vtc10sd.isml/vtc10sd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@11 Kids TV
+http://113.160.49.34/lives/origin01/vtc11sd.isml/vtc11sd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@12
+http://113.160.49.34/lives/origin01/vtc12sd.isml/vtc12sd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@13 iTV1
+rtmp://live.kenhitv.vn/liveweb/itv_web_500k.stream
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@14
+rtmp://117.103.224.31/live/livestream
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, VT@16
+http://113.160.49.34/lives/origin01/vtc16sd.isml/vtc16sd-1096k.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, ITV
+rtmp://live.kenhitv.vn/liveweb/itv_web_500k.stream
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, ITV HD
+http://113.160.49.34/lives/origin03/itvhd.isml/itvhd-2096k.m3u8
+ 
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV1
+http://sctv.live.cdn.anluong.info/live/C027_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV2
+http://sctv.live.cdn.anluong.info/live/C028_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV3
+http://sctv.live.cdn.anluong.info/live/C029_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV4
+http://sctv.live.cdn.anluong.info/live/C030_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV5
+http://sctv.live.cdn.anluong.info/live/C037_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV6
+http://sctv.live.cdn.anluong.info/live/C038_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV7
+http://sctv.live.cdn.anluong.info/live/C039_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV8
+http://sctv.live.cdn.anluong.info/live/C040_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV9 TVB VN
+http://sctv.live.cdn.anluong.info/live/C041_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV10
+http://sctv.live.cdn.anluong.info/live/C064_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV11
+http://sctv.live.cdn.anluong.info/live/C066_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV12
+http://sctv.live.cdn.anluong.info/live/C067_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV13
+http://sctv.live.cdn.anluong.info/live/C031_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV14
+http://live.accessasia.tv:1935/vnptg_channels/sctv14.480p/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV15
+http://sctv.live.cdn.anluong.info/live/C042_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV16
+http://sctv.live.cdn.anluong.info/live/C033_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV17
+http://sctv.live.cdn.anluong.info/live/C034_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV-Hài
+http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV HD THE THAO
+http://sctv.live.cdn.anluong.info/live/C008_HD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, SCTV HD Phim Nuoc Ngoai
+http://sctv.live.cdn.anluong.info/live/C033_SD_3/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTV1
+http://vctv.anluong.info:1935/live/HTV1_600k/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTV2
+http://vctv.anluong.info:1935/live/HTV2_600k/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTV3
+http://vctv.anluong.info:1935/live/HTV3_600k/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTV4
+http://vctv.anluong.info:1935/live/HTV4_600k/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTV7 HD
+http://dvr.cdn.fptplay.net/dvr01/htv7_1000.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTV7
+rtmp://119.18.186.116/live/htv7
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTV9
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:htv9_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTV THỂ THAO
+http://vctv.anluong.info:1935/live/HTVCTheThao_600k/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTVC Ca Nhac
+http://vctv.anluong.info:1935/live/HTVCCaNhac_600k/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTVC+ HD
+http://vctv.anluong.info:1935/live/HTVCPlusHD_600k/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTVC DU LỊCH
+http://vctv.anluong.info:1935/live/HTVCDuLich_600k/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTVC GIA ĐÌNH
+http://vctv.anluong.info:1935/live/HTVCGiaDinh_600k/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTVC PHIM HD
+http://vctv.anluong.info:1935/live/HTVCPhim_600k/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTVC PHU NU
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:htvcphunu_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, THUẦN VIỆT HD
+http://live.accessasia.tv:1935/vnptg_channels/mp4:thuanviet.480p/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTVC KTV
+rtmp://118.69.198.109/live/video
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTVC N+ HD
+rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.gonct.info/public/flash/rtmp-3.swf pageUrl=http://www.123tivi.com/2013/03/xem-kenh-nhac-cua-tui-nct-online.html
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTVC QPVN HD
+http://113.160.49.34/lives/origin02/qptvsd.isml/qptvsd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTVC TTXVN
+http://221.132.35.168:1935/tv/ttxtv/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTVC PHIM HAY
+http://113.160.49.34/lives/origin01/phimhaysd.isml/phimhaysd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTVC NHAC TRE
+http://113.160.49.34/lives/origin03/nhactresd.isml/nhactresd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTVC ITV HD
+rtmp://live.kenhitv.vn/liveweb/itv_web_500k.stream
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTVC AXN HD
+http://113.160.49.34/lives/origin03/axnhd.isml/axnhd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HTVC FBNC TV
+http://live.accessasia.tv:1935/vnptg_channels/htvcfbnc.480p/playlist.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, PHIM HAY HD
+http://113.160.49.34/lives/origin01/phimhaysd.isml/phimhaysd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, DU LICH & CUOC SONG
+http://live.accessasia.tv:1935/vnptg_channels/mp4:dulichcuocsong.480p/playlist.m3u8
+#EXTINF:-1, VIET$TEEN
+http://113.160.49.34/lives/origin03/vietteensd.isml/vietteensd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HGTV Hau Giang
+rtmp://115.78.160.29/live//thhg
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, BTV Bạc Liêu
+rtmp://118.69.205.213/livepkgr/livestream1
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, THBT Bến Tre
+rtmp://113.163.94.245/live/Stream
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, THKG KIEN GIANG
+http://113.160.49.34/lives/origin02/kg1sd.isml/kg1sd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, THTV TRA VINH
+http://113.160.49.34/lives/origin02/thtvsd.isml/thtvsd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, LẠNG SƠN TV
+rtmp://123.18.206.40/live/ playpath=livestream swfUrl=http://hktivi.name.vn/player.swf pageUrl=http://hktivi.name.vn/kenh/langson.php swfVfy=true live=true timeout=60
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, BRT Bà Rịa Vũng Tàu
+rtmp://113.163.216.24/live/livestream
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, BTV1 Bình Dương
+rtmp://202.43.109.147/live/btv1.stream?token=nothing&time=null
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, BPTV 2
+http://113.160.49.34/lives/origin02/bptv2sd.isml/bptv2sd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, BTV11 HD Sam
+http://113.160.49.34/lives/origin01/samsd.isml/samsd-1096k.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, DongNai 1 RTV
+http://113.160.49.34/lives/origin02/dn1sd.isml/dn1sd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, DongNai 2 RTV
+http://113.160.49.34/lives/origin02/dn2sd.isml/dn2sd-1096k.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, THVL 1 Vĩnh Long
+http://113.160.49.34/lives/origin01/vinhlongsd.isml/vinhlongsd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, THVL 2 Vĩnh Long
+http://113.160.49.34/lives/origin02/thvl2sd.isml/thvl2sd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, ANTV
+http://113.160.49.34/lives/origin02/antvsd.isml/antvsd-1096k.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, ANT1 An Giang
+rtmp://113.161.212.25/live/atv1
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, ANT2 An Giang
+rtmp://113.161.212.25/live2/atv2
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, Mien Tay THDT2
+http://113.160.49.34/lives/origin03/mientaysd.isml/mientaysd.m3u8
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, STV1 Sóc Trăng
+rtmp://115.78.3.164/live/stv1
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, STV2 Sóc Trăng
+rtmp://115.78.3.164/live/stv3
+#EXTINF:-1 tvg-logo=”vietnam.png” group-title=”VIETNAM”, HA NOI 1
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:hanoi1_hls.smil/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”, Tyson Soccer
+http://hls.cn.ru/streaming/futbol/tvrec/playlist.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”, PAC12 Sport Net (Los Angeles) HD
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”, PAC12 Sport Net (Arizona) HD
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”,PAC12 Sport Net (Bay Area) HD
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”,PAC12 Sport Net (Los Angeles)
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”,PAC12 Sport Net (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”,PAC12 Sport Net (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”,PAC Mountain HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”,PAC National
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”, FOX Sports HD
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd.m3u8
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”, FOX Sports HD External
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”, FOX Sports in Chinese
+rtmp://hktv2.ts33.net:1935/sat/tv73
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”, FOX Sports 1
+rtmp://skystreams.info:1935/live/fs1
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”, FOX Sports 2
+rtmp://hktv2.ts33.net:1935/sat/tv74
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”, VIASAT Sport
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”, WWE 24/7
+rtmp://31.220.0.12/pull/idntvch33h1?keys=OPMfhnheSOEyCg6obkecaw&keyt=1423548132
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”, Fight Box
+http://stream.zoovision.com:1935/livespi/fightbox/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”, FIGHT CHANNEL
+http://83.139.104.112/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,BT SPORT 1
+http://37.48.118.32/live/bt1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,BT SPORT 2
+http://37.48.118.32/live/bt2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”,SKY SPORTS NEWS
+http://37.48.118.32/live/skysportsnews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY SPORT 1
+http://37.48.118.32/live/skysports1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY SPORT 2
+http://37.48.118.32/live/skysports2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY SPORT 3
+http://37.48.118.32/live/skysports3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY SPORT 4
+http://37.48.118.32/live/skysports4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY SPORT 5
+http://37.48.118.32/live/skysports5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY SPORT F1
+http://37.48.118.32/live/skysportsf1/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”, Sky boxnation
+http://37.48.118.32/live/boxnation.stream/playlist.m3u8
+ 
+
+
+
+#EXTM3U $ExtFilter=”SKY-UK”
+#EXTM3U $ExtFilter=”LATINO”
+#EXTM3U $ExtFilter=”USA” 
+
+#EXTINF:0,*** USA UK & MEXICO TV ********************
+http://www.psywarrior.com/USAFlag001.gif
+ 
+ 
+ 
+#EXTINF:0,N1 Televizija
+http://83.139.104.112/Content/HLS/Live/Channel(n1)/Stream(03)/index.m3u8
+#EXTINF:0,Viasat History
+http://83.139.104.112/Content/HLS/Live/Channel(Viasat_History)/Stream(03)/index.m3u8
+#EXTINF:0,Viasat Explore
+http://83.139.104.112/Content/HLS/Live/Channel(Viasat_Explore)/Stream(03)/index.m3u8
+#EXTINF:0,Animal Planet
+http://83.139.104.112/Content/HLS/Live/Channel(Animal_Planet)/Stream(03)/index.m3u8
+#EXTINF:0,Discovery Channel
+http://83.139.104.112/Content/HLS/Live/Channel(Discovery_Channel)/Stream(03)/index.m3u8
+#EXTINF:0,Cinestar TV
+http://83.139.104.112/Content/HLS/Live/Channel(Cinestar_TV)/Stream(03)/index.m3u8
+#EXTINF:0,Cinestar Action & Thriller
+http://83.139.104.112/Content/HLS/Live/Channel(Cinestar_Action_and_Thriller)/Stream(03)/index.m3u8
+#EXTINF:0,Cinestar Premiere
+http://83.139.104.112/Content/HLS/Live/Channel(Cinestar_Premiere_1)/Stream(03)/index.m3u8
+#EXTINF:0,Cinestar Premiere 2
+http://83.139.104.112/Content/HLS/Live/Channel(Cinestar_Premiere_2)/Stream(03)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,DISCOVERY
+http://cdn-02.sdn.si/discoverychannel/discoverychannel.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,ANIMAL PLANET
+http://cdn-02.sdn.si/animalplanet/animalplanet.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, NAT GEO
+http://cdn-02.sdn.si/natgeo/natgeo.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, NAT GEO WILD
+http://cdn-02.sdn.si/natgeowild/natgeowild.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,TRAVEL CHANNEL
+http://cdn-02.sdn.si/travelchannel/travelchannel.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, DAVINCI LEARNING
+http://cdn-02.sdn.si/davincilearning/davincilearning.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, HISTORY
+http://cdn-02.sdn.si/historychannel/historychannel.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, GINX
+http://cdn-02.sdn.si/ginx/ginx.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,CRIME INVESTIGATION
+http://cdn-02.sdn.si/crimeinvestigation/crimeinvestigation.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,BBC KNOWLEDGE
+http://cdn-02.sdn.si/bbcknowledge/bbcknowledge.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,TLC
+http://cdn-02.sdn.si/tlc/tlc.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,OBN
+http://cdn-02.sdn.si/obn/obn.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,HAYAT PLUS
+http://cdn-02.sdn.si/hayat/hayat.m3u8
+ 
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,CINEMAX
+http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, HBO HD
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, STAR MOVIE HD
+http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, AXN HD
+http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, OUTDOOR
+http://cdn-02.sdn.si/outdoorchannel/outdoorchannel.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,FOX
+http://cdn-02.sdn.si/fox/fox.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,FOX CRIME
+http://cdn-02.sdn.si/foxcrime/foxcrime.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,FOX LIFE
+http://cdn-02.sdn.si/foxlife/foxlife.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,FOX MOVIES
+http://cdn-02.sdn.si/foxmovies/foxmovies.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,POP KINO
+http://cdn-02.sdn.si/popkino/popkino.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,POP OTO
+http://cdn-02.sdn.si/popoto/popoto.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,BRIO
+http://cdn-02.sdn.si/popbrio/popbrio.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,CARTOON NETWORK
+http://cdn-02.sdn.si/cartoonnetwork/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,DISNEY HD
+http://cdn-02.sdn.si/disneychannel/disneychannel.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,DISNEY XD HD
+http://cdn-02.sdn.si/disneyxd/disneyxd.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,NICKELODEON HD
+http://cdn-02.sdn.si/nickelodeon/nickelodeon.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,BOOMERANG HD
+http://cdn-02.sdn.si/boomerang/boomerang.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,JIMJAM HD
+http://cdn-02.sdn.si/jimjam/jimjam.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,BABY TV
+http://cdn-02.sdn.si/babytv/babytv.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,EXTREME SPORTS
+http://cdn-02.sdn.si/extreme/extreme.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,MTV ADRIA
+http://cdn-02.sdn.si/mtvadria/mtvadria.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,FASHION
+http://cdn-02.sdn.si/fashiontv/fashiontv.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,MTV ROCK
+http://cdn-02.sdn.si/mtvrocks/mtvrocks.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,MTV HITS
+http://cdn-02.sdn.si/mtvhits/mtvhits.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,MTV DANCE
+http://cdn-02.sdn.si/mtvdance/mtvdance.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,VH1
+http://cdn-02.sdn.si/vh1/vh1.m3u8
+#EXTINF:-1,VH1 CLASSIC
+http://cdn-02.sdn.si/vh1classic/vh1classic.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,CMC
+http://cdn-02.sdn.si/cmc/cmc.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,TV GOLICA
+http://cdn-02.sdn.si/tvgolica/tvgolica.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,HRT 1
+http://cdn-02.sdn.si/hrt1/hrt1.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,HRT 2
+http://cdn-02.sdn.si/hrt2/hrt2.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,ORF 1
+http://cdn-02.sdn.si/orf1/orf1.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,RAI 1
+http://cdn-02.sdn.si/rai1/rai1.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,RTCG SAT
+http://cdn-02.sdn.si/rtcg/rtcg.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,RTS SAT
+http://cdn-02.sdn.si/rts/rts.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,PRO 7
+http://cdn-02.sdn.si/pro7/pro7.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,CBS DRAMA
+http://cdn-02.sdn.si/cbsdrama/cbsdrama.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,VH1
+http://cdn-02.sdn.si/vh1/vh1.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,VH1 CLASSIC
+http://cdn-02.sdn.si/vh1classic/vh1classic.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,FOX CRIME
+http://cdn-02.sdn.si/foxcrime/foxcrime.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,FOX LIFE
+http://cdn-02.sdn.si/foxlife/foxlife.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,FOX MOVIES
+http://cdn-02.sdn.si/foxmovies/foxmovies.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”,24 KITCHEN
+http://cdn-02.sdn.si/24kitchen/24kitchen.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”,TRAVEL CHANNEL
+http://cdn-02.sdn.si/travelchannel/travelchannel.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, ANIMAL PLANET
+http://cdn-02.sdn.si/animalplanet/animalplanet.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, BABY TV
+http://cdn-02.sdn.si/babytv/babytv.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, CARTOON NETWORK
+http://cdn-02.sdn.si/cartoonnetwork/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, CNBC
+http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/index_838_av-b.m3u8?sd=10&rebase=on timeout=10
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, CBS Drama
+http://cdn-02.sdn.si/cbsdrama/cbsdrama.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, CNN
+rtmp://edge1.everyon.tv/etv1/phd16
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, CNN Hightlight
+http://cdn-02.sdn.si/cnn/cnn.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, CRIME INVESTIGATION
+http://cdn-02.sdn.si/crimeinvestigation/crimeinvestigation.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, DISCOVERY CHANNEL
+http://cdn-02.sdn.si/discoverychannel/discoverychannel.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,Discovery Channel
+http://202.75.23.34:1400/live/ch29/02.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, DISNEY CHANNEL
+http://cdn-02.sdn.si/disneychannel/disneychannel.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, DISNEY XD
+http://cdn-02.sdn.si/disneyxd/disneyxd.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, Fashion TV HD
+rtmp://95.67.8.43:1935/live/fashionhd
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, CINECANAL +
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, EXTREME SPORTS
+http://cdn-02.sdn.si/extreme/extreme.m3u8
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX CINEMA
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, FOX CLASSICS
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX FAMILY
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, GOLDEN HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, HISTORY
+http://cdn-02.sdn.si/historychannel/historychannel.m3u8
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, SONY
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, UNIVERSAL HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, MTV Hits
+http://cdn-02.sdn.si/mtvhits/mtvhits.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, MTV Made Daily
+http://cdn-02.sdn.si/mtvadria/mtvadria.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, MTV Dance
+http://cdn-02.sdn.si/mtvdance/mtvdance.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, MTV Live
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, MTV Rock
+http://cdn-02.sdn.si/mtvrocks/mtvrocks.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,VEVO 1 HD (MusicV)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,VEVO 2 HD (MusicV)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,VEVO 3 HD (MusicV)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, NAT GEO WILD
+http://cdn-07.sdn.si/natgeowild/natgeowild.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, NAT GEO CHANNEL
+http://cdn-02.sdn.si/natgeo/natgeo.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, NICKELODEON
+http://cdn-02.sdn.si/nickelodeon/nickelodeon.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, TRAVEL CHANNEL
+http://cdn-02.sdn.si/travelchannel/travelchannel.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,Travel
+http://83.139.104.101/Content/HLS/Live/Channel(Travel_Channel)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,Food Network
+http://83.139.104.101/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, Star MOVIES HD
+rtmp://edge2.everyon.tv/etv2/phd877
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,eScapes HD TV
+http://204.107.26.252:1935/live/341.high.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, 5 Star HD
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,Boomerang
+http://x4012c4000.edge.core-cdn.net/40000mb/live/4012hbbtv/bloomberg.ts
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, BBC World
+http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,Fashion Box HD
+http://stream.zoovision.com:1935/livespi/fashionbox/chunklist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, NASA HD
+http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,Threshold
+http://204.107.26.230:1935/live/514.high.stream/HasBahCa.m3u8
+#EXTINF:0, CINEMAX 1 Broadcasting of Korea
+rtmp://edge2.everyon.tv/etv2/phd79
+#EXTINF:0, CINEMAX 2 Broadcasting of Korea
+rtmp://edge2.everyon.tv/etv2/phd509
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, FOX Family
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, HBO
+rtmp://rtmp.touhao1995.com:1935/tv/ttv16
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, Playy Movies
+rtmp://edge2.everyon.tv/etv2/phd743
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”, Premium TV HD
+rtmp://edge2.everyon.tv/etv2/phd513
+#EXTINF:-1,City of Boston TV English
+rtmp://streaming.cityofboston.gov/live/cable
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”USA”,Clubbing TV
+http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
+#EXTINF:0, FilmOn Action Cinema
+rtmp://204.107.26.230:8086/live/500.high.stream
+#EXTINF:0, FilmOn AFL Classic
+rtmp://204.107.26.230:8086/live/980.high.stream
+#EXTINF:0, FilmOn Action Zone
+rtmp://mi2.gv.filmon.com:8086/live/1045.high.stream
+#EXTINF:-1,FilmOn Classics
+rtmp://mi2.gv.filmon.com:8086/live/206.high.stream
+#EXTINF:-1,FilmOn Jazz and Blues
+rtmp://mi2.gv.filmon.com:8086/live/530.high.stream
+#EXTINF:-1,FilmOn Martial Arts
+rtmp://mi2.gv.filmon.com:8086/live/10.high.stream
+#EXTINF:-1,FilmOn Music Legends TV
+rtmp://mi2.gv.filmon.com:8086/live/257.high.stream
+#EXTINF:-1,Filmon QVC HD
+rtmp://204.107.26.252:8086/live/413.high.stream
+#EXTINF:-1,FilmOn 80's' HD
+rtmp://204.107.26.252:8086/live/514.high.stream
+#EXTINF:-1,FilmOn Psychic Today US/UK
+rtmp://204.107.26.252:8086/live/1711.high.stream
+#EXTINF:-1,FilmOn RSquared HD
+rtmp://mi2.gv.filmon.com:8086/live/256.high.stream
+#EXTINF:-1,FilmOn Time TV HD
+rtmp://204.107.26.252:8086/live/414.high.stream
+#EXTINF:-1,FilmOn ShowTime
+http://198.179.31.196/live/1693.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe8a2fdac506e353ce4e6cd2404527cf743c2e7ad18e18127ed5af40ca2af9b27081f416459ae9c4baf864caf6752dd10920d7db0a3cd5efc89f0f8e274e122824a10af4539eedf32163edf34fcc4144129d61202c2b5b853d801161c17df85aeb7538db63968934d6a872e17600dc1ca8b08264b57340698f8faeb6d940c02ae055f0df46072f79c452175393d939b4ed
+ 
+ 
+#EXTINF:-1,Pentagon Channel
+http://149.11.34.6:1935/live/pentagon.stream/hasbahca.m3u8
+#EXTINF:-1,Press TV
+http://204.107.26.252:1935/live/905.high.stream/HasBahCa.m3u8
+#EXTINF:-1,Psychic Today
+http://204.107.26.252:1935/live/1711.high.stream/HasBahCa.m3u8
+#EXTINF:-1,QVC HD
+http://204.107.26.252:1935/live/413.high.stream/HasBahCa.m3u8
+#EXTINF:-1,Sportskool
+http://204.107.26.252:1935/live/686.high.stream/HasBahCa.m3u8
+#EXTINF:-1,University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:-1,Vernnissage TV
+http://149.11.34.6:1935/live/vernissagetv.stream/hasbahca.m3u8
+#EXTINF:-1,Wealth TV
+http://204.107.26.252:1935/live/403.high.stream/HasBahCa.m3u8
+#EXTINF:-1,YouToo
+http://204.107.26.252:1935/live/773.high.stream/HasBahCa.m3u8
+#EXTINF:-1,USA TWit
+http://bglive-a.bitgravity.com/twit/live/high
+#EXTINF:-1,University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800
+#EXTINF:-1,The Florida Channel
+rtmp://webcasting.thefloridachannel.org/live/tvweb1
+#EXTINF:-1,DOD News
+rtmp://cp114761.live.edgefcs.net:443/live/tpc-live_1@44263
+ 
+ 
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DISCOVERY HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, HISTORY
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, NAT GEO WILD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TLC HD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, ANIMAL PLANET
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, NAT GEO
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TURBO
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, D SCI
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, D. CIVILIZATION
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, WOBI
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, PROYECTO 40
+http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, CINECANAL +
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, GOLDEN HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FILM ZONE HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DE PELICULA HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, AMC
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, SPACE HD
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, ESPN2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, AZTECA 7
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, MTV LIVE
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TELEHIT
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, BANDAMAX
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, A AND E
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, COMEDY CENTRAL
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, BBC
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, E
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, SYFY
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, INF
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, GOURMET
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, GLITZ
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX LIFE
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DISTRITO COMEDIA
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, CASA
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TELENOVELAS
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DISCOVERY KIDS
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, CBEEBIES
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DISNEY JR
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, NICK JR
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DISNEY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, NICK HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, NICK
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DISNEY XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TOONCAST
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DISCOVERY HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, HISTORY
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, NAT GEO WILD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TLC HD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, ANIMAL PLANET
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, NAT GEO
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TURBO
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, WOBI
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX CINEMA
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX FAMILY
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX CLASSICS
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, CINECANAL
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, GOLDEN EDGE
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, AMC
+http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, CANAL DE LAS ESTRELLAS
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FORO TV
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, CANAL 5
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, AZTECA 7
+http://200.76.77.237/LIVE/H01/CANAL107/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, CANAL ONCE
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, EL TRECE 1
+http://200.76.77.237/LIVE/H01/CANAL113/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, EL TRECE
+http://200.76.77.237/LIVE/H01/CANAL13/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, AZTECA 7
+http://200.76.77.237/LIVE/H01/CANAL17/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, PROYECTO 40 HD
+http://200.76.77.237/LIVE/H01/CANAL140/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, Teleformula
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, AZTECA NOTICIAS
+http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, EL TRECE HD
+http://200.76.77.237/LIVE/H01/CANAL23/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, SONY
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, WARNER HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, UNIVERSAL HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, A AND E
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, COMEDY CENTRAL
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, BBC
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, E
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, SYFY
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, INF
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, GOURMET
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, GLITZ
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX LIFE
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DISTRITO COMEDIA
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DISNEY JR
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, NICK JR
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DISNEY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, NICK HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, NICK
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DISNEY XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TOONCAST
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DISCOVERY HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, HISTORY
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, NAT GEO WILD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TLC HD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, ANIMAL PLANET
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, NAT GEO
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TURBO
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, D SCI
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, D. CIVILIZATION
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, WOBI
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, PROYECTO 40
+http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, CINECANAL +
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, GOLDEN HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FILM ZONE HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, DE PELICULA HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, AMC
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, SPACE HD
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX CINEMA
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX FAMILY
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, FOX CLASSICS
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, CINECANAL
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, GOLDEN EDGE
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, AMC
+http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, STUDIO UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, AZTECA 7
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, MTV LIVE
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, TELEHIT
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
+#EXTINF:-1 tvg-logo=”latino.png” group-title=”LATINO”, BANDAMAX
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”,BBC1
+http://37.48.118.32/live/bbc1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”,BBC2
+http://37.48.118.32/live/bbc2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”,BBC3
+http://37.48.118.32/live/bbc3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”,BBC4
+http://37.48.118.32/live/bbc4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”,ITV1
+http://37.48.118.32/live/itv1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”,ITV2
+http://37.48.118.32/live/itv2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”,ITV3
+http://37.48.118.32/live/itv3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”,ITV4
+http://37.48.118.32/live/itv4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, Cnn
+http://37.48.118.32/live/cnn.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, BBC news
+http://37.48.118.32/live/bbcnews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, Cnbc
+http://37.48.118.32/live/cnbc.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, arts 1
+http://37.48.118.32/live/skyarts1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, arts 2
+http://37.48.118.32/live/skyarts2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY 1
+http://37.48.118.32/live/sky1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY 2
+http://37.48.118.32/live/sky2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sport.png” group-title=”SPORT”,SKY NEWS
+http://37.48.118.32/live/skynews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, NAT GEO WILD
+http://37.48.118.32/live/natgeow.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, DISCOVERY
+http://37.48.118.32/live/discovery.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, ANIMAL PLANET
+http://37.48.118.32/live/animal.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, HISTORY
+http://37.48.118.32/live/history.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, DISNEY
+http://37.48.118.32/live/disney.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY MOVIES COMEDY
+http://37.48.118.32/live/skycomedy.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY MOVIES FAMILY
+http://37.48.118.32/live/mfamily.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY MOVIES SCI-FICTION
+http://37.48.118.32/live/mscifi.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY MOVIES ACTION
+http://37.48.118.32/live/maction.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY MOVIES DRAMA
+http://37.48.118.32/live/mdrama.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY LIVING
+http://37.48.118.32/live/living.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY LIVING IT
+http://37.48.118.32/live/livingit.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, CARTOON NETWORK
+http://37.48.118.32/live/cn.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, NICKELODEON
+http://37.48.118.32/live/nick.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, ATLANTIC
+http://37.48.118.32/live/skyatlantic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, RT HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, RTE 1
+http://176.31.182.148:8080/sky/rte1/index.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, RTE 2
+http://176.31.182.148:8080/sky/rte2/index.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, DISNEY
+http://176.31.182.148:8080/sky/disney/index.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, 5 STAR
+http://37.48.118.32/live/5usa.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, EURO SPORT 1
+http://37.48.118.32/live/eurosport1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, EURO SPORT 2
+http://37.48.118.32/live/eurosport2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, ALIBI
+http://37.48.118.32/live/alibi.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, YESTERDAY
+http://37.48.118.32/live/yesterday.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, RACING UK
+http://37.48.118.32/live/ukracing.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, FILM 4
+http://37.48.118.32/live/film4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, FOX
+http://37.48.118.32/live/fox.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SYFY
+http://37.48.118.32/live/syfy.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, DISCOVERY SCIENCE
+http://37.48.118.32/live/discoverys.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, COMEDY CENTRAL
+http://37.48.118.32/live/cc.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, CRIME INVESTIGATION
+http://37.48.118.32/live/ci.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, SKY SCIFI
+http://37.48.118.32/live/mscifi.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, GOLD
+http://37.48.118.32/live/ukgold.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, STAR PLUS
+http://176.31.182.148:8080/sky/starplus/index.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, E!
+http://37.48.118.32/live/e4.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=”sky.png” group-title=”SKY UK”, MOVIES PREMIERE
+http://37.48.118.32/live/mpremiere.stream/playlist.m3u8
+
+

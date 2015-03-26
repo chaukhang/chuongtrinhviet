@@ -1,0 +1,61 @@
+v 1.0.12
+dict
+
+v 1.0.11
+update
+
+v 1.0.10
+Add CaiLuong
+
+v 1.0.9
+Update
+
+v 1.0.8
+Add AFV
+Add Dicovery channel & Animal Planet
+Update Tôn Giáo
+Update menulist
+
+v 1.0.7
+Add Tôn Giáo, Thiếu Nhi, Nhập Tịch, and Nails
+Update menulist
+
+v 1.0.6
+Add Y Khoa Tổng Quát from www.dnrtv.org.vn
+Add This Old House
+
+v 1.0.5
+Add Karaoke
+Update menulist
+
+v 1.0.4 (Jan. 2, 2015)
+a. Remove import youtube
+b. Remove import dailymotion
+c. Users need to install 
+youtube and dailymotion manually
+
+d. Download link for youtube
+https://github.com/bromix/plugin.video.youtube
+
+e. Download links for youtube's older versions 
+http://ftp.vim.org/pub/pub/mediaplayer/xbmc/addons/frodo/plugin.video.youtube/
+
+f. Download link for Dailymotion
+https://github.com/AddonScriptorDE/plugin.video.dailymotion_com
+
+v 1.0.3
+update
+
+v 1.0.2
+Fix dependency not met
+caused by importing youtube addon 5.0.1
+Downgrade importing to youtube 5.0.0
+
+v 1.0.1
+Import youtube addon 5.0.1
+good for buocchan2thehe 
+Dan truong 
+Dam Vinh Hung
+
+v 1.0.0
+Initial release

@@ -1,0 +1,218 @@
+﻿#EXTM3U
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTV[/COLOR]  
+rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV1
+rtmpe://112.197.2.154:1935/live//sctv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV2
+rtmpe://112.197.2.154:1935/live//sctv2_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV3
+rtmpe://112.197.2.154:1935/live//sctv3_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV4
+rtmpe://112.197.2.154:1935/live//sctv4_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV5
+rtmpe://112.197.2.154:1935/live//sctv5_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV6
+rtmpe://112.197.2.154:1935/live//sctv6_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV7
+rtmpe://112.197.2.154:1935/live//sctv7_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV8
+rtmpe://112.197.2.154:1935/live//sctv8_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV9
+rtmpe://112.197.2.154:1935/live//sctv9_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV10
+rtmpe://112.197.2.154:1935/live//sctv10_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV11
+rtmpe://112.197.2.154:1935/live//sctv11_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV12
+rtmpe://112.197.2.154:1935/live//sctv12_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV13
+rtmpe://112.197.2.154:1935/live//sctv13_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV14
+rtmpe://112.197.2.154:1935/live//sctv14_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV15
+rtmpe://112.197.2.154:1935/glive//C042_SD_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV16
+rtmpe://112.197.2.154:1935/live//sctv16_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV17
+rtmpe://112.197.2.154:1935/live//sctv17_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --SCTV18
+rtmpe://112.197.2.154:1935/glive//C008_HD_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH SCTV HD [/COLOR]  
+http://112.197.2.154/mlive/C001_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD1 STARMOVIE HD
+http://112.197.2.154/mlive/C001_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD2 NATGEO HD
+http://112.197.2.154/mlive/C002_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD3 DISCOVERY HD
+http://112.197.2.154/mlive/C003_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD4 HBO HD
+http://112.197.2.154/mlive/C004_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD5 FOX HD
+http://112.197.2.154/mlive/C005_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD6 VĂN HÓA
+http://112.197.2.154/mlive/C006_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD7 DU LICH
+http://112.197.2.154/mlive/C007_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD8 THE THAO
+http://112.197.2.154/mlive/C008_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD9 PHIM VIỆT
+http://112.197.2.154/mlive/C009_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD10 PHIM HQ
+http://112.197.2.154/mlive/C010_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD11 HÀI
+http://112.197.2.154/mlive/C011_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD12 SAN DIEN
+http://112.197.2.154/mlive/C012_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD13  PHIM TỔNG HỢP
+http://112.197.2.154/mlive/C013_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD14 GIẢI TRÍ TỔNG HỢP
+http://112.197.2.154/mlive/C014_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD15 PHIM NUOC NGOAI
+http://112.197.2.154/mlive/C015_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD16 THIẾU NHI
+http://112.197.2.154/mlive/C016_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HD17 PHỤ NỮ
+http://112.197.2.154/mlive/C017_HD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH SD [/COLOR]  
+http://112.197.2.154/mlive/C012_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --DISNEY CHANNEL
+http://112.197.2.154/mlive/C012_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --CARTOON NETWORK
+http://112.197.2.154/mlive/C013_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --HBO SD
+http://112.197.2.154/mlive/C014_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --START WORLD SD
+http://112.197.2.154/mlive/C015_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --AXN SD
+http://112.197.2.154/mlive/C016_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --ANIMAL PLANET
+http://112.197.2.154/mlive/C017_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --VCHANNEL
+http://112.197.2.154/mlive/C018_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --FASHTION TV
+http://112.197.2.154/mlive/C019_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --FOX2 
+http://112.197.2.154/mlive/C020_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --DISCOVERY HD
+http://112.197.2.154/mlive/C021_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --BBC
+http://112.197.2.154/mlive/C022_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --CNN 
+http://112.197.2.154/mlive/C023_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --CNBC
+http://112.197.2.154/mlive/C024_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --CHANNEL
+http://112.197.2.154/mlive/C025_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --YANTV
+http://112.197.2.154/mlive/C028_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --BONGDA TV
+http://112.197.2.154/mlive/C036_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH VTV[/COLOR]  
+rtmpe://112.197.2.154:1935/live//vtv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV1
+rtmpe://112.197.2.154:1935/live//vtv1_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV2
+rtmpe://112.197.2.154:1935/live//vtv2_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV3
+rtmpe://112.197.2.154:1935/live//vtv3_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV4
+rtmpe://112.197.2.154:1935/live//vtv4_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV6
+rtmpe://112.197.2.154:1935/live//vtv6_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --VTV9
+rtmpe://112.197.2.154:1935/live//vtv9_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+#EXTINF:0, --ANTV
+rtmpe://112.197.2.154:1935/live//antv_2 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH AVG - TEST[/COLOR] 
+http://113.160.49.34/lives/origin03/nhacthieunhisd.isml/nhacthieunhisd.m3u8
+#EXTINF:0, --AVG Nhac Thieu Nhi
+http://113.160.49.34/lives/origin03/nhacthieunhisd.isml/nhacthieunhisd.m3u8
+#EXTINF:0, --AVG BTV10
+http://113.160.49.34/lives/origin03/ncmsd.isml/ncmsd.m3u8
+#EXTINF:0, --AVG Mien Tay
+http://113.160.49.34/lives/origin03/mientaysd.isml/mientaysd.m3u8
+#EXTINF:0, --AVG Phim Hay
+http://113.160.49.34/lives/origin01/phimhaysd.isml/phimhaysd.m3u8
+#EXTINF:0, --AVG SAM
+http://113.160.49.34/lives/origin01/samsd.isml/samsd.m3u8
+
+#EXTINF:0, [COLOR yellow]NHOM KENH TONG HOP[/COLOR]  
+rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
+#EXTINF:0, --N+ Nhaccuatui
+rtmp://123.30.134.108/live playpath=nctlive swfUrl=http://stc.lala.nixcdn.com/tv/flash/lala_tv_6.swf pageUrl=http://lala.nhaccuatui.com/tv
+#EXTINF:0, --INFOTV
+http://112.197.2.154/mlive/C055_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --eCHANNEL
+http://112.197.2.154/mlive/C059_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --VTC7
+http://112.197.2.154/mlive/C058_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --VTC9
+http://112.197.2.154/mlive/C056_SD_2/chunklist.m3u8?us=26112014163406262747611%7C1089049
+#EXTINF:0, --ITV
+http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/playlist.m3u8
+#EXTINF:0, --VTV4
+http://live.accessasia.tv:1935/vnptg_channels/mp4:vtv4.480p/playlist.m3u8
+#EXTINF:0, --Phim Viet
+http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
+#EXTINF:0, --Thuan Viet
+http://live.accessasia.tv:1935/vnptg_channels/thuanviet.480p/playlist.m3u8
+#EXTINF:0, --Du Lich
+http://live.accessasia.tv:1935/vnptg_channels/mp4:dulichcuocsong.480p/playlist.m3u8
+#EXTINF:0, --Kenh17
+http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
+#EXTINF:0, --O2 TV
+http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv10.480p/playlist.m3u8
+#EXTINF:0, --SCTV-Hài
+http://live.accessasia.tv:1935/vnptg_channels/sctvhaihd.480p/playlist.m3u8
+#EXTINF:0, --TOM&JERRY 
+rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
+
+#EXTINF:0, [COLOR yellow]THUYNGA-PARISBYNIGHT - IN VIETNAM ONLY[/COLOR]  
+http://113.164.28.22/thuynga/Thuy.Nga_Paris.By.Night.111.2014.720p/index.m3u8
+#EXTINF:0, --PBN.111-2014 Dai dat chu S
+http://113.164.28.22/thuynga/Thuy.Nga_Paris.By.Night.111.2014.720p/index.m3u8
+#EXTINF:0, --PBN.110-2014 Phát lộc đầu năm
+http://113.164.28.22/thuynga/Thuy.Nga_Paris.By.Night.110.2014.720p/index.m3u8
+#EXTINF:0, --PBN.109-2013 30th Anniversary Celebration
+http://113.164.28.22/thuynga/Thuy.Nga_Paris.By.Night.109.2013.720p/index.m3u8
+#EXTINF:0, --PBN.108-2013 Thời Gian - Time
+http://113.164.28.22/thuynga/Thuy.Nga_Paris.By.Night.108.2013.720p/index.m3u8
+#EXTINF:0, --PBN.107-2013 Nguyễn Ngọc Ngạn - 20 Năm Sân Khấu
+http://113.164.28.22/thuynga/Thuy.Nga_Paris.By.Night.107.2013.720p/index.m3u8
+#EXTINF:0, --PBN.106-2012 Lụa - Silk
+http://113.164.28.22/thuynga/Thuy.Nga_Paris.By.Night.106.2012.720p/index.m3u8
+#EXTINF:0, --PBN.105-2012 Người Tình - The Lovers
+http://113.164.28.22/thuynga/Thuy.Nga_Paris.By.Night.105.2012.720p/index.m3u8
+#EXTINF:0, --PBN.105 104-2011 Beginnings
+http://113.164.28.22/thuynga/Thuy.Nga_Paris.By.Night.104.2011.720p/index.m3u8
+#EXTINF:0, --PBN.103-2011 Tình sử trong âm nhạc Việt Nam
+http://113.164.28.22/thuynga/Thuy.Nga_Paris.By.Night.103.2011.480p/index.m3u8
+#EXTINF:0, --PBN.102-2011 Nhạc yêu cầu - Tình ca Lam Phương
+http://113.164.28.22/thuynga/Thuy.Nga_Paris.By.Night.102.2011.480p/index.m3u8
+#EXTINF:0, --PBN.101-2011 Hạnh phúc đầu năm
+http://113.164.28.22/thuynga/Thuy.Nga_Paris.By.Night.101.2011.480p/index.m3u8
+#EXTINF:0, --PBN.100-2010  Ghi nhớ một chặng đường
+http://113.164.28.22/thuynga/Thuy.Nga_Paris.By.Night.100.2010.480p/index.m3u8
+#EXTINF:0, --PBN.99-2010 Tôi là người Việt Nam
+http://113.164.28.28/thuynga/Thuy.Nga_Paris.By.Night.99.2010.480p/index.m3u8
+#EXTINF:0, --PBN.98-2010 Fly with us to Las Vegas
+http://113.164.28.28/thuynga/Thuy.Nga_Paris.By.Night.98.2009.480p/index.m3u8
+#EXTINF:0, --PBN.97-2009 Celebrity Dancing
+http://113.164.28.28/thuynga/Thuy.Nga_Paris.By.Night.97.2009.480p/index.m3u8
+#EXTINF:0, --PBN.94-2008 25th Anniversary  Thank You Life Part 1
+http://113.164.28.28/thuynga/Thuy.Nga_Paris.By.Night.94.2008.480p/index.m3u8
+#EXTINF:0, --PBN.95.2008 25th Anniversary  Thank You Life Part 2
+http://113.164.28.28/thuynga/Thuy.Nga_Paris.By.Night.95.2008.480p/index.m3u8
+#EXTINF:0, --PBN.93-2008 Celebrity Dancing
+http://113.164.28.28/thuynga/Thuy.Nga_Paris.By.Night.93.2008.480p/index.m3u8
+#EXTINF:0, --PBN.92-2008 Nhạc yêu cầu
+http://113.164.28.28/thuynga/Thuy.Nga_Paris.By.Night.92.2008.480p/index.m3u8
+#EXTINF:0, --PBN.91-2008 Huế Sài Gòn  Hà Nội
+http://113.164.28.28/thuynga/Thuy.Nga_Paris.By.Night.91.2008.480p/index.m3u8
+#EXTINF:0, --PBN.90-2007 Chân dung người phụ nữ Việt Nam
+http://113.164.28.28/thuynga/Thuy.Nga_Paris.By.Night.90.2007.480p/index.new.m3u8
