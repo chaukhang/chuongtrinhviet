@@ -104,7 +104,7 @@
 
 <addon
   id="plugin.video.anhtrang.org"
-  version="0.0.5"
+  version="0.0.6"
   name="Phim-AnhTrang"
   provider-name="ThuNM">
   <requires>
@@ -279,7 +279,7 @@
 
 <addon
   id="plugin.video.movihd.net"
-  version="0.0.7"
+  version="0.0.8"
   name="Phim-MoviHD"
   provider-name="Traitravinh">
   <requires>
@@ -413,7 +413,7 @@
 
 <addon
   id="plugin.video.phim60s.info"
-  version="1.0.41"
+  version="2.0.6"
   name="Phim-Phim60s"
   provider-name="ThongLD">
   <requires>
@@ -667,7 +667,7 @@
 
 <addon
   id="plugin.video.vkool.net"
-  version="0.0.5"
+  version="0.0.6"
   name="Phim-Vkool"
   provider-name="Traitravinh">
 <requires>
@@ -682,14 +682,14 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Watch Movies</summary>
-    <description>Watch Movies on vkool.net</description>
+    <description>Watch Movies on vkool.net .05</description>
     <platform>all</platform>
   </extension>
 </addon>
 
 <addon
   id="plugin.video.vtvplus.vn"
-  version="1.0.9"
+  version="1.0.10"
   name="TV-VTVPlus"
   provider-name="ThongLD">
   <requires>
