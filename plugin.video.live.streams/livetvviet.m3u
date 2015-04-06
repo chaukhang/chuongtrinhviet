@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:0, [COLOR blue]Fast & Furious 7 - Premiere (CAM-SD) [/COLOR]  
+https://r4---sn-i3b7rne7.googlevideo.com/videoplayback?id=678bfd2c8e7d7aed&itag=18&source=picasa&requiressl=yes&mm=30&ms=nxu&mv=u&nh=IgpwcjAzLmhrZzAxKgkxMjcuMC4wLjE&pl=24&gir=yes&clen=506446069&dur=7618&lmt=1428251456080798&mime=video/mp4&mt=1428315526&ip=110.35.79.30&ipbits=0&expire=1428344505&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,ms,mv,nh,pl,gir,clen,dur,lmt,mime&signature=8606FA3680525860E5DB664AC3A5585F5F98B580.945FB1E4A01C0E202CE580C085B1ADEB12DDC8D3&key=ck2
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH HDTV-ZTV[/COLOR]  
 http://123.30.184.172:1935/livez3/smil:vtv3hd.smil/playlist.m3u8
@@ -33,13 +35,13 @@ http://125.212.200.2:1935/liveidc/smil:cartoon.smil/playlist.m3u8
 
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH VTVPLAY[/COLOR]  
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1hd_hls.smil/playlist.m3u8
-#EXTINF:0, --VTV1 HD 
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1hd_hls.smil/playlist.m3u8
-#EXTINF:0, --VTV3 HD 
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv3hd_hls.smil/playlist.m3u8
-#EXTINF:0, --VTV6 HD 
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv6hd_hls.smil/playlist.m3u8
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1sd_hls.smil/playlist.m3u8
+#EXTINF:0, --VTV1 SD 
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1sd_hls.smil/playlist.m3u8
+#EXTINF:0, --VTV3 SD 
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv3sd_hls.smil/playlist.m3u8
+#EXTINF:0, --VTV6 SD 
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv6sd_hls.smil/playlist.m3u8
 #EXTINF:0, --BIBI TV
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:bibi_hls.smil/playlist.m3u8
 #EXTINF:0, --KÊNH17
@@ -70,7 +72,6 @@ http://vtv.live.cdn.fptplay.net/vtvlive/smil:thethaotvsd_hls.smil/playlist.m3u8
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:hanoi1_hls.smil/playlist.m3u8
 #EXTINF:0, --HTVC PHỤ NỮ
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:htvcphunu_hls.smil/playlist.m3u8
-
 #EXTINF:0, --VTVCAB7 DDRAMAS
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:ddramas_hls.smil/playlist.m3u8
 #EXTINF:0, --VTVCAB12 STYLETV
@@ -109,19 +110,21 @@ http://117.103.206.26:1935/live/_definst_/VTC3/smil:VTC3_live.smil/playlist.m3u8
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH HDTV-ZEE[/COLOR]  
 http://tv.vnzee.com/live/vtv1hd~ztv_CND_partner.m3u8
+#EXTINF:0, --VTV1 [COLOR cyan]SD[/COLOR]  
+http://tv.vnzee.com/live/vtv1~ztv_CND_partner.m3u8
 #EXTINF:0, --VTV1 [COLOR yellow]HD[/COLOR]  
 http://tv.vnzee.com/live/vtv1hd~ztv_CND_partner.m3u8
-#EXTINF:0, --VTV2 [COLOR yellow]SD[/COLOR]  
+#EXTINF:0, --VTV2 [COLOR cyan]SD[/COLOR]  
 http://tv.vnzee.com/live/vtv2~ztv_CND_partner.m3u8
-#EXTINF:0, --VTV3
+#EXTINF:0, --VTV3 [COLOR cyan]SD[/COLOR]  
 http://tv.vnzee.com/live/vtv3~ztv_CND_partner.m3u8
 #EXTINF:0, --VTV3 [COLOR yellow]HD[/COLOR]  
 http://tv.vnzee.com/live/vtv3hd~ztv_CND_partner.m3u8
-#EXTINF:0, --VTV4
+#EXTINF:0, --VTV4 [COLOR cyan]SD[/COLOR]  
 http://tv.vnzee.com/live/vtv4~ztv_CND_partner.m3u8
-#EXTINF:0, --VTV5
+#EXTINF:0, --VTV5 [COLOR cyan]SD[/COLOR]  
 http://tv.vnzee.com/live/vtv5~ztv_CND_partner.m3u8
-#EXTINF:0, --VTV6
+#EXTINF:0, --VTV6 [COLOR cyan]SD[/COLOR]  
 http://tv.vnzee.com/live/vtv6~ztv_CND_partner.m3u8
 #EXTINF:0, --VTV6 [COLOR yellow]HD[/COLOR] 
 http://tv.vnzee.com/live/vtv6hd~ztv_CND_partner.m3u8
@@ -190,67 +193,126 @@ rtmp://yqyydhnc.cdnviet.com/mnrrnlm/ playpath=drt1 swfUrl=http://tv.vnzee.com/zf
 
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH VP9[/COLOR]  
-http://115.146.126.226/chn/vtv1/v.m3u8
-#EXTINF:0, --VTV1   
-http://115.146.126.226/chn/vtv1/v.m3u8
-#EXTINF:0, --VTV2     
-http://115.146.126.226/chn/vtv2/v.m3u8
-#EXTINF:0, --VTV3 HD    
-http://115.146.126.226/chn/vtv3/v.m3u8
-#EXTINF:0, --VTV4   
-http://115.146.126.226/chn/vtv4/v.m3u8
-#EXTINF:0, --VTV6 HD    
-http://115.146.126.226/chn/vtv6/v.m3u8
-#EXTINF:0, --ANTV    
-http://115.146.126.226/chn/antv/v.m3u8
-#EXTINF:0, --QPVN    
-http://115.146.126.226/chn/qpvn/v.m3u8
-#EXTINF:0, --VOVTV    
-http://115.146.126.226/chn/vovtv/v.m3u8
-#EXTINF:0, --VTVcab 2 - Phim Việt 
-http://115.146.126.226/chn/phimv/v.m3u8
-#EXTINF:0, --VTVCAB3 THỂ THAO TV HD 
-http://115.146.126.226/chn/tttv/v.m3u8
-#EXTINF:0, --VTV Cab 7 - Dramas    
-http://115.146.126.226/chn/ddra/v.m3u8
-#EXTINF:0, --VTV Cab 8 - BiBi    
-http://115.146.126.226/chn/bibi/v.m3u8
-#EXTINF:0, --VTVcab 10 - O2TV    
-http://115.146.126.226/chn/o2tv/v.m3u8
-#EXTINF:0, --VTVCAB16 BÓNG ĐÁ TV HD
-http://115.146.126.226/chn/bdtv/v.m3u8
-#EXTINF:0, --HÀ NỘI 1    
-http://115.146.126.226/chn/hn1/v.m3u8
-#EXTINF:0, --HÀ NỘI 2    
-http://115.146.126.226/chn/hn2/v.m3u8
-#EXTINF:0, --HTV7    
-http://115.146.126.226/chn/htv7/v.m3u8
-#EXTINF:0, --VTC1    
-http://115.146.126.226/chn/vtc1/v.m3u8
-#EXTINF:0, --VTC2    
-http://115.146.126.226/chn/vtc2/v.m3u8
-#EXTINF:0, --VTC3    
-http://115.146.126.226/chn/vtc3/v.m3u8
-#EXTINF:0, --VTC6 - SG Channel    
-http://115.146.126.226/chn/sgc6/v.m3u8
-#EXTINF:0, --VTC7 - TODAY TV    
-http://115.146.126.226/chn/tdayt/v.m3u8
-#EXTINF:0, --VTC9 - LET"S VIỆT    
-http://115.146.126.226/chn/letsv/v.m3u8
-#EXTINF:0, --VTC11 - Kids TV    
-http://115.146.126.226/chn/kids/v.m3u8
-#EXTINF:0, --VTC16 - 3NTV 
-http://115.146.126.226/chn/3ntv/v.m3u8
-#EXTINF:0, --ARIANG    
-http://115.146.126.226/chn/arirg/v.m3u8
+http://60e2.vp9.tv/chn/bbcw/v.m3u8
+#EXTINF:0 tvg-id="bbcworldnews" tvg-logo="f.vp9.tv/img/tv/channel/BBC-World-News.pn,--BBC World News
+http://60e2.vp9.tv/chn/bbcw/v.m3u8
+#EXTINF:0 tvg-id="aljazeeranews" tvg-logo="f.vp9.tv/img/tv/channel/Al-Jazeera-News.pn,--Al Jazeera News
+http://72e2.vp9.tv/chn/alzn/v.m3u8
+#EXTINF:0 tvg-id="nhkworld" tvg-logo="f.vp9.tv/img/tv/channel/nhkw.pn,--NHK World
+http://68e2.vp9.tv/chn/nhkw/v.m3u8
+#EXTINF:0 tvg-id="abcnews" tvg-logo="f.vp9.tv/img/tv/channel/ABC-News.pn,--ABC News
+http://62e2.vp9.tv/chn/abcn/v.m3u8
+#EXTINF:0 tvg-id="beinsports1" tvg-logo="f.vp9.tv/img/tv/channel/bein01.pn,--BeIN Sports 1
+http://69e2.vp9.tv/chn/bin01/v.m3u8
+#EXTINF:0 tvg-id="beinsports2" tvg-logo="f.vp9.tv/img/tv/channel/bein02.pn,--BeIN Sports 2
+http://68e2.vp9.tv/chn/bin02/v.m3u8
+#EXTINF:0 tvg-id="beinsports3" tvg-logo="f.vp9.tv/img/tv/channel/bein03.pn,--BeIN Sports 3
+http://67e2.vp9.tv/chn/bin03/v.m3u8
+#EXTINF:0 tvg-id="beinsports4" tvg-logo="f.vp9.tv/img/tv/channel/bein04.pn,--BeIN Sports 4
+http://66e2.vp9.tv/chn/bin04/v.m3u8
+#EXTINF:0 tvg-id="foxsport1" tvg-logo="2co1.vp9.tv/data/vp9/i/logo/FoxSport1.pn,--Fox Sport 1
+http://70e2.vp9.tv/chn/fox1/v.m3u8
+#EXTINF:0 tvg-id="foxsport2" tvg-logo="2co1.vp9.tv/data/vp9/i/logo/FoxSport2.pn,--Fox Sport 2
+http://72e2.vp9.tv/chn/fox2/v.m3u8
+#EXTINF:0 tvg-id="cinemax" tvg-logo="pbs.twimg.com/profile_images/458746430312566785/MqIVy_w__400x400.jpe,--Cinemax
+http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd.m3u8
+#EXTINF:0 tvg-id="sctvhai" tvg-logo="api.vtvplus.vn/files/uploads/images/SCTV-HaiHD.jp,--SCTV Hài HD
+http://live.accessasia.tv:1935/vnptg_channels/mp4:sctvhaihd.480p/playlist.m3u8
+#EXTINF:0 tvg-id="sctv7" tvg-logo="tv24.vn/WebMedia/Channels/13/sctv7.pn,--SCTV 7 - Sân Khấu Văn Nghệ
+http://live.accessasia.tv:1935/vnptg_channels/sctv7.480p/playlist.m3u8
+#EXTINF:0 tvg-id="sctv14" tvg-logo="tv24.vn/WebMedia/Channels/19/sctv14.pn,--SCTV 14 - Phim Tiếng Việt
+http://live.accessasia.tv:1935/vnptg_channels/sctv14.480p/playlist.m3u8
+#EXTINF:0 tvg-id="vtv1" tvg-logo="www.lyngsat-logo.com/logo/tv/vv/vtv1_vn.jp,--VTV 1 - Tổng Hợp
+http://222.255.27.224/vtv1.m3u8
+#EXTINF:0 tvg-id="vtv2" tvg-logo="www.lyngsat-logo.com/logo/tv/vv/vtv2_vn.jp,--VTV 2 - Văn Hóa - Giáo Dục
+http://222.255.27.137/vtv2.m3u8
+#EXTINF:0 tvg-id="vtv3" tvg-logo="www.lyngsat-logo.com/logo/tv/vv/vtv3_vn.jp,--VTV 3 - Thể Thao - Giải Trí
+http://70e2.vp9.tv/chn/vtv3/v.m3u8
+#EXTINF:0 tvg-id="vtv4" tvg-logo="echipstore.net/logo/channels/vtv4.pn,--VTV 4 - Người Việt Hải Ngoại
+http://live.accessasia.tv:1935/vnptg_channels/mp4:vtv4.480p/playlist.m3u8
+#EXTINF:0 tvg-id="vtv5" tvg-logo="bc.com.vn/baochi/uploads/press/2012_06/logo-vtv5.jp,--VTV 5 - Dân tộc thiểu số
+http://222.255.27.224/vtv5.m3u8
+#EXTINF:0 tvg-id="vtv6" tvg-logo="img.htvonline.com.vn/livetv/16062014/vtv6_43081402902871.pn,--VTV 6 - Thanh thiếu niên
+http://01e4.vp9.tv/chn/vtv6/v.m3u8
+#EXTINF:0 tvg-id="vtv9" tvg-logo="upload.wikimedia.org/wikipedia/vi/6/65/VTV9.pn,--VTV 9 - Giải trí tổng hợp
+http://112.197.2.154:1935/colive/vtv9_2/playlist.m3u8
+#EXTINF:0 tvg-id="vtvcantho2" tvg-logo="www.lyngsat-logo.com/logo/tv/vv/vtv_cantho2_vn.jp,--VTV - Cần Thơ 2
+rtmp://113.161.204.168/livepkgr/livestream1 swfVfy=true live=true timeout=60
+#EXTINF:0 tvg-id="vtvphuyen" tvg-logo="1.bp.blogspot.com/-ihN9LS2dC1o/UVQ-qvfDlXI/AAAAAAAABm0/XREycxF-Sl8/s320/VTV-PhuYen-TVkool.jp,--VTV - Phú Yên
+rtmp://113.161.4.102/live/ playpath=vtvphuyen.tv swfVfy=true live=true timeout=60
+#EXTINF:0 tvg-id="vtvdanang" tvg-logo="echipstore.net/logo/channels/vtvdanang.jp,--VTV - Đà Nẵng
+rtmp://222.255.167.149/live playpath=livestream swfVfy=true live=true timeout=60
+#EXTINF:0 tvg-id="vtvcab1" tvg-logo="www.vtvcab.vn/Uploaded/Admin/2013_04_22/giaitritv%20gt%20copy%20chot.pn,--VTVcab1 - Giải trí
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:giaitritv_hls.smil/playlist.m3u8
+#EXTINF:0 tvg-id="vtvcab2" tvg-logo="api.vtvplus.vn/files/uploads/images/Cab2-PhimViet.jp,--VTVcab2 - Phim Việt
+http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
+#EXTINF:0 tvg-id="vtvcab3" tvg-logo="api.vtvplus.vn/files/uploads/images/Cab3-TheThaoTVSD.jp,--VTVcab3 - Thể Thao
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:thethaotvsd_hls.smil/playlist.m3u8
+#EXTINF:0 tvg-id="vtvcab4" tvg-logo="api.vtvplus.vn/files/uploads/images/cab-17.jp,--VTVcab4 - Kênh 17
+http://live.accessasia.tv:1935/vnptg_channels/mp4:vctv4.480p/playlist.m3u8
+#EXTINF:0 tvg-id="vtvcab5" tvg-logo="api.vtvplus.vn/files/uploads/images/Cab5-Echannel.jp,--VTVcab5 - Echannel
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:echanel_hls.smil/playlist.m3u8
+#EXTINF:0 tvg-id="vtvcab6" tvg-logo="vtvplus.vn/vtv/images/Cab6.jp,--VTVcab6 - Hay TV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:giaitritv_hls.smil/playlist.m3u8
+#EXTINF:0 tvg-id="vtvcab7" tvg-logo="api.vtvplus.vn/files/uploads/images/Cab7-DDramas.jp,--VTVcab7 - Ddramas
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:ddramas_hls.smil/playlist.m3u8
+#EXTINF:0 tvg-id="vtvcab8" tvg-logo="api.vtvplus.vn/files/uploads/images/Cab8-Bibi.jp,--VTVcab8 - Thiếu Nhi (BiBi)
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:bibi_hls.smil/playlist.m3u9
+#EXTINF:0 tvg-id="vtvcab10" tvg-logo="api.vtvplus.vn/files/uploads/images/Cab10-O2TV.jp,--VTVcab10 - Sức khỏe (O2TV)
+http://live.accessasia.tv:1935/vnptg_channels/vctv10.480p/playlist.m3u8
+#EXTINF:0 tvg-id="vtvcab12" tvg-logo="vtvplus.vn/vtv/images/Cab12-StyleTV.jp,--VTVcab12 - Style TV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:styletv_hls.smil/playlist.m3u8
+#EXTINF:0 tvg-id="vtvcab15" tvg-logo="www.socialtv.vn/vtv/images/Cab15-InvestTV.jp,--VTVcab15 - Invest TV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:investtv_hls.smil/playlist.m3u8
+#EXTINF:0 tvg-id="vtvcab16" tvg-logo="api.vtvplus.vn/files/uploads/images/Cab16-BongdaHD.jp,--VTVcab16 - Bóng Đá HD
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/playlist.m3u8
+#EXTINF:0 tvg-id="vtvcab17" tvg-logo="thegioitivi.net/wp-content/uploads/17-yeah1tv.jp,--VTVcab17 - YEAH1TV
+rtmp://123.29.69.69/live//VTVCab17_600k
+#EXTINF:0 tvg-id="vtc1sd" tvg-logo="www.lyngsat-logo.com/logo/tv/vv/vtc_1.jp,--VTC 1 - Giải Trí Tổng Hợp
+http://113.160.49.34/lives/origin01/vtc1sd.isml/vtc1sd.m3u8
+#EXTINF:0 tvg-id="vtc2sd" tvg-logo="www.lyngsat-logo.com/logo/tv/vv/vtc_2.jp,--VTC 2 - Công Nghệ Thông Tin
+http://113.160.49.34/lives/origin01/vtc2sd.isml/vtc2sd.m3u8
+#EXTINF:0 tvg-id="vtc8sd" tvg-logo="www.tv14.net/wp-content/uploads/2010/01/vtc_8.jp,--VTC 8 - Kinh Tế
+http://113.160.49.34/lives/origin01/vtc8sd.isml/vtc8sd.m3u8
+#EXTINF:0 tvg-id="vtc10sd" tvg-logo="play.fpt.vn/static/img/share/channels/icon_channel_vtc10.pn,--VTC 10 - NetViet
+http://113.160.49.34/lives/origin01/vtc10sd.isml/vtc10sd.m3u8
+#EXTINF:0 tvg-id="vtc11sd" tvg-logo="www.lyngsat-logo.com/logo/tv/vv/vtc_11.jp,--VTC 11 - Giải Trí Thiếu Nhi
+http://113.160.49.34/lives/origin01/vtc11sd.isml/vtc11sd.m3u8
+#EXTINF:0 tvg-id="vtc13sd" tvg-logo="www.lyngsat-logo.com/logo/tv/vv/vtc_13.jp,--VTC 13 - ITV Music
+http://113.160.49.34/lives/origin01/vtc13sd.isml/vtc13sd.m3u8
+#EXTINF:0 tvg-id="vtc14sd" tvg-logo="www.lyngsat-logo.com/logo/tv/vv/vtc_14.jp,--VTC 14 - Phòng chống thiên tai
+http://113.160.49.34/lives/origin01/vtc14sd.isml/vtc14sd.m3u8
+#EXTINF:0 tvg-id="vtc16sd" tvg-logo="www.lyngsat-logo.com/logo/tv/vv/vtc_16.jp,--VTC 16 - Nông Nghiệp
+http://113.160.49.34/lives/origin01/vtc16sd.isml/vtc16sd.m3u8
+#EXTINF:0 tvg-id="letsv" tvg-logo="tv.vp9.tv/img/tivi/channel/letsviet.pn,--Let's Viet - Văn Hóa, Xã Hội
+http://01e4.vp9.tv/chn/letsv/v.m3u8
+#EXTINF:0 tvg-id="drt1" tvg-logo="2co1.vp9.tv/data/vp9/i/logo/DRT1.pn,--DRT 1 - Đà Nẵng 1
+http://01e4.vp9.tv/chn/drt1/v.m3u8
+#EXTINF:0 tvg-id="drt2" tvg-logo="2co1.vp9.tv/data/vp9/i/logo/DRT2.pn,--DRT 1 - Đà Nẵng 2
+http://01e4.vp9.tv/chn/drt2/v.m3u8
+#EXTINF:0 tvg-id="vl1" tvg-logo="2co1.vp9.tv/data/vp9/i/logo/THVL1.pn,--VL1 - Vĩnh Long 1
+http://01e4.vp9.tv/chn/vl1/v.m3u8
+#EXTINF:0 tvg-id="vl2" tvg-logo="2co1.vp9.tv/data/vp9/i/logo/THVL2.pn,--VL1 - Vĩnh Long 2
+http://01e4.vp9.tv/chn/vl2/v.m3u8
+#EXTINF:0 tvg-id="hn1" tvg-logo="tv.vp9.tv/img/tivi/channel/hn1.pn,--HN1 - Hà Nội 1
+http://01e4.vp9.tv/chn/hn1/v.m3u8
+#EXTINF:0 tvg-id="hn2" tvg-logo="tv.vp9.tv/img/tivi/channel/hn2.pn,--HN1 - Hà Nội 2
+http://01e4.vp9.tv/chn/hn2/v.m3u8
+#EXTINF:0 tvg-id="btv1" tvg-logo="2co1.vp9.tv/data/vp9/i/logo/btv1.pn,--BTV1 - Bình Dương 1
+http://01e4.vp9.tv/chn/btv1/v.m3u8
+#EXTINF:0 tvg-id="antv" tvg-logo="f.vp9.tv/img/tv/channel/antv.pn,--ANTV - An Ninh TV
+http://01e4.vp9.tv/chn/antv/v.m3u8
+#EXTINF:0 tvg-id="vovtv" tvg-logo="f.vp9.tv/img/tv/channel/vovtv.pn,--VOVTV - Tiếng Nói VN
+http://01e4.vp9.tv/chn/vovtv/v.m3u8
+#EXTINF:0 tvg-id="qpvn" tvg-logo="tv.vp9.tv/img/tivi/channel/qpvn.pn,--QPVN - Quốc Phòng VN
+http://01e4.vp9.tv/chn/qpvn/v.m3u8
+#EXTINF:0 tvg-id="ttxvn" tvg-logo="f.vp9.tv/img/tv/channel/TTXVN.pn,--TTXVN
+http://65e2.vp9.tv/chn/ttxvn/v.m3u8
+#EXTINF:0 tvg-id="htv7" tvg-logo="tv.vp9.tv/img/tivi/channel/htv7.pn,--HTV 7
+http://113.164.28.21/hplus/live/htv7.720p.stream/index.m3u8
+#EXTINF:0 tvg-id="htv9" tvg-logo="tv.vp9.tv/img/tivi/channel/htv9.pn,--HTV 9
+http://113.160.49.34/lives/origin02/htv9sd.isml/htv9sd.m3u8
 
-##EXTINF:0, --DISNEY    
-#http://115.146.126.226/chn/disny/v.m3u8
-
-#EXTINF:0, --NICKELODEON    
-http://115.146.126.226/chn/nicke/v.m3u8
-#EXTINF:0, --STARWORLD    	   
-http://115.146.126.226/chn/starw/v.m3u8
 
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH VTC[/COLOR] 

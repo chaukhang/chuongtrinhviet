@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon
   id="plugin.video.movihd.net"
-  version="0.0.8"
+  version="0.0.9"
   name="Phim-MoviHD"
   provider-name="Traitravinh">
-  <requires>        
+  <requires>
+    <import addon="script.module.requests" version="2.4.3" />
+    <import addon="script.common.plugin.cache" version="2.5.2" />    
+    <import addon="script.module.simple.downloader" version="1.9.4" />
   </requires>
   <extension point="xbmc.python.pluginsource"
-            library="default.py">
+            library="movihd.py">
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">

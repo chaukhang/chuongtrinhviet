@@ -9,6 +9,7 @@ if 59 - 59: Oo0Ooo . OO0OO0O0O0 * iiiIIii1IIi . iII111iiiii11 % I1IiiI
 @ oo000 . route ( '/' )
 def IIi1IiiiI1Ii ( ) :
  I11i11Ii = xbmc . translatePath ( xbmcaddon . Addon ( ) . getAddonInfo ( 'path' ) ) . decode ( "utf-8" )
+ 
  if 54 - 54: i1 - o0 * i1oOo0OoO * iIIIiiIIiiiIi % Oo
  o0O = [
  { 'label' : 'NatGeo Wild HD' , 'path' : '%s/play/%s' % ( ii , '48' ) , 'is_playable' : True , 'thumbnail' : 'http://vtvplus.vn/vtv/thumb.php?src=https://api.vtvplus.vn/pro/files/channel/48.jpg&a=t&w=291&h=163' , 'info' : { 'plot' : '' } } ,

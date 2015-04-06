@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon
   id="plugin.video.anhtrang.org"
-  version="0.0.6"
+  version="0.0.7"
   name="Phim-AnhTrang"
-  provider-name="ThuNM">
-  <requires>       		
+  provider-name="ThongLD">
+ <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.xbmcswift2" version="1.3.1" />
+    <import addon="plugin.video.youtube" version="4.4.1" />
   </requires>
   <extension point="xbmc.python.pluginsource"
             library="default.py">
@@ -12,7 +15,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Watch movies</summary>
-    <description>Watch movies</description>
+    <description>kodivn 1.0.2</description>
     <platform>all</platform>
   </extension>
 </addon>
