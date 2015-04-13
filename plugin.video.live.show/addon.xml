@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.live.show"
+       name="$ Live [COLOR orange]Show[/COLOR]"
+       version="1.0.0"
+       provider-name="lqc1987">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0" optional="true" />
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>[COLOR yellow]Giải [COLOR cyan]trí [COLOR tan]On[COLOR coral]line[/COLOR]</summary>
+    <description>Asia, Thúy Nga, Vân Sơn colection</description>
+	<disclaimer lang="en">Stream nội dung trên Internet nên tôi không chịu trách nhiệm về sự ổn định.</disclaimer>	
+    <platform>all</platform>
+  </extension>
+</addon>
