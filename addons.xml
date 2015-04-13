@@ -206,6 +206,25 @@
 </addon>
 
 <addon
+  id="plugin.video.HTVonline"
+  version="0.0.6"
+  name="[COLOR ffff0000]H[/COLOR][COLOR ff32cd32]T[/COLOR][COLOR ff0000ff]V[/COLOR][COLOR ffffffff]online[/COLOR]"
+  provider-name="traitravinh">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="htvonline.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch liveTV</summary>
+    <description>Watch liveTV</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
   id="plugin.video.htvonline.com.vn"
   version="1.0.9"
   name="TV-HTVOnline"
@@ -219,6 +238,27 @@
   <extension point="xbmc.addon.metadata">
     <summary>HTV Online</summary>
     <description>Xem cac kenh truyen hinh HTVcab tai htvonline.com.vn</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.live.show"
+       name="$ Live [COLOR orange]Show[/COLOR]"
+       version="1.0.0"
+       provider-name="lqc1987">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0" optional="true" />
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>[COLOR yellow]Giải [COLOR cyan]trí [COLOR tan]On[COLOR coral]line[/COLOR]</summary>
+    <description>Asia, Thúy Nga, Vân Sơn colection</description>
+	<disclaimer lang="en">Stream nội dung trên Internet nên tôi không chịu trách nhiệm về sự ổn định.</disclaimer>
     <platform>all</platform>
   </extension>
 </addon>
@@ -464,32 +504,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.phstreams"
-	name="Phoenix"
-	version="1.3.6"
-	provider-name="Blazetamer">
-  <requires>
-    <import addon="script.module.simplejson" version="3.3.0"/>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.urlresolver"  version="2.1.2"/>
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="script.module.simple.downloader" version="1.9.4" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Phoenix</summary>
-    <description lang="en">Discover Great Live Streaming Playlists Exclusive to XBMC, Please visit www.tvaddons.ag for help and support!</description>
-    <platform>all</platform>
-    <forum> http://forums.tvaddons.ag/forums/220-PHOENIX-LIVE-STREAMS</forum>
-    <website>http://www.tvaddons.ag/</website>
-  </extension>
-</addon>
-
 <addon id="plugin.video.popcornflix"
        name="Popcornflix"
        version="1.0.8"
@@ -604,6 +618,24 @@
     <website>www.sproutonline.com</website>
     <email></email>
     <source>https://github.com/learningit/plugin.video.sprout/</source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.TVCatchup" name="Truyền Hình Xem Lại" version="1.0.0" provider-name="lqc1987">
+  <requires>
+        <import addon="xbmc.python" version="2.1.0" optional="true" />
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>[COLOR yellow]Giải [COLOR cyan]trí [COLOR tan]On[COLOR coral]line[/COLOR]</summary>
+    <description>Xem lại các chương trình truyền hình trên Internet</description>
+	<disclaimer lang="en">Stream nội dung trên Internet nên tôi không chịu trách nhiệm về sự ổn định.</disclaimer>
+    <platform>all</platform>
   </extension>
 </addon>
 
