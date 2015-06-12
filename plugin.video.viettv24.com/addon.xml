@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon
   id="plugin.video.viettv24.com"
-  version="1.2.6"
+  version="1.2.7"
   name="TV-VietTV24"
   provider-name="ThongLD">
   <requires>
@@ -12,7 +12,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>VietTV24.com</summary>
-    <description>Xem hang tram kenh truyen hinh tai viettv24.com</description>
+    <description>kodivn 1.0.5</description>
     <platform>all</platform>
   </extension>
 </addon>

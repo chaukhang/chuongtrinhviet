@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="plugin.audio.chiasenhac"
-       name="[COLOR FF00BFFF]Music - Chiasenhac[/COLOR]"
+       name="Music - Chiasenhac"
        version="1.9"
        provider-name="VietMusic">
 	<requires>
@@ -78,6 +78,26 @@
     <platform>all</platform>
     <email>gh@874.org.uk</email>
   </extension>
+</addon>
+
+<addon id="plugin.audio.vietmedia.music"
+       name="VietMedia Music"
+       version="1.0.2"
+       provider-name="VietMedia">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="script.module.simple.downloader" version="1.9.4" />
+	</requires>
+    <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>audio</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <language>en</language>
+		<summary lang="en">VietMedia Music online</summary>
+		<description lang="en">Add-on play Music online</description>
+    </extension>
 </addon>
 
     <addon id="plugin.program.addoninstaller" version="1.2.0"
@@ -206,6 +226,24 @@
 </addon>
 
 <addon
+  id="plugin.video.hayhaytv"
+  version="1.0.25"
+  name="HayHayTV.vn"
+  provider-name="thongld">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>hayhaytv</summary>
+    <description>Watch free hayhaytv.vn (Vietnamese) Videos</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
   id="plugin.video.HTVonline"
   version="0.0.6"
   name="[COLOR ffff0000]H[/COLOR][COLOR ff32cd32]T[/COLOR][COLOR ff0000ff]V[/COLOR][COLOR ffffffff]online[/COLOR]"
@@ -226,7 +264,7 @@
 
 <addon
   id="plugin.video.htvonline.com.vn"
-  version="1.0.9"
+  version="1.0.10"
   name="TV-HTVOnline"
   provider-name="Traitravinh">
   <requires>
@@ -243,7 +281,7 @@
 </addon>
 
 <addon id="plugin.video.live.show"
-       name="$ Live [COLOR orange]Show[/COLOR]"
+       name="Show Hai Ngoai"
        version="1.0.0"
        provider-name="lqc1987">
   <requires>
@@ -304,6 +342,27 @@
 </addon>
 
 <addon
+  id="plugin.video.moviHD"
+  version="0.0.9"
+  name="moviHD.net"
+  provider-name="traitravinh">
+  <requires>
+    <import addon="script.module.requests" version="2.4.3" />
+    <import addon="script.common.plugin.cache" version="2.5.2" />
+    <import addon="script.module.simple.downloader" version="1.9.4" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="movihd.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch Movies</summary>
+    <description>Watch Movies on movihd.net</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
   id="plugin.video.movihd.net"
   version="0.0.9"
   name="Phim-MoviHD"
@@ -325,55 +384,144 @@
 </addon>
 
 <addon id="plugin.video.netmedia"
-       name="Show-iMedia"
-       version="1.0.14"
+       name="*netmedia"
+       version="1.1.3"
        provider-name="DaveLN">
   <requires>
-        <import addon="xbmc.python" version="2.1.0" optional="true" />
-		<import addon="script.module.simplejson" />
-		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+    <import addon="xbmc.python" version="2.14.0" optional="true" />
   </requires>
   <extension point="xbmc.python.pluginsource"
             library="default.py">
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Movies</summary>
-    <description>Internet Movies</description>
-	<disclaimer lang="en">I am not responsible for the contents of these streams, which are pulled from online provider(s). The streams do not represent my views or opinions in any way.</disclaimer>
+    <summary>Videos and audio from various websites</summary>
+    <description>Watch videos and listen to audio from many sources. </description>
+	<disclaimer lang="en">
+[COLOR lime]The streaming media are pulled from online provider(s).
+[COLOR red]These streams do not represent my views or opinions in any way.[/COLOR]</disclaimer>
     <platform>all</platform>
+		<license>http://www.gnu.org/licenses/</license>
+		<forum></forum>
+		<website>http://www.youtube.com/</website>
+		<website>http://www.dailymotion.com/</website>
+		<website>http://www.dnrtv.org.vn/tvod/chuyen-de/suc-khoe</website>
+		<website>http://nguoiviettv.com/?cat=23</website>
+		<email></email>
+		<mainsource>https://github.com/daveln/repository.daveln</mainsource>
+		<source>https://github.com/bromix/plugin.video.youtube</source>
+		<source>http://ftp.vim.org/pub/pub/mediaplayer/xbmc/addons/frodo/plugin.video.youtube/</source>
+		<source>https://github.com/AddonScriptorDE/plugin.video.dailymotion_com</source>
   </extension>
 </addon>
 
 <addon id="plugin.video.netmovie"
-       name="Phim-iMovie"
-       version="1.1.6"
+       name="*netmovie"
+       version="1.1.12"
        provider-name="DaveLN">
   <requires>
-        <import addon="xbmc.python" version="2.1.0" optional="true" />
-		<import addon="script.module.simplejson" />
-		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+        <import addon="xbmc.python" version="2.14.0" optional="true" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary>Movies</summary>
+    <description>Internet Movies</description>
+	<disclaimer lang="en">
+[COLOR lime]The streaming media are found via website(s).
+[COLOR red]These streams do not represent my views or opinions in any way.[/COLOR]</disclaimer>
+    <platform>all</platform>
+		<license>http://www.gnu.org/licenses/</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<source>https://github.com/daveln/repository.daveln</source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.netmusic"
+       name="*netmusic"
+       version="1.1.3"
+       provider-name="DaveLN">
+  <requires>
+        <import addon="xbmc.python" version="2.14.0" optional="true" />
   </requires>
   <extension point="xbmc.python.pluginsource"
             library="default.py">
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Movies</summary>
-    <description>Internet Movies</description>
-	<disclaimer lang="en">I am not responsible for the contents of these streams, which are pulled from online provider(s). The streams do not represent my views or opinions in any way.</disclaimer>
+    <summary>Music</summary>
+    <description>Internet Music</description>
+	<disclaimer lang="en">
+[COLOR lime]The streaming media are found via website(s).
+[COLOR red]These streams do not represent my views or opinions in any way.[/COLOR]</disclaimer>
+    <platform>all</platform>
+		<license>http://www.gnu.org/licenses/</license>
+		<forum></forum>
+		<website></website>
+		<email></email>
+		<source>https://github.com/daveln/repository.daveln</source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.netplaylists"
+       name="*netplaylists"
+       version="1.0.0"
+       provider-name="DaveLN">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0" optional="true" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Videos</summary>
+    <description>Watch videos from playlists.</description>
+	<disclaimer lang="en">
+[COLOR lime]The streaming media are pulled from online provider(s).
+[COLOR red]These streams do not represent my views or opinions in any way.[/COLOR]</disclaimer>
     <platform>all</platform>
   </extension>
 </addon>
 
 <addon id="plugin.video.nettivi"
-       name="TV-Nettivi"
-       version="1.1.9"
+       name="*nettivi"
+       version="1.2.1"
        provider-name="DaveLN">
   <requires>
-        <import addon="xbmc.python" version="2.1.0" optional="true" />
-		<import addon="script.module.simplejson" />
-		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+        <import addon="xbmc.python" version="2.14.0" optional="true" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>TV and Radio</summary>
+    <description>
+- Watch TV and listen to radio on the internet.
+- Add your own M3U, XML playlists.
+- 2 TV modes: Menu Selection or Direct Link.
+
+- Xem TV và nghe radio qua internet.
+- Có thể cho thêm M3U, XML playlists.
+- Có thể chọn TV với Menu Selection hoặc Direct Link.</description>
+	<disclaimer lang="en">
+[COLOR lime]The streaming media are found via website(s).
+[COLOR red]These streams do not represent my views or opinions in any way.[/COLOR]</disclaimer>
+    </extension>
+</addon>
+
+<addon id="plugin.video.netvideos"
+       name="*netvideos"
+       version="1.0.5"
+       provider-name="DaveLN">
+  <requires>
+        <import addon="xbmc.python" version="2.14.0" optional="true" />
   </requires>
   <extension point="xbmc.python.pluginsource"
             library="default.py">
@@ -381,13 +529,14 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>TV</summary>
-    <description>Internet TV</description>
+    <description>Watch videos from different sources</description>
 	<disclaimer lang="en">
 [COLOR lime]The streaming media are found via website(s).
 [COLOR red]These streams do not represent my views or opinions in any way.[/COLOR]</disclaimer>
     <platform>all</platform>
 		<license>http://www.gnu.org/licenses/</license>
 		<forum></forum>
+		<website>http://www.dnrtv.org.vn/</website>
 		<website></website>
 		<email></email>
 		<source>https://github.com/daveln/repository.daveln</source>
@@ -430,6 +579,24 @@
 </addon>
 
 <addon
+  id="plugin.video.ourmatch_net"
+  version="1.0.9"
+  name="Football-OutMatch.net"
+  provider-name="traitravinh">
+  <requires>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="ourmatch.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch Soccer Highlights</summary>
+    <description>Watch Soccer Highlights Videos</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
   id="plugin.video.phatphap"
   version="1.0.2"
   name="Video-PhatPhap"
@@ -449,7 +616,7 @@
 
 <addon
   id="plugin.video.phim60s.info"
-  version="2.0.7"
+  version="2.0.8"
   name="Phim-Phim60s"
   provider-name="ThongLD">
   <requires>
@@ -469,7 +636,7 @@
 
 <addon
   id="plugin.video.phimclip.vn"
-  version="1.1.1"
+  version="1.1.2"
   name="Phim-ClipVN"
   provider-name="ThongLD">
   <requires>
@@ -481,7 +648,27 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Clip.vn</summary>
-    <description>Watch free Clip.vn (Vietnamese) Videos kodivn 1.0.4</description>
+    <description>kodivn 1.0.5</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.phimvang"
+  version="1.1.1"
+  name="[COLOR white]PHIM[/COLOR][COLOR FFFFD700]VANG[/COLOR]"
+  provider-name="traitravinh">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" optional="true"/>
+    <import addon="script.module.requests" version="2.4.3" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="phimvang.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch Movies</summary>
+    <description>Watch Movies on phimvang.com</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -502,6 +689,29 @@
     <description>Watch Movies on phimvang.org</description>
     <platform>all</platform>
   </extension>
+</addon>
+
+<addon id="plugin.video.phstreams" name="Phoenix" version="2.0.6" provider-name="Blazetamer, lambda">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.pyxbmct" version="1.1.4" />
+		<import addon="script.common.plugin.cache" version="2.5.2"/>
+		<import addon="script.module.metahandler" version="2.3.1" />
+		<import addon="script.module.requests" version="1.1.0"/>
+		<import addon="script.module.simplejson" optional="true"/>
+		<import addon="script.module.parsedom" optional="true"/>
+		<import addon="plugin.video.youtube" optional="true"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Phoenix</summary>
+		<description lang="en">Discover Great Streaming Playlists Exclusive to Kodi, Please visit www.tvaddons.ag for help and support!</description>
+		<platform>all</platform>
+		<forum>http://forums.tvaddons.ag/forums/220-PHOENIX-LIVE-STREAMS</forum>
+		<website>http://www.tvaddons.ag/</website>
+	</extension>
 </addon>
 
 <addon id="plugin.video.popcornflix"
@@ -641,32 +851,36 @@
 
 <addon id="plugin.video.vietmedia.movie"
        name="VietMedia Movie"
-       version="1.0.1"
+       version="1.0.6"
        provider-name="VietMedia">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.simple.downloader" version="1.9.4" />
+    <import addon="plugin.video.youtube" version="4.4.10"/>
 	</requires>
     <extension point="xbmc.python.pluginsource"
                library="default.py">
         <provides>video</provides>
     </extension>
+
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <language>en</language>
 		<summary lang="en">VietMedia Movie online</summary>
-		<description lang="en">Add-on play Movie online. https://www.facebook.com/groups/vietkodi/</description>
+		<description lang="en">Add-on play Movie online.</description>
+    <disclaimer></disclaimer>
     </extension>
 </addon>
 
 <addon id="plugin.video.vietmovie"
        name="Phim-Megabox"
-       version="1.5"
+       version="1.6"
        provider-name="VietMusic">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0" />
-		<import addon="script.module.simple.downloader" version="1.9.4" />
-	</requires>
+  <requires>
+        <import addon="xbmc.python" version="2.1.0" optional="true" />
+		<import addon="script.module.simplejson" />
+		<import addon="script.module.t0mm0.common" version="1.1.0"/>
+  </requires>
     <extension point="xbmc.python.pluginsource"
                library="default.py">
         <provides>video</provides>
@@ -675,7 +889,7 @@
         <platform>all</platform>
         <language>en</language>
 		<summary lang="en">Viet Movie online</summary>
-		<description lang="en">Add-on play Vietnamese Movie online vietm 1.4</description>
+		<description lang="en">HCM-1.1.2</description>
     </extension>
 </addon>
 
@@ -698,7 +912,7 @@
 
 <addon
   id="plugin.video.viettv24.com"
-  version="1.2.6"
+  version="1.2.7"
   name="TV-VietTV24"
   provider-name="ThongLD">
   <requires>
@@ -709,7 +923,29 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>VietTV24.com</summary>
-    <description>Xem hang tram kenh truyen hinh tai viettv24.com</description>
+    <description>kodivn 1.0.5</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.vkool"
+  version="0.0.6"
+  name="vkool.net"
+  provider-name="traitravinh">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" optional="true"/>
+    <import addon="script.module.requests" version="2.4.3" />
+    <import addon="script.common.plugin.cache" version="2.5.2" />
+    <import addon="script.module.simple.downloader" version="1.9.4" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="vkool.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Watch Movies</summary>
+    <description>Watch Movies on vkool.net</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -821,6 +1057,19 @@ XBMC HUB: j.mp/xbmctorrent]]></description>
   </extension>
 </addon>
 
+<addon id="repository.daveln" name="DaveLN's Repository" version="1.0.1" provider-name="DaveLN">
+	<extension point="xbmc.addon.repository" name="DaveLN Addon Repository">
+		<info compressed="false">https://github.com/daveln/repository.daveln/raw/master/addons.xml</info>
+		<checksum>https://github.com/daveln/repository.daveln/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/daveln/repository.daveln/raw/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>XBMC add-ons</summary>
+		<description>Go through the add-ons and see what you like</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="repository.lambda" name="lambda Add-on repository" version="1.1.0" provider-name="lambda">
 	<extension point="xbmc.addon.repository" name="lambda Add-on repository">
 		<dir>
@@ -835,6 +1084,42 @@ XBMC HUB: j.mp/xbmctorrent]]></description>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Install Add-ons from lambda</summary>
 		<description lang="en">Download and install add-ons from lambda repository.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.traitravinh" name="TraiTraVinh's Testing Repo" version="1.0" provider-name="traitravinh">
+	<extension point="xbmc.addon.repository" name="TraiTraVinh's Testing Repo">
+		<info compressed="false">https://raw.github.com/traitravinh/traitravinh.repository.xbmc/master/addons.xml</info>
+		<checksum>https://raw.github.com/traitravinh/traitravinh.repository.xbmc/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/traitravinh/traitravinh.repository.xbmc/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Testing repo</summary>
+		<description>Testing repo</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.vietmedia"
+		name="VietMedia Add-ons"
+		version="1.0.0"
+		provider-name="VietMedia">
+  <requires>
+    <import addon="xbmc.addon" version="12.0.0"/>
+  </requires>
+	<extension point="xbmc.addon.repository"
+		name="VietMedia Add-on Repository">
+		<info compressed="true">https://raw.github.com/onepas/kodi-addons/master/addons.xml</info>
+		<checksum>https://raw.github.com/onepas/kodi-addons/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/onepas/kodi-addons/master</datadir>
+		<hashes>true</hashes>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">VietMedia Entertainment</summary>
+		<description lang="en"></description>
+		<disclaimer lang="en"></disclaimer>
 		<platform>all</platform>
 	</extension>
 </addon>
@@ -866,6 +1151,168 @@ XBMC HUB: j.mp/xbmctorrent]]></description>
                 <forum>http://forums.tvaddons.ag/forums/113-TVADDONS-AG-ADDON-REPOSITORY</forum>
                 <website>http://www.tvaddons.ag/</website>
 	</extension>
+</addon>
+
+<addon id="repository.xunitytalk" name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk Repository" version="1.0.3" provider-name=".[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk">
+	<extension point="xbmc.addon.repository" name="Mikey1234 Addon Repository">
+		<info compressed="false">http://xty.me/xunitytalk/addons/addons.xml</info>
+		<checksum>http://xty.me/xunitytalk/addons/addons.xml.md5</checksum>
+		<datadir zip="true">http://xty.me/xunitytalk/addons</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>The Best Third Party Addons for XBMC, .[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk</summary>
+		<description>The Best Third Party Addons for XBMC, .[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="script.module.addon.common"
+	     name="Common addon methods"
+	     version="2.0.0"
+	     provider-name="Eldorado (original: t0mm0)">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Collection of commonly used addon routines</summary>
+    <description lang="en">Collection of commonly used addon routines to simplify addon development.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="script.module.beautifulsoup"
+       name="BeautifulSoup"
+       version="3.2.1"
+       provider-name="Leonard Richardson (leonardr@segfault.org)">
+  <requires>
+    <import addon="xbmc.python"
+    		version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>HTML/XML parser for quick-turnaround applications like screen-scraping</summary>
+    <description>Beautiful Soup parses arbitrarily invalid SGML and provides a variety of methods and Pythonic idioms for iterating and searching the parse tree.</description>
+    <license>BSD</license>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="script.module.metahandler"
+     name="metahandler"
+     version="2.7.0"
+     provider-name="Eldorado">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="script.module.myconnpy" version="1.1.6"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Downloads Artwork for TV shows, Movies and Music videos for addons and stores them in a local SQLITE database</summary>
+    <description lang="en">Queries, stores, and returns metadata for TV shows, Movies and Musicvideos. [CR]Sources:[CR]www.thetvdb.com[CR]www.themoviedb.org[CR]www.imdb.com</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="script.module.myconnpy"
+       name="MySQL Connector/Python"
+       version="1.1.7"
+       provider-name="MySQL">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.module" library="lib"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">MySQL Connector/Python</summary>
+        <description lang="en">MySQL Connector/Python is implementing the MySQL Client/Server protocol completely in Python. This means you don't have to compile anything or MySQL (client library) doesn't even have to be installed on the machine.</description>
+        <license>GPLv2</license>
+        <platform>all</platform>
+        <website>http://dev.mysql.com/doc/connector-python/en/index.html</website>
+        <source>http://dev.mysql.com/downloads/connector/python/</source>
+    </extension>
+</addon>
+
+<addon id="script.module.pyxbmct"
+   name="PyXBMCt"
+   version="1.1.4"
+   provider-name="Roman_V_M">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">PyXBMCt UI framework</summary>
+    <description lang="en">PyXBMCt is a mini-framework for simple XBMC addon UI buliding. It is similar to PyQt and provides parent windows, a number of UI controls (widgets) and a grid layout manager to place controls.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <license>GNU GPL v.3</license>
+    <forum>http://forum.xbmc.org/showthread.php?tid=174859</forum>
+    <website>http://romanvm.github.io/PyXBMCt</website>
+    <email>romanvm@yandex.ua</email>
+    <source>https://github.com/romanvm/script.module.pyxbmct</source>
+  </extension>
+</addon>
+
+<addon id="script.module.requests"
+       name="requests"
+       version="2.6.0"
+       provider-name="kennethreitz, beenje">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Python HTTP for Humans</summary>
+    <description>Packed for XBMC from https://github.com/kennethreitz/requests</description>
+    <platform>all</platform>
+    <language></language>
+    <license>Apache2</license>
+    <forum></forum>
+    <website>http://python-requests.org</website>
+    <source>https://github.com/beenje/script.module.requests</source>
+    <email>beenje AT gmail.com</email>
+  </extension>
+</addon>
+
+<addon id="script.module.simplejson"
+       name="simplejson"
+       version="3.3.0"
+       provider-name="Martijn">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language></language>
+    <summary lang="en">Simple, fast, extensible JSON encoder/decoder for Python</summary>
+    <description lang="en">Simple, fast, extensible JSON encoder/decoder for Python</description>
+    <disclaimer lang="en">Code taken from https://pypi.python.org/pypi/simplejson/</disclaimer>
+    <license>MIT License, Academic Free License v. 2.1</license>
+    <website>https://pypi.python.org/pypi/simplejson/</website>
+    <source>https://pypi.python.org/pypi/simplejson/</source>
+  </extension>
 </addon>
 
 <addon id="script.video.F4mProxy"

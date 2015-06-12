@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon
   id="plugin.video.phim60s.info"
-  version="2.0.7"
+  version="2.0.8"
   name="Phim-Phim60s"
   provider-name="ThongLD">
   <requires>
