@@ -264,7 +264,7 @@
 
 <addon
   id="plugin.video.htvonline.com.vn"
-  version="1.0.10"
+  version="1.0.11"
   name="TV-HTVOnline"
   provider-name="Traitravinh">
   <requires>
