@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon
   id="plugin.video.viettv24.com"
-  version="1.2.7"
+  version="1.2.9"
   name="TV-VietTV24"
   provider-name="ThongLD">
   <requires>

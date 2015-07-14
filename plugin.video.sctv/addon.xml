@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<addon
-	id="plugin.video.sctv"
-	version="0.9.5"
-	name="TV-SCTV"
-	provider-name="zecoj">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<language>en vi</language>
-		<disclaimer lang="vi">Tat ca live streams duoc tai ve tu cac nha cung cap dich vu. Tac gia phan mem nay khong chiu trach nhiem ve noi dung cua chung.</disclaimer>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-	</extension>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.sctv" name="TV-FPT Play" version="1.5.2" provider-name="repository.cx.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.xbmcswift2" version="2.4.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.service"
+			library="start.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language></language>
+    <summary lang="en">Vietnam TV Online</summary>
+    <description lang="en">This plugin allows you to watch live TV channels in Vietnam - Source from ftp play sites (http://fptplay.net)</description>
+  </extension>
 </addon>
