@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" ?>
+<channels>
+<channel>
+<name>tvhaingoai</name>
+<items>
+
+<item>
+<title>VSTAR Television Channel</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/stream_vstartv/playlist.m3u8?worldtokenstarttime=1437363306&worldtokenendtime=1437447906&worldtokenhash=vUlp_doJbuj0WZnTTlLwpBRHS9EElCZ9oXslmOQQnHQ=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>Sài Gòn Network Channel</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/stream_sgn/playlist.m3u8?worldtokenstarttime=1437363704&worldtokenendtime=1437448304&worldtokenhash=xvcAmTGH03ZlIXOZL1K1zQuEA9FZHTAyjwva9UssK3A=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>BYN TV Houston TX 57.3</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/stream_byn/playlist.m3u8?worldtokenstarttime=1437363222&worldtokenendtime=1437447822&worldtokenhash=2FOWz209DmUTthrlMUpLjtTORpPNGjCrp4E0MWf75vc=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>Vietnamese American Network Television</title>
+<link>http://origin.onworldtv.com:1935/liveorigin/stream_van/playlist.m3u8?worldtokenstarttime=1437363502&worldtokenendtime=1437448102&worldtokenhash=AZwzXIx32NvZETqarCNYDdj5WtVJTV0cyl5qBnwrpDk=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>S Channel</title>
+<link>http://54.152.24.55:1935/schannel/myStream/chunklist_w1927396712.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>Việt Global Mail</title>
+<link>http://origin1-edge2.yourstreamlive.com:1935/live/yourstreamlive/out_956_2kr6rvfu/playlist.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>Cải Lương</title>
+<link>http://206.190.136.254/liveStream/cailuong/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDc6Mjk6MTkgUE0maGFzaF92YWx1ZT1RbkUvbCtGNE15RmJMbThFaUI4Vnp3PT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>Hài 24/7</title>
+<link>http://206.190.136.254/liveStream/hai/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDc6MjM6NTggUE0maGFzaF92YWx1ZT1Jd2ZEd09rdjhDRjJWK2JsNGNBMEtnPT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>Tuổi Thần Tiên</title>
+<link>http://206.190.136.254/liveStream/ttt/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDc6NDk6NTcgUE0maGFzaF92YWx1ZT1yUElxcGNvYjd6TW1CUkIvcUJ4VUl3PT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>IBC TV 57.8 Cali</title>
+<link>http://206.190.136.254/liveStream/ibctv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDc6MzE6MTUgUE0maGFzaF92YWx1ZT15a2NXSzRoN2hIbVR4cTdENWxsRkVBPT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>KVLA 56.5 Cali</title>
+<link>http://67.212.234.30/liveStream/kvla/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDg6MjE6MTIgUE0maGFzaF92YWx1ZT1mRDFBTy9lN1VSWWxDY2hYVXNRNC93PT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>Đồng Giao TV</title>
+<link>http://206.190.136.254/liveStream/dgtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDc6MzM6NTAgUE0maGFzaF92YWx1ZT1xVWRaNWNrbElXUVVvQ2J0OUtqNkRnPT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>Little Saigon TV 57.7 Cali</title>
+<link>http://206.190.136.254/liveStream/lstv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDg6MjI6NDIgUE0maGFzaF92YWx1ZT1NeEVnRmQxdGNtYVVyclFuKytGU2l3PT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>Saigon TV 57.5</title>
+<link>http://206.190.136.254/liveStream/sgtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDc6MzU6NTEgUE0maGFzaF92YWx1ZT1LYis2aXZKT1JJby9wZjErb3E3Vit3PT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>SET TV</title>
+<link>http://67.212.234.30/liveStream/set/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE1IDI6NDg6NDEgQU0maGFzaF92YWx1ZT1NY0R6VW04Vk1Id2c5OGNUbmc0dVVRPT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>SET TV</title>
+<link>http://67.212.234.30/liveStream/set/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDg6MzQ6NTUgUE0maGFzaF92YWx1ZT1pOUsrdURMY2ZqenZWY05LZ0dQQU9BPT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>VietSun TV</title>
+<link>http://206.190.140.140/liveStream/vietsuntv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDg6MzU6MzEgUE0maGFzaF92YWx1ZT1Ga2svVW55VHliVVJJajlHcUFjZXZnPT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>Việt Media TV</title>
+<link>http://206.190.136.254/liveStream/viettv24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDg6Mjg6NTAgUE0maGFzaF92YWx1ZT1LUWVhRC9yRFpiWHVnQlNzbFgzd3pBPT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>Vpop TV</title>
+<link>http://206.190.136.254/liveStream/vpoptv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDc6NDA6NTcgUE0maGFzaF92YWx1ZT1WTHVocCs1VTIvWnBuVEorYVBKNi9BPT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>VAN TV 55.2 (Houston)</title>
+<link>http://206.190.136.254/liveStream/vantv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDg6MTE6NTAgUE0maGFzaF92YWx1ZT1tbWdHTU9senRzTndDL0d3azFVOWdBPT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>VietV California 54.3</title>
+<link>http://206.190.140.140/liveStream/vietvla/playlist.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>VBS TV 57.6</title>
+<link>http://206.190.140.140/liveStream/vbstv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDg6MzA6NTAgUE0maGFzaF92YWx1ZT1QR1dMNkxEUWdiYUtZajdqZGh6UE1nPT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>VietFace TV California 57.2</title>
+<link>http://67.212.234.30/liveStream/vface/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDE1IDI6NDQ6NDkgQU0maGFzaF92YWx1ZT1iKzBzMFlvei96Q0lrY1dVV0creTdBPT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>VietFace TV California 57.2</title>
+<link>http://206.190.140.140/liveStream/vface/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDg6MzE6MjUgUE0maGFzaF92YWx1ZT1SVXcvMXJGYTlOLzBmWXVhT3ViS2tRPT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>V Music</title>
+<link>http://67.212.234.30/liveStream/mtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDg6MzI6MTQgUE0maGFzaF92YWx1ZT1JVEtiTm5TSk9kNTlLU0hwVm9xLzVnPT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>Phật Từ Bi</title>
+<link>http://206.190.136.254/liveStream/ptb/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE1IDc6NDM6MjggUE0maGFzaF92YWx1ZT14U2lUblFnSUlIU21KRUlTRzRzZjl3PT0mdmFsaWRtaW51dGVzPTU=</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>Việt Christian</title>
+<link>http://live.vietchristian.com:80/tv</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+<item>
+<title>Việt MTV</title>
+<link>http://64.62.143.5:1935/live/donotstealmy-Stream1/playlist.m3u8?wowzasessionid=937763912</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvhaingoai.png</thumbnail>
+</item>
+
+
+
+
+</items>
+</channel>
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

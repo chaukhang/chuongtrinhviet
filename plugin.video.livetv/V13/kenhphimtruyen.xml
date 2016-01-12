@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" ?>
+<channels>
+<channel>
+<name>kenhphimtruyen</name>
+<items>
+
+<item>
+<title>HBO HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>HBO SD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>HBO Plus</title>
+<link>rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>HBO Family East</title>
+<link>http://24.139.223.247/load.php?chan=897</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjNUcHcwMEkyS0gxUGRvQlMzaGpxSDQtZGNtUVZrSy1fQzhDSjJ1NEhmbmM/tvusa.png</thumbnail>
+</item>
+<item>
+<title>Cinemax East</title>
+<link>http://24.139.223.247/load.php?chan=901</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjNUcHcwMEkyS0gxUGRvQlMzaGpxSDQtZGNtUVZrSy1fQzhDSjJ1NEhmbmM/tvusa.png</thumbnail>
+</item>
+<item>
+<title>Fox Cinema</title>
+<link>http://24.139.223.247/load.php?chan=1428</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjNUcHcwMEkyS0gxUGRvQlMzaGpxSDQtZGNtUVZrSy1fQzhDSjJ1NEhmbmM/tvusa.png</thumbnail>
+</item>
+<item>
+<title>Fox Action Este</title>
+<link>http://24.139.223.247/load.php?chan=1429</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjNUcHcwMEkyS0gxUGRvQlMzaGpxSDQtZGNtUVZrSy1fQzhDSjJ1NEhmbmM/tvusa.png</thumbnail>
+</item>
+<item>
+<title>SKY Scifi & Horror</title>
+<link>http://24.139.223.247/load.php?chan=932</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjNUcHcwMEkyS0gxUGRvQlMzaGpxSDQtZGNtUVZrSy1fQzhDSjJ1NEhmbmM/tvusa.png</thumbnail>
+</item>
+<item>
+<title>Sony Movie Channel USA</title>
+<link>http://24.139.223.247/load.php?chan=940</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjNUcHcwMEkyS0gxUGRvQlMzaGpxSDQtZGNtUVZrSy1fQzhDSjJ1NEhmbmM/tvusa.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>SCTVHD HBO</title>
+<link>http://123.30.184.172:1935/livez3/smil:hbo.smil/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/LHn4BDJ.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD STAR MOVIES</title>
+<link>http://113.160.49.34/lives/origin03/moviehd.isml/moviehd.m3u8</link>
+<thumbnail>http://i.imgur.com/w9qCgb9.png</thumbnail>
+</item>
+
+
+<item>
+<title>VTVCAB2 PHIM VIET</title>
+<link>http://2co1.vp9.tv/chn/phimv/v.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>VTVcab 2 - Kênh phim truyện Việt Nam</title>
+<link>http://tvod.accessasia.tv:8080/tvod/air/vctv2.480p/index.m3u8?e=1389728751&amp;st=ec_kFlx1ytFUw6ErmiEmHg</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>SCTV 14 - Kênh phim Việt</title>
+<link>http://tvod.accessasia.tv:8080/live/sctv14.480p/index.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>SCTV9 - Kênh Phim Châu Á</title>
+<link>http://vtsstr9.sctv.vn/mslive//C041_SD_3/chunklist.m3u8?us=b58fb424f50d6622991f2519a55dd1ade42026f97400d5f2d0c83c860685d831ae6d271893992731192ede4845ad83be-103247</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv9.png</thumbnail>
+</item>
+<item>
+<title>SCTV 14 - Kênh phim Việt</title>
+<link>http://tvod.accessasia.tv:8080/live/sctv14.480p/index.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>SCTV14 - Kênh Phim Việt</title>
+<link>http://vtsstr9.sctv.vn/mslive//C032_SD_3/chunklist.m3u8?us=b58fb424f50d6622991f2519a55dd1ade42026f97400d5f2d0c83c860685d831ae6d271893992731192ede4845ad83be-103247</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv14.png</thumbnail>
+</item>
+<item>
+<title>SCTV 16 - Kênh Phim Nước Ngoài</title>
+<link>http://vtsstr9.sctv.vn/mslive//C033_SD_3/chunklist.m3u8?us=b58fb424f50d6622991f2519a55dd1ade42026f97400d5f2d0c83c860685d831ae6d271893992731192ede4845ad83be-103247</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv16.png</thumbnail>
+</item>
+<item>
+<title>SCTV 17 - Kênh Phim Truyện Chọn Lọc</title>
+<link>http://vtsstr9.sctv.vn/mslive//C034_SD_3/chunklist.m3u8?us=b58fb424f50d6622991f2519a55dd1ade42026f97400d5f2d0c83c860685d831ae6d271893992731192ede4845ad83be-103247</link>
+<thumbnail>http://xemtvhd.net/images/icon-channel/sctv-phimtonghop.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD PHIM VIỆT</title>
+<link>http://vtsstr9.sctv.vn/mslive//C009_HD_4/chunklist.m3u8?us=b58fb424f50d6622991f2519a55dd1ade42026f97400d5f2d0c83c860685d831ae6d271893992731192ede4845ad83be-103247
+</link>
+<thumbnail>http://i.imgur.com/KHHTcV9.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD PHIM CHÂU Á</title>
+<link>http://vtsstr9.sctv.vn/mslive//C010_HD_4/chunklist.m3u8?us=b58fb424f50d6622991f2519a55dd1ade42026f97400d5f2d0c83c860685d831ae6d271893992731192ede4845ad83be-103247
+</link>
+<thumbnail>http://i.imgur.com/KHHTcV9.png</thumbnail>
+</item>
+<item>
+<title>SCTVHD PHIM TỔNG HỢP</title>
+<link>http://vtsstr9.sctv.vn/mslive//C013_HD_4/chunklist.m3u8?us=b58fb424f50d6622991f2519a55dd1ade42026f97400d5f2d0c83c860685d831ae6d271893992731192ede4845ad83be-103247
+</link>
+<thumbnail>http://i.imgur.com/OLd6ZYa.png</thumbnail>
+</item>
+<item>
+<title>Thuần Việt HD - Giải Trí Tổng Hợp</title>
+<link>http://tvod.accessasia.tv:8080/tvod/air/thuanviet.480p/index.m3u8?e=1389744448&amp;st=qyg7wGxdgIptlUnbonBKuQ</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+
+
+</items>
+</channel>
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

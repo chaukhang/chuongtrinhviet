@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channels>
+<name>tvusa</name>
+<channel>
+<items>
+<item>
+<title>[COLOR lime]****USA TV****[/COLOR]</title>
+<link>http://www.youtube.com</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>Disney Channel</title>
+<link>http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>CARTOON NETWORK</title>
+<link>http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>CNN USA</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>CNN International</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Cnn News</title>
+<link>http://tinyurl.com/pbl5tlu</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Bbc World News</title>
+<link>http://tinyurl.com/m6v9477</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Sky News International</title>
+<link>http://tinyurl.com/oabmxrx</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Cnbc News</title>
+<link>http://tinyurl.com/nwdh2fo</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Abc News</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>ABC 22 HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>CBS HD (WHIO 7)</title>
+<link>http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>abc hd</title>
+<link>http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Fox</title>
+<link>http://tinyurl.com/ofd3osj</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>ESPN HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>ESPN HD</title>
+<link>http://80.80.160.168/live/6/live.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>ESPN HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>ESPN SD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>ESPN 2 SD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>Discovery Channel HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Discovery</title>
+<link>http://tinyurl.com/ofsp9ru</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>DISCOVERY CHANNEL</title>
+<link>http://31.220.41.107/LiveEdge/DiscoveryChannelUSAHD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Discovery Channel</title>
+<link>http://80.80.160.168/live/8/live.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Discovery Sc. HD</title>
+<link>http://80.80.160.168/live/9/live.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Nat GEO HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Nat Geo</title>
+<link>http://tinyurl.com/pyg947w</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Animal Planet</title>
+<link>http://tinyurl.com/pal7flr</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Animal Planet</title>
+<link>http://80.80.160.168/live/1/live.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Planet Green</title>
+<link>http://80.80.160.168/live/4/live.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>History Channel (USA)</title>
+<link>http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Science</title>
+<link>http://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420170626</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Sci Channel</title>
+<link>http://80.80.160.168/live/9/live.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Fox Life</title>
+<link>http://tinyurl.com/q25vot9</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Viasat Nature</title>
+<link>http://tinyurl.com/q62bhxw</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Viasat History</title>
+<link>http://tinyurl.com/pzljomt</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>HBO HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>HBO SD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>HBO Plus</title>
+<link>rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Hbo Comedy</title>
+<link>http://tinyurl.com/ngx4b9v</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Tom and Jerry</title>
+<link>rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&amp;itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>24/7 HD Movies 1</title>
+<link>http://tinyurl.com/ojb2h8d</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>24/7 HD Movies 2</title>
+<link>http://tinyurl.com/qy6amzb</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Scfi</title>
+<link>http://tinyurl.com/qf7h55j</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>SyFy SD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Fox Crime</title>
+<link>http://tinyurl.com/pgl22ws</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+
+
+
+
+
+
+<item>
+<title>USA:Vevo1 HD</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>USA:Vevo2 HD</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>USA:Vevo3 HD</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>USA:Kiss Tv Music</title>
+<link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+
+
+
+
+
+
+<item>
+<title>Food Network</title>
+<link>http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>FOX 45 HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p/playlist.m3u8?wowzasessionid=1419906680</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>FOX News HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Golf Channel HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Hallmark HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+
+<item>
+<title>I.D.</title>
+<link>http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>MSNBC SD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>NBC HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>NBC Sports Network HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Nickelodeon SD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/64jaber5pjqj2cr/playlist.m3u8?wowzasessionid=1434627898</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>OWN</title>
+<link>http://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Oxygen</title>
+<link>http://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz/playlist.m3u8?wowzasessionid=1419872183</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+
+<item>
+<title>Showtime HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Spike</title>
+<link>http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>SyFy SD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Tbs</title>
+<link>http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>TLC</title>
+<link>http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Travel Channel SD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/1fvuok2ny4jtmgq/chunklist.m3u8?wowzasessionid=1419913887</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>TruTV</title>
+<link>http://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>TV Land</title>
+<link>http://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>VH-1</title>
+<link>http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>CBS HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+
+<item>
+<title>TNT HD</title>
+<link>http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+
+
+
+
+
+
+<item>
+<title>Id Extra</title>
+<link>http://tinyurl.com/ope6k5w</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+
+<item>
+<title>ID Channel</title>
+<link>http://80.80.160.168/live/5/live.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Showtime</title>
+<link>http://80.80.160.168/live/7/live.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>Pink Premium</title>
+<link>http://tinyurl.com/n9gbapx</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Pink Comedy</title>
+<link>http://tinyurl.com/qyppbu8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Pink Action 2</title>
+<link>http://tinyurl.com/q7umoqn</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Pink Action 3</title>
+<link>http://tinyurl.com/ox3ot77</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Pink Film</title>
+<link>http://tinyurl.com/p59gg2l</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Pink Movies 2</title>
+<link>http://tinyurl.com/qaugdkb</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Pink Movies 3</title>
+<link>http://tinyurl.com/qhaqwsj</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Cine Max</title>
+<link>http://tinyurl.com/pxmse6v</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Cinestar Action</title>
+<link>http://tinyurl.com/p3ologd</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Cinestar</title>
+<link>http://tinyurl.com/oyf62ug</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Travel Channel</title>
+<link>http://80.80.160.168/live/3/live.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Tlc</title>
+<link>http://tinyurl.com/ombh4xg</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Axn</title>
+<link>http://tinyurl.com/qb6te7y</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Pink and Roll</title>
+<link>http://tinyurl.com/nmu8a8p</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Pink Music 3</title>
+<link>http://tinyurl.com/oblpd4s</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+<item>
+<title>Pink Live</title>
+<link>http://tinyurl.com/nrysb5v</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fmZlb3l5MmEtbmxuWlpyVFFfOHJ0cVA5cmpIVS1seDVXOG1fby1HcmFuNzg/livetvicon.png</thumbnail>
+</item>
+</items>
+</channel>
+</channels>
+
+
+

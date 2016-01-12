@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channels>
+<channel>
+<name>kenhthieunhi</name>
+<items>
+
+
+
+
+
+<item>
+<title>Anime Livestrea 24/7</title>
+<link>http://veetle.com/index.php/hls/streamMbrfast/52a0adb7b6024_/stream.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjNUcHcwMEkyS0gxUGRvQlMzaGpxSDQtZGNtUVZrSy1fQzhDSjJ1NEhmbmM/kenhthieunhi.png</thumbnail>
+</item>
+<item>
+<title>Cartoon Network SV1</title>
+<link>http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjNUcHcwMEkyS0gxUGRvQlMzaGpxSDQtZGNtUVZrSy1fQzhDSjJ1NEhmbmM/kenhthieunhi.png</thumbnail>
+</item>
+<item>
+<title>Cartoon Network SV2</title>
+<link>rtsp://72.13.93.186/campcartoon</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjNUcHcwMEkyS0gxUGRvQlMzaGpxSDQtZGNtUVZrSy1fQzhDSjJ1NEhmbmM/kenhthieunhi.png</thumbnail>
+</item>
+<item>
+<title>VTVCAB8 BIBI</title>
+<link>http://hlscache.fptplay.net.vn/livev/bibi_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvtrongnuoc.png</thumbnail>
+</item>
+
+
+
+</items>
+</channel>
+</channels>
+

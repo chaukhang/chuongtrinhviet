@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channels>
+<name>tvusa</name>
+<channel>
+<items>
+<item>
+<title>[COLOR lime]****USA TV****[/COLOR]</title>
+<link>http://www.youtube.com</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR ffff0000]Vdubt25[/COLOR] -> USA Live TV</title>
+<link>tovdubt25</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/vdubt.png</thumbnail>
+</item>
+
+
+<item>
+<title>CNN USA</title>
+<link>http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthlsv2/5.m3u8?op_id=18</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+
+<item>
+<title>CNN</title>
+<link>http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthlsv2/186.m3u8?op_id=18</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+
+<item>
+<title>CNN International</title>
+<link>http://hlscache.fptplay.net.vn/event/cnn/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>FOX News</title>
+<link>http://globeiptv.ddns.net:88/nAm/dsjkkjlg/1251.gi</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+
+<item>
+<title>BLOOMBERG</title>
+<link>http://globeiptv.ddns.net:88/nAm/dsjkkjlg/147.gi</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+
+<item>
+<title>CNBC News</title>
+<link>http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+
+<item>
+<title>ABC News</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>AMC</title>
+<link>http://globeiptv.ddns.net:88/nAm/dsjkkjlg/1774.gi</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>ESPN 2</title>
+<link>rtmp://162.254.148.228/app// playpath=stfox1s-channel swfUrl=http://p.jwpcdn.com/6/6/jwplayer.flash.swf pageUrl=http://hdtoptv.com/alive/amiga11.php live=true</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>ESPN HD</title>
+<link>http://80.80.160.168/live/6/live.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>FOX SPORT 2 HD</title>
+<link>http://www.htvonline.com.vn/livetv/espn-hd-3132346E61.html</link>
+<thumbnail>http://img.htvonline.com.vn/livetv/04052015/fox2hd_61921430731143.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>TECH CHANNEL</title>
+<link>rtmp://203.162.121.230/live//tech?securetoken=#ed%h0#w@1</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/techI.png</thumbnail>
+</item>
+<item>
+<title>SOTV</title>
+<link>rtmp://203.162.121.230/live//sotv?securetoken=#ed%h0#w@1</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/SOTVI.png</thumbnail>
+</item>
+<item>
+<title>Discovery Channel</title>
+<link>http://globeiptv.ddns.net:88/nAm/dsjkkjlg/1242.gi</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>Discovery Science</title>
+<link>http://globeiptv.ddns.net:88/nAm/dsjkkjlg/1275.gi</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>NATIONAL GEOGRAPHIC SV1</title>
+<link>http://www.htvonline.com.vn/livetv/national-geographic-3132366E61.html</link>
+<thumbnail>http://img.htvonline.com.vn/livetv/26042014/natgeo2_59521398493696.png</thumbnail>
+</item>
+<item>
+<title>Nat GEO HD</title>
+<link>http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthlsv2/96.m3u8?op_id=18</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>Animal Planet</title>
+<link>http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthlsv2/142.m3u8?op_id=18</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+
+<item>
+<title>History Channel (USA)</title>
+<link>http://cloudiptv.dyndns.tv:1935/live/_definst_/Hitstoryhd.stream/playlist.m3u8?username=zo&password=f84quqgi1l7jwqd</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+
+<item>
+<title>Fashion TV</title>
+<link>http://msk1.peers.tv/streaming/fashion/16/tvrec/playlist.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+
+<item>
+<title>MODEL CHANNEL</title>
+<link>rtmp://203.162.121.230/live//model_channel?securetoken=#ed%h0#w@1</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/MOCI.png</thumbnail>
+</item>
+<item>
+<title>FITNESS 360</title>
+<link>rtmp://203.162.121.230/live//fitness_360?securetoken=#ed%h0#w@1</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/360I.png</thumbnail>
+</item>
+<item>
+<title>4 MEN</title>
+<link>rtmp://203.162.121.230/live//4Men?securetoken=#ed%h0#w@1</link>
+<thumbnail>http://xbmc.itvplus.net/LOGO/LIFE/4menI.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>STAR MOVIE HD</title>
+<link>http://www.htvonline.com.vn/livetv/star-movie-hd-3132376E61.html</link>
+<thumbnail>http://img.htvonline.com.vn/livetv/18052014/star-movies-hd--edited_75921400346206.png</thumbnail>
+</item>
+<item>
+<title>STAR WORLD HD</title>
+<link>http://www.htvonline.com.vn/livetv/star-world-hd-3132386E61.html</link>
+<thumbnail>http://img.htvonline.com.vn/livetv/18052014/star-world-hd--edited_72251400346181.png</thumbnail>
+</item>
+
+
+<item>
+<title>HBO</title>
+<link>http://cloudiptv.dyndns.tv:1935/live/_definst_/hd_hbo.stream/playlist.m3u8?username=zo&password=f84quqgi1l7jwqd</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>Fox Action</title>
+<link>http://cloudiptv.dyndns.tv:1935/live/_definst_/Foxaction.stream/playlist.m3u8?username=zo&password=f84quqgi1l7jwqd</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>Fox Family</title>
+<link>http://cloudiptv.dyndns.tv:1935/live/_definst_/Foxfamily.stream/playlist.m3u8?username=zo&password=f84quqgi1l7jwqd</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>Cartoon Network</title>
+<link>http://globeiptv.ddns.net:88/nAm/dsjkkjlg/1781.gi</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>Anime Livestrea 24/7</title>
+<link>http://veetle.com/index.php/hls/streamMbrfast/52a0adb7b6024_/stream.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>Disney Channel</title>
+<link>http://tv-tikilive-hls-live.hls.adaptive.level3.net/casthlsv2/89.m3u8?op_id=18</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>USA:Vevo1 HD</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>USA:Vevo2 HD</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>USA:Vevo3 HD</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>USA:Kiss Tv Music</title>
+<link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>NBC GOLF SD</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>NBC GOLF 720p</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>NBC GOLF 1080p</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>NBC Sports Network 1080P</title>
+<link>http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>USA Live TV Big Ten Network</title>
+<link>http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>PAC-12 Net. (Arizona)</title>
+<link>http://xrxs.net/video/live-p12ariz-4728.m3u8?</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>PAC-12 Net. (Bay Area)</title>
+<link>http://xrxs.net/video/live-p12baya-4728.m3u8?</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>PAC-12 Net. (Los Angeles)</title>
+<link>http://xrxs.net/video/live-p12losa-4728.m3u8?</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>PAC-12 Net. (Moutain)</title>
+<link>http://xrxs.net/video/live-p12moun-4728.m3u8?</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>PAC-12 Net. (Oregon)</title>
+<link>http://xrxs.net/video/live-p12oreg-4728.m3u8?</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>PAC-12 Net. (Oregon) 1280*720</title>
+<link>http://xrxs.net/video/live-p12oreg-2328.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>PAC-12 Net. (Oregon) 640*360</title>
+<link>http://xrxs.net/video/live-p12oreg-1164.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>PAC-12 Net. (Washington)</title>
+<link>http://xrxs.net/video/live-p12wash-4728.m3u8?</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>PAC National 1280*720</title>
+<link>http://xrxs.net/video/live-p12netw-2328.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>PAC National 640*360</title>
+<link>http://xrxs.net/video/live-p12netw-1164.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>USA-BASKET UNI.(Arizona)</title>
+<link>http://xrxs.net/video/live-p12ariz-1164.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>USA-BASKET UNI.(Los Angeles)</title>
+<link>http://xrxs.net/video/live-p12losa-1164.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>USA-BASKET UNI.(Moutain)</title>
+<link>http://xrxs.net/video/live-p12moun-1164.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>USA-BASKET UNI.(Oregon)</title>
+<link>http://xrxs.net/video/live-p12oreg-1164.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>USA-BASKET UNI.(Washington)</title>
+<link>http://xrxs.net/video/live-p12wash-2328.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>SPORTES 7 HD</title>
+<link>http://xrxs.net/video/live-p12oreg-4728.m3u8</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>HSN</title>
+<link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_ playpath=mp4:420p500kB31 swfUrl=http://img.hsni.com/images/Site_Relaunch_2007/arcade/StrobeMediaPlay pageUrl="http://www.hsn.com/watch-hsn-tv-live_xh.aspx?network=1&amp live=1 timeout=30</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+<item>
+<title>HSN 2</title>
+<link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_ playpath=mp4:468p500kB31 swfUrl=http://img.hsni.com/images/Site_Relaunch_2007/arcade/StrobeMediaPlay pageUrl=http://hsn2.hsn.com/watch-hsn-live_xh.aspx?network=4 live=1 timeout=30</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/tvusa.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR lime]↓↓↓ NOT Working Channels ↓↓↓[/COLOR]</title>
+<link>http://www.youtube.com</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjNUcHcwMEkyS0gxUGRvQlMzaGpxSDQtZGNtUVZrSy1fQzhDSjJ1NEhmbmM/kenhthieunhi.png</thumbnail>
+</item>
+
+
+
+
+
+</items>
+</channel>
+</channels>
+
+
+

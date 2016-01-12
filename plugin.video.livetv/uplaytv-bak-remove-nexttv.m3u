@@ -1,0 +1,2028 @@
+#EXTM3U
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH VTVPLAY[/COLOR]  
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1sd_hls.smil/playlist.m3u8
+#EXTINF:0, --VTV1 SD 
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1sd_hls.smil/playlist.m3u8
+#EXTINF:0, --VTV3 SD 
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv3sd_hls.smil/playlist.m3u8
+#EXTINF:0, --VTV6 SD 
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv6sd_hls.smil/playlist.m3u8
+#EXTINF:0, --BIBI TV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:bibi_hls.smil/playlist.m3u8
+#EXTINF:0, --KÊNH17
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:kenh17_hls.smil/playlist.m3u8
+#EXTINF:0, --SCTVHD HÀI
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:sctvhaihd_hls.smil/playlist.m3u8
+#EXTINF:0, --HTV9
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:htv9_hls.smil/playlist.m3u8
+#EXTINF:0, --ARIANG
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:arirang_hls.smil/playlist.m3u8
+#EXTINF:0, --KBS
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:kbs_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVcab2 PHIM VIET
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:phimviet_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB1 GIẢI TRÍ
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:giaitritv_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB10 O2TV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:o2tv_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB15 INVESTV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:investtv_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB9 INFOTV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:infotv_hls.smil/playlist.m3u8
+#EXTINF:0, --BÓNG ĐÁ TV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/playlist.m3u8
+#EXTINF:0, --THỂ THAO TV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:thethaotvsd_hls.smil/playlist.m3u8
+#EXTINF:0, --HN1 HÀ NỘI 1
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:hanoi1_hls.smil/playlist.m3u8
+#EXTINF:0, --HTVC PHỤ NỮ
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:htvcphunu_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB7 DDRAMAS
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:ddramas_hls.smil/playlist.m3u8
+#EXTINF:0, --VTVCAB12 STYLETV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:styletv_hls.smil/playlist.m3u8
+#EXTINF:0, --VTC4 YEAH1
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:yeah1tv_hls.smil/playlist.m3u8
+#EXTINF:0, --BÓNG ĐÁ TV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:bongdatvsd_hls.smil/playlist.m3u8
+#EXTINF:0, --THỂ THAO TV
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:thethaotvsd_hls.smil/playlist.m3u8
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH-LIFETV[/COLOR]  
+http://uplayhd.com/
+#EXTINF:0, --LIFETV
+rtmp://27.118.16.16/live/live_lifetv swfUrl=http://live.lifetv.vn/jwplayer/player.swf pageUrl=http://live.lifetv.vn/
+#EXTINF:0, --KÊNH 9 MUSIC
+rtmp://27.118.16.16/live//9_music swfUrl=http://live.lifetv.vn/jwplayer/player.swf pageUrl=http://live.lifetv.vn/
+#EXTINF:0, --FITNESS 360
+rtmp://27.118.16.16/live//fitness_360 swfUrl=http://live.lifetv.vn/jwplayer/player.swf pageUrl=http://live.lifetv.vn/
+#EXTINF:0, --MODEL CHANNEL
+rtmp://27.118.16.16/live//model_channel swfUrl=http://live.lifetv.vn/jwplayer/player.swf pageUrl=http://live.lifetv.vn/
+#EXTINF:0, --DI SẢN VIỆT
+rtmp://27.118.16.16/live//disanviet swfUrl=http://live.lifetv.vn/jwplayer/player.swf pageUrl=http://live.lifetv.vn/
+#EXTINF:0, --4 MEN
+rtmp://27.118.16.16/live//4Men swfUrl=http://live.lifetv.vn/jwplayer/player.swf pageUrl=http://live.lifetv.vn/
+#EXTINF:0, --2 Channel Vietnam
+rtmp://27.118.16.16/live//2channel swfUrl=http://live.lifetv.vn/jwplayer/player.swf pageUrl=http://live.lifetv.vn/
+#EXTINF:0, --SOTV
+rtmp://27.118.16.16/live//sotv swfUrl=http://live.lifetv.vn/jwplayer/player.swf pageUrl=http://live.lifetv.vn/
+#EXTINF:0, --TECH CHANNEL
+rtmp://27.118.16.16/live//tech swfUrl=http://live.lifetv.vn/jwplayer/player.swf pageUrl=http://live.lifetv.vn/
+#EXTINF:0, --Kênh 911
+rtmp://27.118.16.16/live//911 swfUrl=http://live.lifetv.vn/jwplayer/player.swf pageUrl=http://live.lifetv.vn/
+#EXTINF:0, --TRUYỀN THÔNG VIỆT
+rtmp://27.118.16.16/live//ttv swfUrl=http://live.lifetv.vn/jwplayer/player.swf pageUrl=http://live.lifetv.vn/
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH ACCESSASIA[/COLOR]  
+http://tvod.accessasia.tv:8080/tvod/air/thuanviet.480p/index.m3u8
+#EXTINF:0, --Thuần Việt [COLOR yellow]SD[/COLOR]
+http://tvod.accessasia.tv:8080/tvod/air/thuanviet.480p/index.m3u8
+#EXTINF:0, --VTV4 [COLOR yellow]SD[/COLOR]
+http://tvod.accessasia.tv:8080/tvod/air/vtv4.480p/index.m3u8
+#EXTINF:0, --VTV Cab1 [COLOR yellow]SD[/COLOR]
+http://tvod.accessasia.tv:8080/live/vctv1.480p/index.m3u8
+#EXTINF:0, --VTV cab2 [COLOR yellow]SD[/COLOR]
+http://tvod.accessasia.tv:8080/tvod/air/vctv2.480p/index.m3u8
+#EXTINF:0, --VTV Cab4 [COLOR yellow]SD[/COLOR]
+http://tvod.accessasia.tv:8080/live/vctv4.480p/index.m3u8
+#EXTINF:0, --VTV Cab8 [COLOR yellow]SD[/COLOR]
+http://tvod.accessasia.tv:8080/live/vctv8.480p/index.m3u8
+#EXTINF:0, --VTV Cab10 [COLOR yellow]SD[/COLOR]
+http://tvod.accessasia.tv:8080/live/vctv10.480p/index.m3u8
+#EXTINF:0, --VTV Cab17 [COLOR yellow]SD[/COLOR]
+http://tvod.accessasia.tv:8080/live/vctv17.480p/index.m3u8
+#EXTINF:0, --SCTV 14 [COLOR yellow]SD[/COLOR]
+http://tvod.accessasia.tv:8080/live/sctv14.480p/index.m3u8
+#EXTINF:0, --SCTV Hài [COLOR yellow]HD[/COLOR]
+http://tvod.accessasia.tv:8080/live/sctvhaihd.480p/index.m3u8
+#EXTINF:0, --FBNC [COLOR yellow]SD[/COLOR]
+http://tvod.accessasia.tv:8080/tvod/air/htvcfbnc.480p/index.m3u8
+#EXTINF:0, --Du Lịch & Cuộc Sống [COLOR yellow]SD[/COLOR]
+http://tvod.accessasia.tv:8080/live/dulichcuocsong.480p/index.m3u8
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH HẢI NGOẠI-ONWORLDTV[/COLOR]  
+http://uplayhd.com/
+#EXTINF:0,--SGN Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_sgn/playlist.m3u8
+#EXTINF:0,--Little Saigon Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_lstv/playlist.m3u8
+#EXTINF:0,--ITV Shopping
+http://origin.onworldtv.com:1935/liveorigin/stream_itvshop/playlist.m3u8
+#EXTINF:0,--Vietnamese American Network Television
+http://origin.onworldtv.com:1935/liveorigin/stream_van/playlist.m3u8
+#EXTINF:0,--BYN Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_byn/playlist.m3u8
+#EXTINF:0,--Viet USA Television
+http://origin.onworldtv.com:1935/liveorigin/stream_vus/playlist.m3u8
+#EXTINF:0,--Phim 24 Giờ
+http://origin.onworldtv.com:1935/liveorigin/film24/playlist.m3u8
+#EXTINF:0,--News 24 Giờ
+http://origin.onworldtv.com:1935/liveorigin/news24/playlist.m3u8
+#EXTINF:0,--MTV 24 Giờ
+http://origin.onworldtv.com:1935/liveorigin/mtv24/playlist.m3u8
+#EXTINF:0,--Cười 24 Giờ
+http://origin.onworldtv.com:1935/liveorigin/laugh24/playlist.m3u8
+#EXTINF:0,--VSTAR Television Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_vstartv/playlist.m3u8
+#EXTINF:0,--Sai Gon Network Radio Channel
+http://origin.onworldtv.com:1935/liveorigin/sgn_aud/playlist.m3u8
+#EXTINF:0,--Little Saigon Radio Channel
+http://origin.onworldtv.com:1935/liveorigin/lstv_aud/playlist.m3u8
+#EXTINF:0,--Sai Gon Dallas Radio
+http://origin.onworldtv.com:1935/liveorigin/saigondallas_aud/playlist.m3u8
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH LATIN -ONWORLDTV[/COLOR]
+http://uplayhd.com/
+#EXTINF:0,--Activa Television Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_activatv/playlist.m3u8
+#EXTINF:0,--Teleprogreso Television Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_teleprogreso/playlist.m3u8
+#EXTINF:0,--TVO Television Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_tvo/playlist.m3u8
+#EXTINF:0,--Multi Television Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_multitv/playlist.m3u8
+#EXTINF:0,--Catracho Television Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_catracho/playlist.m3u8
+#EXTINF:0,--Exito Television Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_exito/playlist.m3u8
+#EXTINF:0,--Mundo Television Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_mundotv/playlist.m3u8
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH HẢI NGOẠI-VIETTV24[/COLOR]  
+http://83.170.111.147/liveStream/viettv24_1/playlist.m3u8
+#EXTINF:0, --Viettv24
+http://83.170.111.147/liveStream/viettv24_1/playlist.m3u8
+#EXTINF:0, --MTV Việt
+http://83.170.111.147/liveStream/mtv_1/playlist.m3u8
+#EXTINF:0, --Cải Lương
+http://83.170.111.147/liveStream/cailuong_1/playlist.m3u8
+#EXTINF:0, --Hài
+http://83.170.111.147/liveStream/hai_1/playlist.m3u8
+#EXTINF:0, --VPOP
+http://83.170.111.147/liveStream/vpoptv_1/playlist.m3u8
+#EXTINF:0, --Đồng Giao
+http://83.170.111.147/liveStream/dgtv_1/playlist.m3u8
+#EXTINF:0, --Viet Face
+http://83.170.111.147/liveStream/vface_1/playlist.m3u8
+#EXTINF:0, --VietSun
+http://83.170.111.147/liveStream/vietsuntv_1/playlist.m3u8
+#EXTINF:0, --Phật Từ Bi
+http://83.170.111.147/liveStream/ptb_1/playlist.m3u8
+#EXTINF:0, --Ngôi Nhà Mơ Ước
+http://83.170.111.147/liveStream/vietvla_1/playlist.m3u8
+#EXTINF:0, --Tuổi Thần Tiên
+http://83.170.111.147/liveStream/ttt_1/playlist.m3u8
+#EXTINF:0, --Ẩm Thực
+http://83.170.111.147/liveStream/vnatv_1/playlist.m3u8
+#EXTINF:0, --Ngôi Nhà Vui Vẻ
+http://83.170.111.147/liveStream/BBBG_1/playlist.m3u8
+#EXTINF:0, --DÁM TV
+http://83.170.111.147/liveStream/DAMTV_1/playlist.m3u8
+#EXTINF:0, --Luật Pháp
+http://83.170.111.147/liveStream/lstv_1/playlist.m3u8
+#EXTINF:0, --Du Lịch
+http://83.170.111.147/liveStream/kvla_1/playlist.m3u8
+#EXTINF:0, --Fashion
+http://83.170.111.147/liveStream/set_1/playlist.m3u8
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH HẢI NGOẠI-NVTV[/COLOR]  
+http://206.190.140.142/liveStream/kvla_1/playlist-2096k.m3u8
+#EXTINF:0,--KVLA 56.5 Cali
+http://206.190.140.142/liveStream/kvla_1/playlist-2096k.m3u8
+#EXTINF:0,--VZN TV Houston TX
+http://206.190.136.254/liveStream/vantv_1/playlist.m3u8
+#EXTINF:0,--VietV LA
+http://206.190.140.142/liveStream/vietvla_1/playlist-2096k.m3u8
+#EXTINF:0,--VietTV 24
+http://83.170.111.147:1935/liveStream/viettv24_1/playlist-2096k.m3u8
+#EXTINF:0,--VietV Houston TX
+http://hls12.las.v247tv.com:8081/live/vietv-oc1/playlist-2096k.m3u8
+#EXTINF:0,--VietSun TV 57.11 Cali
+http://206.190.136.254/liveStream/vietsuntv_1/playlist-2096k.m3u8
+#EXTINF:0,--VNA TV 57.3 Cali
+http://206.190.140.142/liveStream/vnatv_1/playlist-2096k.m3u8
+#EXTINF:0,--VBS TV
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist-2096k.m3u8
+#EXTINF:0,--VietFace TV 57.2 Cali
+http://206.190.140.142/liveStream/vface_1/playlist-2096k.m3u8
+#EXTINF:0,--VietFace TV 54.4 Houston TX
+http://hls12.las.v247tv.com:8081/live/vietv-hou1/playlist-2096k.m3u8
+#EXTINF:0,--SET 57.4 Cali
+http://206.190.140.142:1935/liveStream/set_1/playlist-2096k.m3u8
+#EXTINF:0,--SaigonTV Dallas TX 55.3
+rtmp://origin3-edge1.yourstreamlive.com:1935/live/yourstreamlive/out_1651_211xdnzd?platform=Computer
+#EXTINF:0,--SaigonTV 57.5 Cali
+http://74.63.219.99:1935/sgvp/myStream.sdp/playlist-2096k.m3u8
+#EXTINF:0,--Little Saigon TV 57.7 Cali
+http://206.190.140.142/liveStream/lstv_1/playlist-2096k.m3u8
+#EXTINF:0,--IBC TV 57.8 Cali
+http://206.190.140.142:1935/liveStream/ibctv_1/playlist-2096k.m3u8
+#EXTINF:0,--Dong Giao TV
+http://206.190.140.142/liveStream/dgtv_1/playlist-2096k.m3u8
+#EXTINF:0,--MTV Viet TV
+http://206.190.140.142/liveStream/mtv_1/playlist-2096k.m3u8
+#EXTINF:0,--VPop TV
+http://206.190.136.254/liveStream/vpoptv_1/playlist-2096k.m3u8
+#EXTINF:0,--Viet Media TV
+http://206.190.140.142/liveStream/viettv24_1/playlist-2096k.m3u8
+#EXTINF:0,--CaiLuong TV
+http://206.190.136.254/liveStream/cailuong_1/playlist-2096k.m3u8
+#EXTINF:0,--Hai TV
+http://206.190.140.142/liveStream/hai_1/playlist-2096k.m3u8
+#EXTINF:0,--Tuoi Than Tien TV
+http://206.190.140.142/liveStream/ttt_1/playlist-2096k.m3u8
+#EXTINF:0,--VietNews
+rtmp://69.178.181.93:1935/VietNews/myStream
+#EXTINF:0,--Pho Viet TV
+http://69.178.181.93:1935/phoviettv/myStream/playlist-2096k.m3u8
+#EXTINF:0,--MTV Viet
+http://64.62.143.5:1935/live/do%20not%20steal%20my-Stream1/playlist.m3u8
+#EXTINF:0,--VEVO 1 HD POP MUSIC
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0,--VEVO 2 HD HITHOP MUSIC</title>
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0,--VEVO 3 HD COUNTRY MUSIC</title>
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH USER REQUEST[/COLOR]  
+rtmp://c.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/twoons/
+#EXTINF: -1, HLN
+rtmp://c.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/twoons/
+#EXTINF: -1, EVENT
+rtmp://c.cdn.newschat.tv/edge playpath=special_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/special-events/
+#EXTINF: -1, EVENT Extra
+rtmp://c.cdn.newschat.tv/edge playpath=specialextra_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/special-events-xtra/
+#EXTINF: -1, TEST
+rtmp://b.cdn.newschat.tv/edge playpath=al_jazeera_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/jazzyi/
+#EXTINF: -1, BLOOG News
+rtmp://b.cdn.newschat.tv/edge playpath=bloomberg_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/bloombug/
+#EXTINF: -1, UK News
+rtmp://c.cdn.newschat.tv/edge playpath=bbcnews_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/uk/
+#EXTINF: -1, CANADA News
+rtmp://b.cdn.newschat.tv/edge playpath=cbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/canada/
+#EXTINF: -1, FOOD News
+rtmp://c.cdn.newschat.tv/edge playpath=food_hd swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/food/
+#EXTINF: -1, International buzz
+rtmp://b.cdn.newschat.tv/edge playpath=cnni_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/international/
+#EXTINF:0, --MTV VIET
+http://64.62.143.5:1935/live/donotstealmy-Stream1/playlist.m3u8?bitrate=800&q=high
+#EXTINF:0, --vPOP tv
+http://206.190.136.254:1935/liveStream/vpoptv_1/playlist.m3u8
+#EXTINF:0, --MTV
+rtmp://85.132.78.6:1935/live playpath=muztv.stream swfUrl=http://zui.vn/templates/images/jwplayer.swf
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH AVG[/COLOR] 
+http://113.160.49.34/lives/origin03/vtchd1hd.isml/vtchd1hd.m3u8
+#EXTINF:0, --VTC HD1
+http://113.160.49.34/lives/origin03/vtchd1hd.isml/vtchd1hd.m3u8
+#EXTINF:0, --VTC HD2
+http://113.160.49.34/lives/origin03/vtchd2hd.isml/vtchd2hd.m3u8
+#EXTINF:0, --VTC3 HD
+http://113.160.49.34/lives/origin03/vtc3hd.isml/vtc3hd.m3u8
+#EXTINF:0, --ITV HD
+http://113.160.49.34/lives/origin03/itvhd.isml/itvhd.m3u8
+#EXTINF:0, --AXN HD
+http://113.160.49.34/lives/origin03/axnhd.isml/axnhd.m3u8
+#EXTINF:0, --DISCOVERY WORLD HD
+http://113.160.49.34/lives/origin03/discoveryhd.isml/discoveryhd.m3u8
+#EXTINF:0, --FASHION HD
+http://113.160.49.34/lives/origin03/fashionhd.isml/fashionhd.m3u8
+#EXTINF:0, --FOX HD
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd.m3u8
+#EXTINF:0, --HBO HD
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd.m3u8
+#EXTINF:0, --N+ LIVE HD
+http://123.30.134.108:1935/live/nctlive/playlist.m3u8
+#EXTINF:0, --STAR MOVIE HD
+http://113.160.49.34/lives/origin03/moviehd.isml/moviehd.m3u8
+#EXTINF:0, --VTC1
+http://113.160.49.34/lives/origin01/vtc1sd.isml/vtc1sd.m3u8
+#EXTINF:0, --VTC2
+http://113.160.49.34/lives/origin01/vtc2sd.isml/vtc2sd.m3u8
+#EXTINF:0, --VTC3
+http://113.160.49.34/lives/origin01/vtc3sd.isml/vtc3sd.m3u8
+#EXTINF:0, --VTC4
+http://113.160.49.34/lives/origin01/vtc4sd.isml/vtc4sd.m3u8
+#EXTINF:0, --VTC5
+http://113.160.49.34/lives/origin01/vtc5sd.isml/vtc5sd.m3u8
+#EXTINF:0, --VTC6
+http://113.160.49.34/lives/origin01/vtc6sd.isml/vtc6sd.m3u8
+#EXTINF:0, --VTC7
+http://113.160.49.34/lives/origin01/vtc7sd.isml/vtc7sd.m3u8
+#EXTINF:0, --VTC8
+http://113.160.49.34/lives/origin01/vtc8sd.isml/vtc8sd.m3u8
+#EXTINF:0, --VTC9
+http://113.160.49.34/lives/origin01/vtc9sd.isml/vtc9sd.m3u8
+#EXTINF:0, --VTC10
+http://113.160.49.34/lives/origin01/vtc10sd.isml/vtc10sd.m3u8
+#EXTINF:0, --VTC11
+http://113.160.49.34/lives/origin01/vtc11sd.isml/vtc11sd.m3u8
+#EXTINF:0, --VTC12
+http://113.160.49.34/lives/origin01/vtc12sd.isml/vtc12sd.m3u8
+#EXTINF:0, --VTC13
+http://113.160.49.34/lives/origin01/vtc13sd.isml/vtc13sd.m3u8
+#EXTINF:0, --VTC14
+http://113.160.49.34/lives/origin01/vtc14sd.isml/vtc14sd.m3u8
+#EXTINF:0, --VTC16
+http://113.160.49.34/lives/origin01/vtc16sd.isml/vtc16sd.m3u8
+#EXTINF:0, --VTV1
+http://113.160.49.34/lives/origin03/vtv1sd.isml/vtv1sd.m3u8
+#EXTINF:0, --VTV2
+http://113.160.49.34/lives/origin03/vtv2sd.isml/vtv2sd.m3u8
+#EXTINF:0, --VTV3
+http://113.160.49.34/lives/origin03/vtv3sd.isml/vtv3sd.m3u8
+#EXTINF:0, --VTV4
+http://113.160.49.34/lives/origin03/vtv4sd.isml/vtv4sd.m3u8
+#EXTINF:0, --VTV6
+http://113.160.49.34/lives/origin03/vtv6sd.isml/vtv6sd.m3u8
+#EXTINF:0, --ĐỌC SÁCH
+http://113.160.49.34/lives/origin01/docsachsd.isml/docsachsd.m3u8
+#EXTINF:0, --NHẠC NHẸ
+http://113.160.49.34/lives/origin03/nhacnhesd.isml/nhacnhesd.m3u8
+#EXTINF:0, --NHẠC TRỮ TÌNH
+http://113.160.49.34/lives/origin03/nhactrutinhsd.isml/nhactrutinhsd.m3u8
+#EXTINF:0, --NHẠC TRẺ
+http://113.160.49.34/lives/origin03/nhactresd.isml/nhactresd.m3u8
+#EXTINF:0, --NHẠC CÁCH MẠNG
+http://113.160.49.34/lives/origin03/nhaccachmangsd.isml/nhaccachmangsd.m3u8
+#EXTINF:0, --NHẠC THIẾU NHI
+http://113.160.49.34/lives/origin03/nhacthieunhisd.isml/nhacthieunhisd.m3u8
+#EXTINF:0, --NHẠC DÂN TỘC
+http://113.160.49.34/lives/origin03/nhacdantocsd.isml/nhacdantocsd.m3u8
+#EXTINF:0, --NHẠC NAM BỘ
+http://113.160.49.34/lives/origin03/nhacnambosd.isml/nhacnambosd.m3u8
+#EXTINF:0, --NHẠC CỔ ĐIỂN
+http://113.160.49.34/lives/origin01/nhaccodiensd.isml/nhaccodiensd.m3u8
+#EXTINF:0, --NCM BYV10
+http://113.160.49.34/lives/origin03/ncmsd.isml/ncmsd.m3u8
+#EXTINF:0, --PHIM HAY
+http://113.160.49.34/lives/origin01/phimhaysd.isml/phimhaysd.m3u8
+#EXTINF:0, --SAM CHANNEL
+http://113.160.49.34/lives/origin01/samsd.isml/samsd.m3u8
+#EXTINF:0, --MIỀN TÂY
+http://113.160.49.34/lives/origin03/mientaysd.isml/mientaysd.m3u8
+#EXTINF:0, --VIỆT TEEN
+http://113.160.49.34/lives/origin03/vietteensd.isml/vietteensd.m3u8
+#EXTINF:0, --VGSHOP
+http://113.160.49.34/lives/origin01/vietnamnetsd.isml/vietnamnetsd.m3u8
+#EXTINF:0, --FBNC
+http://113.160.49.34/lives/origin02/fbncsd.isml/fbncsd.m3u8
+#EXTINF:0, --ANTV
+http://113.160.49.34/lives/origin02/antvsd.isml/antvsd.m3u8
+#EXTINF:0, --AN NINH THẾ GIỚI
+http://113.160.49.34/lives/origin01/STTVsd.isml/STTVsd.m3u8
+#EXTINF:0, --QPVN
+http://113.160.49.34/lives/origin02/qptvsd.isml/qptvsd.m3u8
+#EXTINF:0, --CHANNEL V
+http://113.160.49.34/lives/origin03/channelvsd.isml/channelvsd.m3u8
+#EXTINF:0, --CARTOON NETWORK
+http://113.160.49.34/lives/origin03/carsd.isml/carsd.m3u8
+#EXTINF:0, --CIMEMAX
+http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd.m3u8
+#EXTINF:0, --ANIMAL PLANET
+http://113.160.49.34/lives/origin03/animalsd.isml/animalsd.m3u8
+#EXTINF:0, --STAR SPORTS
+http://113.160.49.34/lives/origin03/starsportsd.isml/starsportsd.m3u8
+#EXTINF:0, --HTV2
+http://113.160.49.34/lives/origin02/ttxvnsd.isml/ttxvnsd.m3u8
+#EXTINF:0, --HTV7
+http://113.160.49.34/lives/origin01/htv7sd.isml/htv7sd.m3u8
+#EXTINF:0, --HTV9
+http://113.160.49.34/lives/origin02/htv9sd.isml/htv9sd.m3u8
+#EXTINF:0, --HÀ NỘI 1
+http://113.160.49.34/lives/origin01/h1sd.isml/h1sd.m3u8
+#EXTINF:0, --HẢI PHÒNG
+http://113.160.49.34/lives/origin01/haiphongsd.isml/haiphongsd.m3u8
+#EXTINF:0, --THÁI NGUYÊN 1
+http://113.160.49.34/lives/origin01/thainguyensd.isml/thainguyensd.m3u8
+#EXTINF:0, --HÒA BÌNH
+http://113.160.49.34/lives/origin02/hbtvsd.isml/hbtvsd.m3u8
+#EXTINF:0, --TUYÊN QUANG
+http://113.160.49.34/lives/origin02/ttv2sd.isml/ttv2sd.m3u8
+#EXTINF:0, --QUẢNG NINH 1
+http://113.160.49.34/lives/origin01/qtv1sd.isml/qtv1sd.m3u8
+#EXTINF:0, --QUẢNG NINH 3
+http://113.160.49.34/lives/origin02/qtv3sd.isml/qtv3sd.m3u8
+#EXTINF:0, --NINH BÌNH
+http://113.160.49.34/lives/origin02/ntv3sd.isml/ntv3sd.m3u8
+#EXTINF:0, --THANH HÓA
+http://113.160.49.34/lives/origin01/thanhhoasd.isml/thanhhoasd.m3u8
+#EXTINF:0, --NGHỆ AN
+http://113.160.49.34/lives/origin01/ngheansd.isml/ngheansd.m3u8
+#EXTINF:0, --QUẢNG NGÃI
+http://113.160.49.34/lives/origin02/ptq1sd.isml/ptq1sd.m3u8
+#EXTINF:0, --NINH THUẬN
+http://113.160.49.34/lives/origin02/ninhthuansd.isml/ninhthuansd.m3u8
+#EXTINF:0, --LÂM ĐỒNG
+http://113.160.49.34/lives/origin02/ltvsd.isml/ltvsd.m3u8
+#EXTINF:0, --GIA LAI
+http://113.160.49.34/lives/origin02/thglsd.isml/thglsd.m3u8
+#EXTINF:0, --BÌNH PHƯỚC 2
+http://113.160.49.34/lives/origin02/bptv2sd.isml/bptv2sd.m3u8
+#EXTINF:0, --ĐỒNG NAI 1
+http://113.160.49.34/lives/origin02/dn1sd.isml/dn1sd.m3u8
+#EXTINF:0, --ĐỒNG NAI 2
+http://113.160.49.34/lives/origin02/dn2sd.isml/dn2sd.m3u8
+#EXTINF:0, --BÀ RỊA VŨNG TÀU
+http://113.160.49.34/lives/origin02/brtsd.isml/brtsd.m3u8
+#EXTINF:0, --VĨNH LONG 1
+http://113.160.49.34/lives/origin01/vinhlongsd.isml/vinhlongsd.m3u8
+#EXTINF:0, --VĨNH LONG 2
+http://113.160.49.34/lives/origin02/thvl2sd.isml/thvl2sd.m3u8
+#EXTINF:0, --TRÀ VINH
+http://113.160.49.34/lives/origin02/thtvsd.isml/thtvsd.m3u8
+#EXTINF:0, --KIÊN GIANG 1
+http://113.160.49.34/lives/origin02/kg1sd.isml/kg1sd.m3u8
+#EXTINF:0, --AN GIANG 1
+http://113.160.49.34/lives/origin02/atvsd.isml/atvsd.m3u8
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH HẢI NGOẠI-ONWORLDTV[/COLOR]  
+http://uplayhd.com/
+#EXTINF:0,--SGN Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_sgn/playlist.m3u8
+#EXTINF:0,--Little Saigon Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_lstv/playlist.m3u8
+#EXTINF:0,--ITV Shopping
+http://origin.onworldtv.com:1935/liveorigin/stream_itvshop/playlist.m3u8
+#EXTINF:0,--Vietnamese American Network Television
+http://origin.onworldtv.com:1935/liveorigin/stream_van/playlist.m3u8
+#EXTINF:0,--BYN Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_byn/playlist.m3u8
+#EXTINF:0,--Viet USA Television
+http://origin.onworldtv.com:1935/liveorigin/stream_vus/playlist.m3u8
+#EXTINF:0,--Phim 24 Giờ
+http://origin.onworldtv.com:1935/liveorigin/film24/playlist.m3u8
+#EXTINF:0,--News 24 Giờ
+http://origin.onworldtv.com:1935/liveorigin/news24/playlist.m3u8
+#EXTINF:0,--MTV 24 Giờ
+http://origin.onworldtv.com:1935/liveorigin/mtv24/playlist.m3u8
+#EXTINF:0,--Cười 24 Giờ
+http://origin.onworldtv.com:1935/liveorigin/laugh24/playlist.m3u8
+#EXTINF:0,--VSTAR Television Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_vstartv/playlist.m3u8
+#EXTINF:0,--Sai Gon Network Radio Channel
+http://origin.onworldtv.com:1935/liveorigin/sgn_aud/playlist.m3u8
+#EXTINF:0,--Little Saigon Radio Channel
+http://origin.onworldtv.com:1935/liveorigin/lstv_aud/playlist.m3u8
+#EXTINF:0,--Sai Gon Dallas Radio
+http://origin.onworldtv.com:1935/liveorigin/saigondallas_aud/playlist.m3u8
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH LATIN -ONWORLDTV[/COLOR]
+http://uplayhd.com/
+#EXTINF:0,--Activa Television Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_activatv/playlist.m3u8
+#EXTINF:0,--Teleprogreso Television Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_teleprogreso/playlist.m3u8
+#EXTINF:0,--TVO Television Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_tvo/playlist.m3u8
+#EXTINF:0,--Multi Television Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_multitv/playlist.m3u8
+#EXTINF:0,--Catracho Television Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_catracho/playlist.m3u8
+#EXTINF:0,--Exito Television Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_exito/playlist.m3u8
+#EXTINF:0,--Mundo Television Channel
+http://origin.onworldtv.com:1935/liveorigin/stream_mundotv/playlist.m3u8
+
+
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH HẢI NGOẠI-VIETTV24[/COLOR]  
+http://83.170.111.147/liveStream/viettv24_1/playlist.m3u8
+#EXTINF:0, --Viettv24
+http://83.170.111.147/liveStream/viettv24_1/playlist.m3u8
+#EXTINF:0, --MTV Việt
+http://83.170.111.147/liveStream/mtv_1/playlist.m3u8
+#EXTINF:0, --Cải Lương
+http://83.170.111.147/liveStream/cailuong_1/playlist.m3u8
+#EXTINF:0, --Hài
+http://83.170.111.147/liveStream/hai_1/playlist.m3u8
+#EXTINF:0, --VPOP
+http://83.170.111.147/liveStream/vpoptv_1/playlist.m3u8
+#EXTINF:0, --Đồng Giao
+http://83.170.111.147/liveStream/dgtv_1/playlist.m3u8
+#EXTINF:0, --Viet Face
+http://83.170.111.147/liveStream/vface_1/playlist.m3u8
+#EXTINF:0, --VietSun
+http://83.170.111.147/liveStream/vietsuntv_1/playlist.m3u8
+#EXTINF:0, --Phật Từ Bi
+http://83.170.111.147/liveStream/ptb_1/playlist.m3u8
+#EXTINF:0, --Ngôi Nhà Mơ Ước
+http://83.170.111.147/liveStream/vietvla_1/playlist.m3u8
+#EXTINF:0, --Tuổi Thần Tiên
+http://83.170.111.147/liveStream/ttt_1/playlist.m3u8
+#EXTINF:0, --Ẩm Thực
+http://83.170.111.147/liveStream/vnatv_1/playlist.m3u8
+#EXTINF:0, --Ngôi Nhà Vui Vẻ
+http://83.170.111.147/liveStream/BBBG_1/playlist.m3u8
+#EXTINF:0, --DÁM TV
+http://83.170.111.147/liveStream/DAMTV_1/playlist.m3u8
+#EXTINF:0, --Luật Pháp
+http://83.170.111.147/liveStream/lstv_1/playlist.m3u8
+#EXTINF:0, --Du Lịch
+http://83.170.111.147/liveStream/kvla_1/playlist.m3u8
+#EXTINF:0, --Fashion
+http://83.170.111.147/liveStream/set_1/playlist.m3u8
+
+#EXTINF:0, [COLOR yellow]NHÓM KÊNH HẢI NGOẠI-NVTV[/COLOR]  
+http://206.190.140.142/liveStream/kvla_1/playlist-2096k.m3u8
+#EXTINF:0,--KVLA 56.5 Cali
+http://206.190.140.142/liveStream/kvla_1/playlist-2096k.m3u8
+#EXTINF:0,--VZN TV Houston TX
+http://206.190.136.254/liveStream/vantv_1/playlist.m3u8
+#EXTINF:0,--VietV LA
+http://206.190.140.142/liveStream/vietvla_1/playlist-2096k.m3u8
+#EXTINF:0,--VietTV 24
+http://83.170.111.147:1935/liveStream/viettv24_1/playlist-2096k.m3u8
+#EXTINF:0,--VietV Houston TX
+http://hls12.las.v247tv.com:8081/live/vietv-oc1/playlist-2096k.m3u8
+#EXTINF:0,--VietSun TV 57.11 Cali
+http://206.190.136.254/liveStream/vietsuntv_1/playlist-2096k.m3u8
+#EXTINF:0,--VNA TV 57.3 Cali
+http://206.190.140.142/liveStream/vnatv_1/playlist-2096k.m3u8
+#EXTINF:0,--VBS TV
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist-2096k.m3u8
+#EXTINF:0,--VietFace TV 57.2 Cali
+http://206.190.140.142/liveStream/vface_1/playlist-2096k.m3u8
+#EXTINF:0,--VietFace TV 54.4 Houston TX
+http://hls12.las.v247tv.com:8081/live/vietv-hou1/playlist-2096k.m3u8
+#EXTINF:0,--SET 57.4 Cali
+http://206.190.140.142:1935/liveStream/set_1/playlist-2096k.m3u8
+#EXTINF:0,--SaigonTV Dallas TX 55.3
+rtmp://origin3-edge1.yourstreamlive.com:1935/live/yourstreamlive/out_1651_211xdnzd?platform=Computer
+#EXTINF:0,--SaigonTV 57.5 Cali
+http://74.63.219.99:1935/sgvp/myStream.sdp/playlist-2096k.m3u8
+#EXTINF:0,--Little Saigon TV 57.7 Cali
+http://206.190.140.142/liveStream/lstv_1/playlist-2096k.m3u8
+#EXTINF:0,--IBC TV 57.8 Cali
+http://206.190.140.142:1935/liveStream/ibctv_1/playlist-2096k.m3u8
+#EXTINF:0,--Dong Giao TV
+http://206.190.140.142/liveStream/dgtv_1/playlist-2096k.m3u8
+#EXTINF:0,--MTV Viet TV
+http://206.190.140.142/liveStream/mtv_1/playlist-2096k.m3u8
+#EXTINF:0,--VPop TV
+http://206.190.136.254/liveStream/vpoptv_1/playlist-2096k.m3u8
+#EXTINF:0,--Viet Media TV
+http://206.190.140.142/liveStream/viettv24_1/playlist-2096k.m3u8
+#EXTINF:0,--CaiLuong TV
+http://206.190.136.254/liveStream/cailuong_1/playlist-2096k.m3u8
+#EXTINF:0,--Hai TV
+http://206.190.140.142/liveStream/hai_1/playlist-2096k.m3u8
+#EXTINF:0,--Tuoi Than Tien TV
+http://206.190.140.142/liveStream/ttt_1/playlist-2096k.m3u8
+#EXTINF:0,--VietNews
+rtmp://69.178.181.93:1935/VietNews/myStream
+#EXTINF:0,--Pho Viet TV
+http://69.178.181.93:1935/phoviettv/myStream/playlist-2096k.m3u8
+#EXTINF:0,--MTV Viet
+http://64.62.143.5:1935/live/do%20not%20steal%20my-Stream1/playlist.m3u8
+#EXTINF:0,--VEVO 1 HD POP MUSIC
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0,--VEVO 2 HD HITHOP MUSIC</title>
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0,--VEVO 3 HD COUNTRY MUSIC</title>
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+
+
+#EXTINF:-1,[COLOR lime]-- NHÓM KÊNH VTV --[/COLOR]
+http://onecreative.vn
+
+#EXTINF:-1,VTV1 [COLOR yellow]HD[/COLOR] [FPT2500]
+http://scache.fptplay.net.vn/livez/vtv1_2500.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Xmio", VTV1 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1001
+#EXTINF:-1 group-title="Tin tức", VTV1 [COLOR yellow]HD[/COLOR] [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vtv1_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin tức", VTV1 [COLOR yellow]HD[/COLOR] [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vtv1_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin tức", VTV1 [COLOR cyan]4:3[/COLOR] [FPT]
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1sd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Tin tức", VTV1 [COLOR cyan]4:3[/COLOR] [FPT mlive]
+http://112.197.2.154:1935/mlive/C043_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="Tin tức", VTV1 [FPT 2000]
+http://scache.fptplay.net.vn/livez/vtv1hd_2000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+
+#EXTINF:-1 group-title="Khoa Học", VTV2 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/2
+#EXTINF:-1,VTV2 [FPT]
+http://scache.fptplay.net.vn/livez/vtv2_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Khoa Học", VTV2 [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vtv2_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Khoa Học", VTV2 [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vtv2_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Khoa Học", VTV2 [FPT]
+http://hlscache.fptplay.net.vn/livez/vtv2_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Khoa Học", VTV2 [FPT mlive]
+http://112.197.2.154:1935/mlive/C044_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Giải Trí", VTV3 |16:9 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1090
+#EXTINF:-1 group-title="Giải Trí", VTV3 [COLOR yellow]HD[/COLOR] [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vtv3HD_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTV3 [COLOR yellow]HD[/COLOR] [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vtv3HD_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTV3 |4:3 [FPT]
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv3sd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Giải Trí", VTV3 |4:3 [FPT mlive]
+http://112.197.2.154:1935/mlive/C035_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="Giải Trí", VTV3 [FPT]
+http://scache.fptplay.net.vn/livez/vtv3HD_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTV3 [COLOR yellow]HD[/COLOR]
+http://scache.fptplay.net.vn/livez/vtv3HD_2500.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Tin Tức", VTV4 [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vtv4_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", VTV4 [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vtv4_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", VTV4 [FPT mlive]
+http://112.197.2.154:1935/mlive/C045_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="Tin Tức", VTV4 [FPT]
+http://scache.fptplay.net.vn/livez/vtv4_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Giải Trí", VTV6 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/101
+#EXTINF:-1 group-title="Giải Trí", VTV6 [COLOR yellow]HD[/COLOR] [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vtv6_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTV6 [COLOR yellow]HD[/COLOR]
+http://scache.fptplay.net.vn/event/vtv6HD/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTV6 [FPT]
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv6sd_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Giải Trí", VTV6 [FPT mlive]
+http://112.197.2.154:1935/mlive/C046_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="Giải Trí", VTV6 [FPT]
+http://scache.fptplay.net.vn/event/vtv6HD/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Giải Trí", VTV9 [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vtv9_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTV9 [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vtv9_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTV9 [FPT]
+http://scache.fptplay.net.vn/livez/vtv9_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Giải Trí", VTVcab 1-Giải Trí TV [FPT1000]
+http://hlscache.fptplay.net.vn/livev/giaitritv_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTVcab 1-Giải Trí TV [FPT]
+http://hlscache.fptplay.net.vn/liveshow/xonefmlive/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Phim", VTVcab2-Phim Việt [FPT1000]
+http://hlscache.fptplay.net.vn/livev/phimviet_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Phim", VTVcab2-Phim Việt [FPT]
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:phimviet_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Giải Trí", VTVcab 4-Kênh 17 [FPT1000]
+http://hlscache.fptplay.net.vn/livev/kenh17_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTVcab 4-Kênh 17 [FPT]
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:kenh17_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Phim", VTVcab 5-E Channel [FPT1000]
+http://hlscache.fptplay.net.vn/livev/echanel_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Phim", VTVcab 5-E Channel [FPT mlive]
+http://112.197.2.154:1935/mlive/C059_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Giải Trí", VTVcab 6-HayTV[FPT]
+http://hlscache.fptplay.net.vn/livev/haytv_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Phim", VTVcab 7-D Drama [FPT1000]
+http://hlscache.fptplay.net.vn/livev/ddramas_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Phim", VTVcab 7-D Drama [FPT]
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:ddramas_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Giải Trí", VTVcab 8-BiBi[FPT1000]
+http://hlscache.fptplay.net.vn/livev/bibi_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTVcab 8-BiBi [FPT]
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:bibi_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Tin Tức", VTVcab 9-InfoTV [FPT]
+http://hlscache.fptplay.net.vn/livev/infotv_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", VTVcab 9-InfoTV [FPT]
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:infotv_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Tin Tức", VTVcab 9-InfoTV [FPT mlive]
+http://112.197.2.154:1935/mlive/C055_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Tin Tức", VTVcab 10-O2TV [FPT1000]
+http://hlscache.fptplay.net.vn/livev/o2tv_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", VTVcab 10-O2TV [FPT]
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:o2tv_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Tin Tức", VTVcab 10-O2TV [FPT mlive]
+http://112.197.2.154:1935/mlive/C054_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Giải Trí", VTVcab 12-Style TV [FPT1000]
+http://hlscache.fptplay.net.vn/livev/styletv_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Tin Tức", VTVcab 15-Invest TV [FPT1000]
+http://hlscache.fptplay.net.vn/livev/investtv_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", VTVcab 15-Invest TV [VTV]
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:investtv_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Thể Thao", VTVcab 16-Bóng đá TV [FPT1000]
+http://hlscache.fptplay.net.vn/livev/bongdatvsd_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Giải Trí", VTV Đà Nẵng [FPT]
+http://hlscache.fptplay.net.vn/livez/vtvdanang_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Xmio", SCTV1 [VT] 
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1075
+#EXTINF:-1 group-title="Phim", SCTV1-Hài [FPT mlive]
+http://112.197.2.154:1935/mlive/C027_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="Phim", SCTV1-Hài [FPT 2000]
+http://hlscache.fptplay.net.vn/livev/sctvhaihd_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Phim", SCTV1-Hài [FPT1000]
+http://hlscache.fptplay.net.vn/livev/sctvhaihd_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Xmio", YAN TV [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1078
+#EXTINF:-1,KÊNH SCTV2 [FPT mlive]
+http://112.197.2.154:1935/mlive/C028_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="Xmio", SCTV3 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1074
+#EXTINF:-1 group-title="Giải Trí", SCTV3-Thiếu Nhi [FPT mlive]
+http://112.197.2.154:1935/mlive/C029_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="Xmio", SCTV4 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1076
+#EXTINF:-1 group-title="Giải Trí", SCTV4-Tổng Hợp [FPT mlive]
+http://112.197.2.154:1935/mlive/C030_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="Khác", SCTV5-Mua Sắm [FPT mlive]
+http://112.197.2.154:1935/mlive/C037_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Xmio", SCTV 6 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/18571
+#EXTINF:-1 group-title="Ca Nhạc", SCTV6-Sóng Nhạc [FPT mlive]
+http://112.197.2.154:1935/mlive/C038_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Phim", SCTV7-Sân Khấu [FPT mlive]
+http://112.197.2.154:1935/mlive/C039_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Tin Tức", SCTV8-Thông Tin Kinh Tế [FPT mlive]
+http://112.197.2.154:1935/mlive/C040_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Phim", SCTV9-Phim Châu Á [FPT mlive]
+http://112.197.2.154:1935/mlive/C041_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Khác", SCTV10-Mua Sắm [FPT mlive]
+http://112.197.2.154:1935/mlive/C064_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Ca Nhạc", SCTV11-Âm Nhạc [FPT mlive]
+http://112.197.2.154:1935/mlive/C066_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Ca Nhạc", SCTV12-Hát [FPT mlive]
+http://112.197.2.154:1935/mlive/C067_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Giải Trí", SCTV13-Phụ Nữ [FPT mlive]
+http://112.197.2.154:1935/mlive/C031_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Phim", SCTV14-Phim Việt Nam [FPT mlive]
+http://112.197.2.154:1935/mlive/C032_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="Phim", SCTV16 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1077
+#EXTINF:-1 group-title="Phim", SCTV16-Phim Nước Ngoài [FPT mlive]
+http://112.197.2.154:1935/mlive/C033_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="Phim", SCTV17-Phim Chọn Lọc [FPT mlive]
+http://112.197.2.154:1935/mlive/C034_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1, [color blue][SCTVHD][/color] SÓNG NHẠC
+http://112.197.2.154:1935/mlive/C006_HD_4/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1, [color blue][SCTVHD][/color] DU LỊCH
+http://112.197.2.154:1935/mlive/C007_HD_4/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1, [color blue][SCTVHD][/color] PHIM VIỆT
+http://112.197.2.154:1935/mlive/C009_HD_4/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1, [SCTVHD] PHIM CHÂU Á
+http://112.197.2.154:1935/mlive/C010_HD_4/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1, [SCTVHD] HÀI
+http://112.197.2.154:1935/mlive/C011_HD_4/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1, [SCTVHD] SÂN KHẤU
+http://112.197.2.154:1935/mlive/C012_HD_4/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="Xmio", SCTV PHIM TỔNG HỢP [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1071
+#EXTINF:-1, [SCTVHD] PHIM TỔNG HỢP [mlive]
+http://112.197.2.154:1935/mlive/C013_HD_4/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1, [SCTVHD] GIẢI TRÍ TỔNG HỢP
+http://112.197.2.154:1935/mlive/C014_HD_2/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1, [SCTVHD] PHIM NƯỚC NGOÀI
+http://112.197.2.154:1935/mlive/C015_HD_2/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1, [SCTVHD] THIẾU NHI
+http://112.197.2.154:1935/mlive/C016_HD_2/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1, [SCTVHD] PHỤ NỮ VÀ GIA ĐÌNH
+http://112.197.2.154:1935/mlive/C017_HD_2/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1, [COLOR lime]-- [COLOR yellow ]HTV LIST [COLOR lime]----[/color]
+http://hdfast.com
+#EXTINF:-1 group-title="Tin Tức", HTV1 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1000
+#EXTINF:-1 group-title="Tin Tức", HTV1 [FPT2500]
+http://hlscache.fptplay.net.vn/live/htv1_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", HTV1 [FPT1000]
+http://hlscache.fptplay.net.vn/live/htv1_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,HTV1
+http://scache.fptplay.net.vn/live/htv1_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Giải Trí", HTV2 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1009
+#EXTINF:-1 group-title="Giải Trí", HTV2 [FPT1000]
+http://scache.fptplay.net.vn/live/htv2_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,HTV2
+http://scache.fptplay.net.vn/live/htv2_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Giải Trí", HTV3 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1008
+#EXTINF:-1 group-title="Giải Trí", HTV3 [FPT2500]
+http://hlscache.fptplay.net.vn/live/htv3_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", HTV3 [FPT1000]
+http://hlscache.fptplay.net.vn/live/htv3_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", HTV3 [FPT]
+http://hlscache.fptplay.net.vn/live/htv3_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,HTV3 [FPT]
+http://scache.fptplay.net.vn/live/htv3_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Khoa Học", HTV4 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1010
+#EXTINF:-1 group-title="Khoa Học", HTV4 [FPT2500]
+http://hlscache.fptplay.net.vn/live/htv4_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Khoa Học", HTV4 [FPT1000]
+http://hlscache.fptplay.net.vn/live/htv4_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,HTV4
+http://scache.fptplay.net.vn/live/htv4_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Giải Trí", HTV7 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1039
+#EXTINF:-1 group-title="Giải Trí", HTV7 [FPT2500]
+http://hlscache.fptplay.net.vn/live/htv7_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", HTV7 [FPT1000]
+http://hlscache.fptplay.net.vn/live/htv7_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", HTV7 [COLOR yellow]HD[/COLOR] [FPT]
+http://113.160.49.34/lives/origin01/htv7sd.isml/htv7sd-1096k.m3u8
+#EXTINF:-1 group-title="Giải Trí", HTV7 [COLOR yellow]HD[/COLOR] [FPT mlive]
+http://112.197.2.154:1935/mlive/C052_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1,HTV7 
+http://scache.fptplay.net.vn/live/htv7_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,HTV7 [COLOR yellow]HD[/COLOR] [FPT]
+http://scache.fptplay.net.vn/live/htv7_2000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Giải Trí", HTV9 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1038
+#EXTINF:-1 group-title="Giải Trí", HTV9 [COLOR yellow]HD[/COLOR] [FPT 2000]
+http://hlscache.fptplay.net.vn/live/htv9HD_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", HTV9 [COLOR yellow]HD[/COLOR] [FPT1000]
+http://hlscache.fptplay.net.vn/live/htv9HD_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", HTV9 [COLOR yellow]HD[/COLOR] [VTV]
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:htv9_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Giải Trí", HTV9 [COLOR yellow]HD[/COLOR] [FPT]
+http://113.160.49.34/lives/origin02/htv9sd.isml/htv9sd-1096k.m3u8
+#EXTINF:-1 group-title="Giải Trí", HTV9 [COLOR yellow]HD[/COLOR] [FPT mlive]
+http://112.197.2.154:1935/mlive/C053_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1,HTV9 [COLOR yellow]HD[/COLOR]
+http://scache.fptplay.net.vn/live/htv9HD_2000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+
+#EXTINF:-1 group-title="Phim", HTV Phim truyện [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1013
+#EXTINF:-1 group-title="Phim", HTVC Phim [FPT2500]
+http://hlscache.fptplay.net.vn/livez/htvcmovie_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Phim", HTVC Phim [FPT1000]
+http://hlscache.fptplay.net.vn/livez/htvcmovie_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+
+#EXTINF:-1 group-title="Xmio", Thuần Việt [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/18565
+#EXTINF:-1 group-title="Phim", HTVC Thuần Việt [FPT2500]
+http://hlscache.fptplay.net.vn/live/htvcthuanviet_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Phim", HTVC Thuần Việt [FPT1000]
+http://hlscache.fptplay.net.vn/live/htvcthuanviet_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Xmio", FBNC [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/18181
+#EXTINF:-1 group-title="Tin Tức", HTVC FBNC [COLOR yellow]HD[/COLOR] [FPT 2000]
+http://hlscache.fptplay.net.vn/livez/fbnchd_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", HTVC FBNC [COLOR yellow]HD[/COLOR] [FPT1000]
+http://hlscache.fptplay.net.vn/livez/fbnchd_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", HTVC FBNC [COLOR yellow]HD[/COLOR] [FPT mlive]
+http://113.160.49.34/lives/origin02/fbncsd.isml/fbncsd-1096k.m3u8
+
+
+#EXTINF:-1 group-title="Xmio", HTV Du lịch [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1081
+#EXTINF:-1 group-title="Giải Trí", HTVC Du Lịch [FPT2500]
+http://hlscache.fptplay.net.vn/live/htvcdulich_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", HTVC-Du Lịch Cuộc Sống [FPT1000]
+http://hlscache.fptplay.net.vn/live/htvcdulich_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Giải Trí", HTVC Shopping [FPT2500]
+http://hlscache.fptplay.net.vn/live/htvcshopping_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", HTVC Shopping [FPT1000]
+http://hlscache.fptplay.net.vn/live/htvcshopping_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Xmio", HTV Phụ nữ [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1079
+#EXTINF:-1 group-title="Giải Trí", HTVC Phụ nữ [FPT2500]
+http://hlscache.fptplay.net.vn/livez/htvcphunu_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", HTVC Phụ nữ [VTV]
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:htvcphunu_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="Giải Trí", HTVC-Phụ Nữ [FPT1000]
+http://hlscache.fptplay.net.vn/livez/htvcphunu_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Xmio", HTV Gia đình [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1012
+#EXTINF:-1 group-title="Giải Trí", HTVC Gia đình [FPT2500]
+http://hlscache.fptplay.net.vn/live/htvcgiadinh_2500.stream//playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", HTVC-Gia Đình [FPT1000]
+http://hlscache.fptplay.net.vn/live/htvcgiadinh_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Xmio", HTV Ca nhạc [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1080
+#EXTINF:-1 group-title="Giải Trí", HTVC+ [COLOR yellow]HD[/COLOR] [FPT2500]
+http://hlscache.fptplay.net.vn/live/htvcplusHD_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", HTVC+ [COLOR yellow]HD[/COLOR] [FPT1000]
+http://hlscache.fptplay.net.vn/live/htvcplusHD_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Xmio", VTC-HD 1
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/17
+#EXTINF:-1 group-title="Xmio", VTC-HD 2
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/29
+#EXTINF:-1 group-title="Xmio", VTC-HD 3
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/16
+
+#EXTINF:-1 group-title="Xmio", VTC1 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1016
+#EXTINF:-1 group-title="Tin Tức", VTC1-Thời Sự Tổng Hợp [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vtc1_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", VTC1-Thời Sự Tổng Hợp [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vtc1_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", VTC1-Thời Sự Tổng Hợp [COLOR yellow]HD[/COLOR] [FPT]
+http://113.160.49.34/lives/origin03/vtchd1hd.isml/vtchd1hd-2096k.m3u8
+#EXTINF:-1 group-title="Tin Tức", VTC1-Thời Sự Tổng Hợp SD [FPT]
+http://113.160.49.34/lives/origin01/vtc1sd.isml/vtc1sd-1096k.m3u8
+
+#EXTINF:-1 group-title="Xmio", VTC2 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/6
+#EXTINF:-1 group-title="Khoa Học", VTC2-Khoa Học [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vtc2_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Khoa Học", VTC2-Khoa Học [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vtc2_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Khoa Học", VTC2-Khoa Học [FPT]
+http://113.160.49.34/lives/origin01/vtc2sd.isml/vtc2sd-1096k.m3u8
+#EXTINF:-1 group-title="Xmio", VTC3 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/42
+#EXTINF:-1 group-title="Thể Thao", VTC3 [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vtc3HD_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTC HD3 [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vtcHD3_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Thể Thao", VTC3 [COLOR yellow]HD[/COLOR] [FPT]
+http://113.160.49.34/lives/origin03/vtc3hd.isml/vtc3hd.m3u8
+
+#EXTINF:-1 group-title="Xmio", VTC4 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/32
+
+#EXTINF:-1 group-title="Xmio", VTC5 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/37
+#EXTINF:-1 group-title="Khoa Học", VTC5-Công Nghệ Đời Sống [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vtc5_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Khoa Học", VTC5-Công Nghệ Đời Sống [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vtc5_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Khoa Học", VTC5-Công Nghệ Đời Sống [FPT]
+http://113.160.49.34/lives/origin01/vtc5sd.isml/vtc5sd-1096k.m3u8
+
+#EXTINF:-1 group-title="Xmio", VTC6 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/38
+#EXTINF:-1 group-title="Phim", VTC6-Phim Việt Nam [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vtc6_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Phim", VTC6-Phim Việt Nam [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vtc6_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Phim", VTC6-Phim Việt Nam [FPT]
+http://113.160.49.34/lives/origin01/vtc6sd.isml/vtc6sd-1096k.m3u8
+
+#EXTINF:-1 group-title="Xmio", VTC7 (Today) [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/39
+#EXTINF:-1 group-title="Giải Trí", VTC7-Today TV [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vtc7_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTC7-Today TV [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vtc7_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTC7-Today TV [FPT]
+http://113.160.49.34/lives/origin01/vtc7sd.isml/vtc7sd-1096k.m3u8
+#EXTINF:-1 group-title="Giải Trí", VTC7-Today TV [FPT mlive]
+http://112.197.2.154:1935/mlive/C058_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Xmio", VTC8 (VITV) [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/40
+#EXTINF:-1 group-title="Giải Trí", VTC8 [FPT]
+http://113.160.49.34/lives/origin01/vtc8sd.isml/vtc8sd-1096k.m3u8
+
+#EXTINF:-1 group-title="Xmio", VTC9 (Let's Viet) [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/11
+#EXTINF:-1 group-title="Giải Trí", VTC9-Lets Việt[FPT2500]
+http://hlscache.fptplay.net.vn/livez/vtc9_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTC9-Lets Việt [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vtc9_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTC9-Lets Việt [FPT]
+http://113.160.49.34/lives/origin01/vtc9sd.isml/vtc9sd-1096k.m3u8
+#EXTINF:-1 group-title="Giải Trí", VTC9-Lets Việt [FPT mlive]
+http://112.197.2.154:1935/mlive/C056_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Xmio", VTC10 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/9
+#EXTINF:-1 group-title="Giải Trí", VTC10-NetViet[FPT2500]
+http://hlscache.fptplay.net.vn/livez/vtc10_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTC10-NetViet [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vtc10_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", VTC10-NetViet [FPT]
+http://113.160.49.34/lives/origin01/vtc10sd.isml/vtc10sd-1096k.m3u8
+
+#EXTINF:-1 group-title="Xmio", VTC11 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1017
+#EXTINF:-1 group-title="Giải Trí", VTC11 [FPT]
+http://113.160.49.34/lives/origin01/vtc11sd.isml/vtc11sd-1096k.m3u8
+#EXTINF:-1 group-title="Giải Trí", VTC12 [FPT]
+http://113.160.49.34/lives/origin01/vtc12sd.isml/vtc12sd-1096k.m3u8
+#EXTINF:-1 group-title="Giải Trí", VTC13 [FPT]
+http://113.160.49.34/lives/origin01/vtc13sd.isml/vtc13sd-1096k.m3u8
+#EXTINF:-1 group-title="Xmio", VTC14 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/8
+#EXTINF:-1 group-title="Tin Tức", VTC14-Dự Báo Thiên Tai [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vtc14_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", VTC14-Dự Báo Thiên Tai [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vtc14_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", VTC14-Dự Báo Thiên Tai [FPT]
+http://113.160.49.34/lives/origin01/vtc14sd.isml/vtc14sd-1096k.m3u8
+
+#EXTINF:-1 group-title="Xmio", VTC16 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/10
+#EXTINF:-1 group-title="Khoa Học", VTC16-Nông Nghiệp [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vtc16_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Khoa Học", VTC16-Nông Nghiệp [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vtc16_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Khoa Học", VTC16-Nông Nghiệp [FPT]
+http://113.160.49.34/lives/origin01/vtc16sd.isml/vtc16sd-1096k.m3u8
+
+#EXTINF:-1 group-title="Xmio", ITV-HD [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/15
+#EXTINF:-1 group-title="Ca Nhạc", iTV [FPT2500]
+http://hlscache.fptplay.net.vn/livez/itvHD_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Ca Nhạc", iTV [FPT1000]
+http://hlscache.fptplay.net.vn/livez/itvHD_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Ca Nhạc", iTV [FPT]
+http://hlscache.fptplay.net.vn/livex/itvsd.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Khác", OneTV [FPT2500]
+http://hlscache.fptplay.net.vn/livez/onetv_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Khác", OneTV [FPT1000]
+http://hlscache.fptplay.net.vn/livez/onetv_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 1 [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vinhlong1_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 1 [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vinhlong1_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Xmio", THVL Vĩnh Long 2 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/158414
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 2 [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vinhlong2_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Long 2 [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vinhlong2_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Giải Trí", Miền Tây[FPT1000]
+http://hlscache.fptplay.net.vn/livez/mientay_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", Việt Teen[FPT1000]
+http://hlscache.fptplay.net.vn/livez/vietteen_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Phim", Phim Hay[FPT1000]
+http://hlscache.fptplay.net.vn/livez/phimhay_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Phim", SAM-Hoạt Hình [FPT1000]
+http://hlscache.fptplay.net.vn/livez/sam_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Xmio", TVM [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1072
+#EXTINF:-1 group-title="Xmio", ANTV [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1014
+#EXTINF:-1 group-title="Tin Tức", ANTV-TH An Ninh [FPT1000]
+http://hlscache.fptplay.net.vn/live/antv_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Xmio", QPVN [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/18563
+#EXTINF:-1 group-title="Tin Tức", QPVN-Quốc Phòng [FPT2500]
+http://hlscache.fptplay.net.vn/livez/quocphongHD_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", QPVN-Quốc Phòng [FPT1000]
+http://hlscache.fptplay.net.vn/livez/quocphongHD_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Xmio", STTV [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/18564
+#EXTINF:-1 group-title="Xmio", TTXVN (VNEWS) [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1070
+#EXTINF:-1 group-title="Tin Tức", TTXVN [FPT2500]
+http://hlscache.fptplay.net.vn/livez/vnews_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", TTXVN [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vnews_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", VIETNAMNET TV [FPT1000]
+http://hlscache.fptplay.net.vn/live/vietnamnet_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Xmio", VOV [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1043
+#EXTINF:-1 group-title="Tin Tức", VOV TV [FPT1000]
+http://hlscache.fptplay.net.vn/livez/vovtv_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", VOV-Giao Thông[FPT]
+http://hlscache.fptplay.net.vn/event/vovgt.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Địa Phương", An Giang [FPT1000]
+http://hlscache.fptplay.net.vn/live/angiang_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", Bình Dương 4 [FPT2500]
+http://hlscache.fptplay.net.vn/live/btv4_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", Bình Dương 4 [FPT1000]
+http://hlscache.fptplay.net.vn/live/btv4_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", Bình Định [FPT2500]
+http://hlscache.fptplay.net.vn/live/binhdinh_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", Cần Thơ [FPT1000]
+http://hlscache.fptplay.net.vn/live/cantho_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Xmio", Hà Nội 1 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/13
+#EXTINF:-1 group-title="Địa Phương", Hà Nội 1 [FPT2500]
+http://hlscache.fptplay.net.vn/livez/hntv1_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", Hà Nội 1 [FPT1000]
+http://hlscache.fptplay.net.vn/livez/hntv1_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Xmio", Hà Nội 2 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1007
+#EXTINF:-1 group-title="Địa Phương", Hà Nội 2 [FPT2500]
+http://hlscache.fptplay.net.vn/livez/hntv2_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", Hà Nội 2 [FPT1000]
+http://hlscache.fptplay.net.vn/livez/hntv2_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Địa Phương", Hòa Bình [FPT1000]
+http://hlscache.fptplay.net.vn/livez/hoabinh_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Xmio", THP Hải Phòng [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/69522
+#EXTINF:-1 group-title="Địa Phương", Hải Phòng [FPT2500]
+http://hlscache.fptplay.net.vn/livez/haiphong_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", Hải Phòng [FPT1000]
+http://hlscache.fptplay.net.vn/livez/haiphong_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", Khánh Hòa [FPT1000]
+http://hlscache.fptplay.net.vn/live/khanhhoa_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", Nghệ An [FPT1000]
+http://hlscache.fptplay.net.vn/livez/nghean_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Địa Phương", NBTV Ninh Bình [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/69521
+#EXTINF:-1 group-title="Địa Phương", Ninh Bình [FPT1000]
+http://hlscache.fptplay.net.vn/live/ninhbinh_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", PTQ1 Quảng Ngãi [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/172486
+#EXTINF:-1 group-title="Địa Phương", QBTV Quảng Bình [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/161394
+#EXTINF:-1 group-title="Địa Phương", QTV1 Quảng Ninh [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/59857
+#EXTINF:-1 group-title="Địa Phương", Quảng Ninh 1 [FPT1000]
+http://hlscache.fptplay.net.vn/livez/quangninh1_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", QTV3 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/61319
+#EXTINF:-1 group-title="Địa Phương", Quảng Ninh 3[FPT1000]
+http://hlscache.fptplay.net.vn/livez/quangninh3_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", THTV Trà Vinh [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/172492
+#EXTINF:-1 group-title="Địa Phương", TTV Thanh Hóa [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/172202
+#EXTINF:-1 group-title="Địa Phương", Thanh Hóa [FPT1000]
+http://hlscache.fptplay.net.vn/live/thanhhoa_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", TBTV THÁI BÌNH [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/172478
+#EXTINF:-1 group-title="Địa Phương", Thái Nguyên 1 [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/172206
+#EXTINF:-1 group-title="Địa Phương", TNTV [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/172482
+#EXTINF:-1 group-title="Địa Phương", THTG Tiền Giang [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/172491
+#EXTINF:-1 group-title="Địa Phương", Tiền Giang [FPT2500]
+http://hlscache.fptplay.net.vn/livez/tiengiang_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", Tiền Giang [FPT1000]
+http://hlscache.fptplay.net.vn/livez/tiengiang_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", Tuyên Quang [FPT1000]
+http://hlscache.fptplay.net.vn/livez/tuyenquang_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Địa Phương", TH Vĩnh Phúc [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/172218
+#EXTINF:-1 group-title="Địa Phương", TH Vũng Tàu [FPT1000]
+http://hlscache.fptplay.net.vn/live/bariavungtau_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", TH Đà Nẵng 1 [FPT2500]
+http://hlscache.fptplay.net.vn/live/danang1_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", TH Đà Nẵng 1 [FPT1000]
+http://hlscache.fptplay.net.vn/live/danang1_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", TH Đà Nẵng 2 [FPT2500]
+http://hlscache.fptplay.net.vn/live/danang2_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", TH Đà Nẵng 2 [FPT1000]
+http://hlscache.fptplay.net.vn/live/danang2_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", TH Đồng Nai 1 [FPT2500]
+http://hlscache.fptplay.net.vn/live/dongnai1_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", TH Đồng Nai 2 [FPT2500]
+http://hlscache.fptplay.net.vn/live/dongnai2_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", TH Đồng Nai 2 [FPT1000]
+http://hlscache.fptplay.net.vn/live/dongnai2_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", TH Phú Yên [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/172490
+
+#EXTINF:-1 group-title="Địa Phương", VTV ĐÀ NẴNG [FPT]
+http://scache.fptplay.net.vn/livez/vtvdanang_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", VTV CẦN THƠ 1 [FPT]
+http://scache.fptplay.net.vn/live/cvtv1_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1,QPVN [COLOR yellow]HD[/COLOR]
+http://scache.fptplay.net.vn/livez/quocphongHD_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,SCTV HÀI [COLOR yellow]HD[/COLOR] 
+http://scache.fptplay.net.vn/livev/sctvhaihd_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTC3 [COLOR yellow]HD[/COLOR]
+http://scache.fptplay.net.vn/livez/vtcHD3_2500.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTC13 [COLOR yellow]HD[/COLOR]
+http://scache.fptplay.net.vn/livez/itvHD_2000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1,VTC3 [COLOR yellow]HD[/COLOR]
+http://scache.fptplay.net.vn/livez/vtc3HD_2500.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+
+#EXTINF:,**NHÓM KÊNH HTV/HTVC**
+
+#EXTINF:-1,HTV THỂ THAO
+http://scache.fptplay.net.vn/live/htvcthethao_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1,HTVC DU LỊCH
+http://scache.fptplay.net.vn/live/htvcdulich_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1,HTVC FBNC 1000
+http://scache.fptplay.net.vn/livez/fbnchd_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,HTVC FBNC 2000
+http://scache.fptplay.net.vn/livez/fbnchd_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1,HTVC PHIM
+http://scache.fptplay.net.vn/livez/htvcmovie_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,HTVC PHIM [COLOR yellow]HD[/COLOR]
+http://scache.fptplay.net.vn/live/htvcmovieHD_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1,HTVC GIA ĐÌNH
+http://scache.fptplay.net.vn/live/htvcgiadinh_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,HTVC MUA SẮM
+http://scache.fptplay.net.vn/live/htvcshopping_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,HTVC PHỤ NỮ
+http://scache.fptplay.net.vn/livez/htvcphunu_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,HTVC THUẦN VIỆT
+http://scache.fptplay.net.vn/live/htvcthuanviet_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,HTVC THUAN VIET [COLOR yellow]HD[/COLOR]
+http://scache.fptplay.net.vn/live/htvcthuanvietHD_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1, --[COLOR red]NHÓM KÊNH VTVCab[/COLOR]--
+
+#EXTINF:-1,VTVCab1 - GIẢI TRÍ TV
+http://scache.fptplay.net.vn/livev/giaitritv_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1,VTVCab2 - PHIM VIỆT
+http://scache.fptplay.net.vn/livev/phimviet_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTVCab3 - THỂ THAO TV
+http://scache.fptplay.net.vn/livev/thethaotvsd_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTVCab4 - KÊNH 17
+http://scache.fptplay.net.vn/livev/kenh17_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTVCab5 - E CHANNEL
+http://scache.fptplay.net.vn/livev/echanel_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTVCab6 - HAY TV
+http://hlscache.fptplay.net.vn/livev/haytv_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1,VTVCab7 - D DRAMAS
+http://scache.fptplay.net.vn/livev/ddramas_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1,VTVCab8 - BIBI
+http://scache.fptplay.net.vn/livev/bibi_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTVCab9 - INFO TV
+http://hlscache.fptplay.net.vn/livev/infotv_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1,VTVCab10 - O2 TV
+http://scache.fptplay.net.vn/livev/o2tv_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1,VTVCab12 - STYLE TV
+http://scache.fptplay.net.vn/livev/styletv_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1,VTVCAB15 - INVEST TV
+http://scache.fptplay.net.vn/livev/investtv_1000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTVCab16 - BÓNG ĐÁ TV
+http://scache.fptplay.net.vn/livev/bongdatvsd_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTVCab17 - YEAH1 TV
+http://scache.fptplay.net.vn/livev/yeah1tv_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1,## AN VIÊN TV ##
+http://hdfast.com
+#EXTINF:-1,AN VIÊN - MIỀN TÂY
+http://scache.fptplay.net.vn/livez/mientay_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,AN VIÊN - NCM
+http://scache.fptplay.net.vn/livez/ncm_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,AN VIÊN - PHIMHAY
+http://scache.fptplay.net.vn/livez/phimhay_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,AN VIÊN - SAM
+http://scache.fptplay.net.vn/livez/sam_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,AN VIÊN - VIETTEEN
+http://scache.fptplay.net.vn/livez/vietteen_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1,**NHÓM KÊNH VTC**
+
+#EXTINF:-1,VTC1
+http://scache.fptplay.net.vn/livez/vtc1_2500.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTC2
+http://scache.fptplay.net.vn/livez/vtc2_2500.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTC5
+http://scache.fptplay.net.vn/livez/vtc5_2500.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTC6
+http://scache.fptplay.net.vn/livez/vtc6_2500.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTC7
+http://scache.fptplay.net.vn/livez/vtc7_2500.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTC9
+http://scache.fptplay.net.vn/livez/vtc9_2500.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTC10
+http://scache.fptplay.net.vn/livez/vtc10_2500.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTC14
+http://scache.fptplay.net.vn/livez/vtc14_2500.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,VTC16
+http://scache.fptplay.net.vn/livez/vtc16_2500.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+
+#EXTINF:-1,[color lime]- NHÓM KÊNH QUỐC TẾ--[/color]
+http://hdfast.com
+
+#EXTINF:-1 group-title="International", AXN [COLOR yellow]HD[/COLOR] [FPT2000]
+http://scache.fptplay.net.vn/live/axnhd_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="International", AXN [COLOR yellow]HD[/COLOR] [FPT1000]
+http://scache.fptplay.net.vn/live/axnhd_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="International", AXN [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/31
+#EXTINF:-1 group-title="International", AXN [FPT 2000]
+http://hlscache.fptplay.net.vn/live/axnhd_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="International", AXN [FPT1000]
+http://hlscache.fptplay.net.vn/live/axnhd_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="International",CHANNEL [V][COLOR yellow]HD[/COLOR] [FPT2500]
+http://scache.fptplay.net.vn/live/htvcplusHD_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="International",CHANNEL [V] [FPT1000]
+http://scache.fptplay.net.vn/live/htvcplusHD_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="International", CNN INTERNATION
+http://scache.fptplay.net.vn/livex/CNN.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="International", KBS WORLD
+http://hlscache.fptplay.net.vn/livev/kbs_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&amp;did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="International", Bloomberg [FPT 2000]
+http://hlscache.fptplay.net.vn/live/bloomberg_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="International", Bloomberg [FPT1000]
+http://hlscache.fptplay.net.vn/live/bloomberg_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="International", Channel News Asia [FPT]
+http://hlscache.fptplay.net.vn/livex/newasia.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="International", CHANNEL NEWS ASIA
+http://scache.fptplay.net.vn/livex/newasia.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="International", Animal Planet [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/34
+#EXTINF:-1 group-title="International", Cartoon Network [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1006
+#EXTINF:-1 group-title="International", Disney Junior [VT]
+
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1085
+#EXTINF:-1 group-title="International", StarWorld [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/
+
+#EXTINF:-1 group-title="International", DISCOVERY WORLD [SCTVHD]
+http://112.197.2.154:1935/mlive/C003_HD_4/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="International", DISCOVERY [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/27
+#EXTINF:-1 group-title="International", DISCOVERY [COLOR yellow]HD[/COLOR] [FPT mlive]
+http://112.197.2.154:1935/mlive/C003_HD_4/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+
+#EXTINF:-1 group-title="International", National Geographic [SCTVHD]
+http://112.197.2.154:1935/mlive/C002_HD_4/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="International", National Geographic [COLOR yellow]HD[/COLOR] [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/25
+#EXTINF:-1 group-title="International", National Geographic [COLOR yellow]HD[/COLOR] [FPT mlive]
+http://112.197.2.154:1935/mlive/C002_HD_4/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="International", STAR MOVIES [SCTVHD]
+http://112.197.2.154:1935/mlive/C001_HD_4/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="International", STAR MOVIES [COLOR yellow]HD[/COLOR] [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/24
+
+#EXTINF:-1 group-title="International", HBO [SCTVHD]
+http://112.197.2.154:1935/mlive/C004_HD_4/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="International", HBO [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/28
+
+
+
+#EXTINF:-1 group-title="International", Cinemax [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/18566
+
+#EXTINF:-1 group-title="International", Channel [V] [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/18569
+
+#EXTINF:-1 group-title="International", HiTV [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/18570
+#EXTINF:-1 group-title="International", FashionTV [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/35
+#EXTINF:-1 group-title="Giải Trí", FashionTV [FPT 2000]
+http://hlscache.fptplay.net.vn/live/fashiontvhd_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Giải Trí", FashionTV [FPT1000]
+http://hlscache.fptplay.net.vn/live/fashiontvhd_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Tin Tức", CNN [FPT]
+http://hlscache.fptplay.net.vn/livex/CNN.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Tin Tức", CNN [WPC]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+
+#EXTINF:-1 group-title="Tin Tức", NHK World [COLOR yellow]HD[/COLOR] [FPT]
+http://hlscache.fptplay.net.vn/livex/nhkHD.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Tin Tức", BBC News [WPC]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:-1 group-title="Tin Tức", FRANCE24 [WPC]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_en/ls_satlink/b_828.m3u8
+
+#EXTINF:-1 group-title="Tin Tức", EURONEWS [WPC]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/euronews_ar/ls_satlink/b_828.m3u8
+
+#EXTINF:-1 group-title="Tin Tức", CBS [WPC]
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+
+#EXTINF:-1 group-title="Tin Tức", I24 NEWS [WPC]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8
+
+#EXTINF:-1 group-title="Tin Tức", LIFE NEWS [WPC]
+http://tv.life.ru/lifetv/720p/index.m3u8
+
+
+
+#EXTINF:-1, [color lime]- NHÓM KÊNH TỔNG HỢP -[/color]
+
+#EXTINF:-1 group-title="Địa Phương", ANTV - TH CAND
+http://scache.fptplay.net.vn/live/antv_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", VNEWS - TH THÔNG TẤN
+http://scache.fptplay.net.vn/livez/vnews_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", VOV TV - VOV
+http://scache.fptplay.net.vn/livez/vovtv_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", VOV GIAO THÔNG - VOV
+http://scache.fptplay.net.vn/event/vovgt.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", XONE FM - VOV
+http://scache.fptplay.net.vn/liveshow/xonefmlive/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,ONE TV - FPT
+http://scache.fptplay.net.vn/livez/onetv_2500.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,ATV1 - TH AN GIANG
+http://scache.fptplay.net.vn/live/angiang_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,BRT - TH BÀ RỊA - VŨNG TÀU
+http://scache.fptplay.net.vn/live/bariavungtau_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,BTV1 - TH BÌNH DƯƠNG
+http://scache.fptplay.net.vn/live/btv1_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,BTV2 - TH BÌNH DƯƠNG
+http://scache.fptplay.net.vn/live/btv2_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,BTV4 - TH BÌNH DƯƠNG
+http://scache.fptplay.net.vn/live/btv4_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,THTPCT - TH CẦN THƠ
+http://scache.fptplay.net.vn/live/cantho_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,DRT1 - TH ĐÀ NẴNG
+http://scache.fptplay.net.vn/live/danang1_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,DRT2 - TH ĐÀ NẴNG 
+http://scache.fptplay.net.vn/live/danang2_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", ĐN1 - TH ĐỒNG NAI
+http://scache.fptplay.net.vn/live/dongnai1_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Địa Phương", ĐN2 - TH ĐỒNG NAI
+http://scache.fptplay.net.vn/live/dongnai2_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,HN1 - TH HÀ NỘI
+http://scache.fptplay.net.vn/livez/hntv1_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,HN2 - TH HÀ NỘI
+http://scache.fptplay.net.vn/livez/hntv2_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,THP - TH HẢI PHÒNG
+http://scache.fptplay.net.vn/livez/haiphong_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,HBTV - TH HÒA BÌNH
+http://scache.fptplay.net.vn/livez/hoabinh_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,KTV - TH KHÁNH HÒA
+http://scache.fptplay.net.vn/live/khanhhoa_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,NTV - TH NINH BÌNH
+http://scache.fptplay.net.vn/live/ninhbinh_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,NTV - TH NGHỆ AN
+http://scache.fptplay.net.vn/livez/nghean_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,QTV1 - TH QUẢNG NINH 1
+http://scache.fptplay.net.vn/livez/quangninh1_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,QTV3 - TH QUẢNG NINH 3
+http://scache.fptplay.net.vn/livez/quangninh3_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,TTV - TH THANH HÓA
+http://scache.fptplay.net.vn/live/thanhhoa_2000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,TBTV - TH THÁI BÌNH
+http://scache.fptplay.net.vn/live/thaibinh_2000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,THTG - TH TIỀN GIANG
+http://scache.fptplay.net.vn/livez/tiengiang_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,TTV - TH TUYÊN QUANG
+http://scache.fptplay.net.vn/livez/tuyenquang_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,THVL1 - TH VĨNH LONG
+http://scache.fptplay.net.vn/livez/vinhlong1_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1,THVL2 - TH VĨNH LONG
+http://scache.fptplay.net.vn/livez/vinhlong2_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-10 group-title="Thể Thao", [color lime]- E-Sport -[/color]
+http://hdfast.com/
+#EXTINF:-10 group-title="Thể Thao", Liên Minh Huyền Thoại - VETV
+http://hlscache.fptplay.net.vn/liveshow/garenalive_2000/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-10 group-title="Thể Thao", FIFA Online 3 - VETV
+http://hlscache.fptplay.net.vn/liveshow/esv/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+
+#EXTINF:-1 group-title="Thể Thao", [color lime]- KÊNH THỂ THAO -[/color]
+http://hdfast.com/
+
+#EXTINF:-1 group-title="Thể Thao", HTV Thể thao [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1011
+#EXTINF:-1 group-title="Thể Thao", HTV Thể Thao [FPT2500]
+http://hlscache.fptplay.net.vn/live/htvcthethao_2500.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Thể Thao", HTV Thể Thao [FPT1000]
+http://hlscache.fptplay.net.vn/live/htvcthethao_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Thể Thao", BÓNG ĐÁ TV[COLOR yellow]HD[/COLOR]
+http://scache.fptplay.net.vn/livev/bongdatvhd_2000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+
+#EXTINF:-1 group-title="Thể Thao", VTVcab 3-Thể Thao TV [FPT]
+http://hlscache.fptplay.net.vn/livev/thethaotvsd_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Thể Thao", SCTV18-Thể Thao [TV24]
+rtmpe://112.197.2.154/glive//C008_HD_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://www.tv24.vn/ token=1b#K8!3zc65ends!
+
+#EXTINF:-1 group-title="Thể Thao", SCTV15-Thể Thao[FPT mlive]
+http://112.197.2.154:1935/mlive/C042_SD_3/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="Thể Thao", [SCTVHD] THỂ THAO
+http://112.197.2.154:1935/mlive/C008_HD_4/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Thể Thao", GOLF CHANNEL [COLOR yellow]HD[/COLOR]
+http://scache.fptplay.net.vn/live/golfchannel_2000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Thể Thao", THỂ THAO TV [COLOR yellow]HD[/COLOR]
+http://scache.fptplay.net.vn/livev/thethaotvhd_2000.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Thể Thao", SPORTS 1
+http://scache.fptplay.net.vn/liveshow/sporttv1/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Thể Thao", SPORTS 2
+http://scache.fptplay.net.vn/liveshow/sporttv2/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+#EXTINF:-1 group-title="Thể Thao", NCM [FPT1000]
+http://hlscache.fptplay.net.vn/livez/ncm_1000.stream/playlist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+
+#EXTINF:-1 group-title="Thể Thao", FOX SPORT [SCTVHD]
+http://112.197.2.154:1935/mlive/C005_HD_4/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+#EXTINF:-1 group-title="Thể Thao", FOX SPORT [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/1005
+#EXTINF:-1 group-title="Thể Thao", FOX SPORT [FPT mlive]
+http://112.197.2.154:1935/mlive/C005_HD_4/chunklist.m3u8?us=f9c1a4c308ea65315530bb809a100a47f04626c6bac3632d7a46b14478850a42f668f5319cd0c0deaee298cccf4bbb7d%7C1728515
+
+#EXTINF:-1 group-title="Thể Thao", STAR SPORT [VT]
+http://vietkodi.servehttp.com:3000/xmio/v1/livetvplay/30
+
+
+#EXTINF:-1,[COLOR ff00afaf]***** American / Euro Live TV *****[/COLOR]  
+http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-b.m3u8?sd=10&rebase=on live=true
+
+#EXTINF:-1,[COLOR cyan] 5 USA [/COLOR]
+http://37.187.172.168:8080/5_usa_nFovf/index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Aaa Family [/COLOR]
+http://63.237.48.3/ios/AAA_FAMILY/AAA_FAMILY.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] 1HD  [/COLOR]
+http://109.239.142.62:1935/live/livestream3/chunklist_w788555898.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] 4-Fun TV (Balan) [/COLOR] 
+rtmp://edge2.popler.tv:1935/publishlive?play=123452 playpath=4funtv swfUrl=http://images.popler.tv/player/flowplayer.commercial.swf pageUrl=http://www.popler.tv/ live=true
+
+#EXTINF:-1,[COLOR ff00afaf] ABC HD [/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1,[COLOR ff00afaf]  ABC News [/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-b.m3u8?sd=10&rebase=on live=true
+
+#EXTINF:-1,[COLOR ff00afaf]  ABC News -1200 [/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1,[COLOR ff00afaf] A&E HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/index_1500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,[COLOR ff00afaf] Al Jazeera News [/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Animal Planet HD [/COLOR]
+http://80.80.160.168/live/1/1500000/live.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] BBC World News [satlink][/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf]  BBC World News (Satlink)[/COLOR]
+http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Bein 1[/COLOR]
+http://streamindo.ddns.net/jhos/beib1_5/streamindo/playlist.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Bein 2[/COLOR]
+http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Bein 3[/COLOR]
+http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Big Ten Network [/COLOR]
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Bloomberg TV [/COLOR]
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M12K.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] CPAC TV Canada [/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,[COLOR ff00afaf] TSC - The Shopping Channel 1080HD-Canada [/COLOR]
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] CTV News Canada [/COLOR]
+http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] CFCN Canada [/COLOR]
+http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] CFCN Yorkton[/COLOR]
+http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] CFCN Edmonton[/COLOR]
+http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] CFCN Regina[/COLOR]
+http://198.179.31.198/live/2056.high.stream/2056.high.stream/index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] CFCN Lethbrige[/COLOR]
+http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] CFCN Lethbridge [/COLOR]
+http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] TVA -French-[/COLOR]
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1,[COLOR ff00afaf] Dance TV Canada [/COLOR]
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Dicovery Science HD [/COLOR]
+http://80.80.160.168/live/9/2500000/live.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] CBSN News HD [/COLOR]
+http://cbsnewshd-lh.akamaihd.net/i/CBSN_2@199302/index_4000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,[COLOR ff00afaf] CNN [/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8?Vd?u#bt!25
+
+#EXTINF:-1,[COLOR ff00afaf] CNN -!fast!-[/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_528.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] CNN USA 2 (satlink) [/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] CNN International[/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] CNBC News [Satlink] [/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] CBC Canada 1[/COLOR]
+rtmp://b.cdn.newschat.tv/edge playpath=cbc_live swfUrl=http://newschat.tv/player.swf pageUrl=http://www.livenewschat.eu/canada/
+
+#EXTINF:-1,[COLOR ff00afaf] CBC Canada ms-live[/COLOR]
+rtmp://a.cdn.newschat.tv/edge playpath=cbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/canada/
+
+#EXTINF:-1,[COLOR cyan] CBS Actions [/COLOR]
+http://37.187.172.168:8080/cbs_action_9ruGe/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] CBS Reality [/COLOR]
+http://37.187.172.168:8080/cbs_reality_MZl6H/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] CBS Drama [/COLOR]
+http://37.187.172.168:8080/cbs_drama_mSFWV/index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] CBS Sports HD[/COLOR]
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000_ipad.m3u8
+
+#EXTINF:-1,[COLOR cyan] Comedy Central [/COLOR]
+http://37.187.172.168:8080/comedy_central_HMqhT/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Comedy Central Extra [/COLOR]
+http://37.187.172.168:8080/comedy_centralextra_1g9Dc/index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Dance TV Canada [/COLOR]
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Dubai One[/COLOR]
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/chunklist_w958549813_b1800000.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] ESPN [/COLOR]
+http://80.80.160.168/live/6/5000000/live.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] EuroSport -French-[/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] EuroSport -Int'l[/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Fashion TV[/COLOR]
+http://80.82.43.95/streaming/fashion/16/tvrec/playlist.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Food Network[/COLOR]
+http://198.179.30.110/live/20.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeb09962ead69887a990acbfd8c6fd30269f48a9c926228a740e094edd42ced8ed3fef14155524bdf5e9e0b66810d7f28e1f2cc6d8e92008adeb08b63ad4a52d12ab3392df350ba6b4df0deade33b985a293854aa8a3d2f810311716fbeede0e53fbad0390970ab2e153d4820e042b358b63766d6079b903f8b524aea7fbfeee70ef46356dd6450e8ae4efd9979e6b6fb1
+
+#EXTINF:-1,[COLOR cyan]  Fox [/COLOR]
+http://37.187.172.168:8080/fox_c91MW/index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Global News TV Canada -nm-[/COLOR]
+http://link.theplatform.com/s/dtjsEC/hdSH3iztz_j_?feed=DEV Live Stream Feed
+
+#EXTINF:-1,[COLOR ff00afaf] ID [/COLOR]
+http://80.80.160.168/live/5/1500000/live.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] London Live [/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] MGM Channel [/COLOR]
+http://canli.ecanlitvizle.com/org11/mgmchannel_me/playlist.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] NBC 6 News Omaha [/COLOR]
+http://graywowtlive-i.akamaihd.net/hls/live/207153/WOWT/qa/888k/prog.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] NBCSN HD[/COLOR]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] NBC -Golf [/COLOR]
+http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] National Geograpgic HD [/COLOR]
+http://80.80.160.168/live/8/2500000/live.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] I24 News HD[/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/650.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] I24 News [/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8?Vd?u#bt!25
+
+#EXTINF:-1,[COLOR ff00afaf] KGO ABC 7 San Francisco [/COLOR]
+http://content-ausc3.uplynk.com/channel/6737085ce023428b8b4e099f2288e2dd/g.m3u8?pbs=9bc0c75a61494d1983ca7427de2f5983
+
+#EXTINF:-1,[COLOR ff00afaf] MSNBC News HD [/COLOR]
+rtmp://b.cdn.newschat.tv/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/politics/
+
+#EXTINF:-1,[COLOR ff00afaf] MTV Hits [/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8 
+
+#EXTINF:-1,[COLOR ff00afaf] Nat Geo Wild [/COLOR]
+http://canli.ecanlitvizle.com/org17/natgeowild_me/chunks.m3u8?nimblesessionid=40711338
+
+#EXTINF:-1,[COLOR ff00afaf] CNBC [/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] NBCsn Sports live -1080[/COLOR]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] NBCSN Manchester US 1080[/COLOR]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] NBCSN Sports Arsenal[/COLOR]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] NHK World HD [/COLOR]
+http://nhkworld-hds-live1.hds1.fmslive.stream.ne.jp/hls-live/nhkworld-hds-live1/_definst_/livestream/nhkworld-live-512.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Pac-12 Net LA HD[/COLOR]
+http://xrxs.net/video/live-p12losa-4728.m3u8?Vd?u#bt!25
+
+#EXTINF:-1,[COLOR ff00afaf] Pac-12 Net MT HD[/COLOR]
+http://xrxs.net/video/live-p12moun-4728.m3u8?Vd?u#bt!25
+
+#EXTINF:-1,[COLOR ff00afaf] Pac-12 Net BA HD[/COLOR]
+http://xrxs.net/video/live-p12baya-2328.m3u8?Vd?u#bt!25
+
+#EXTINF:-1,[COLOR ff00afaf] Pac Nat-1080 HD [/COLOR]
+http://xrxs.net/video/live-p12netw-4728.m3u8?Vd?u#bt!25
+
+#EXTINF:-1,[COLOR ff00afaf] Pac ORE-1080 HD [/COLOR]
+http://xrxs.net/video/live-p12oreg-4728.m3u8?Vd?u#bt!25
+
+#EXTINF:-1,[COLOR ff00afaf] Pac ORE-1080 HD 2[/COLOR]
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+
+#EXTINF:-1,[COLOR cyan] Sony Movies 1 [/COLOR]
+http://37.187.172.168:8080/sony_movies_1_3wuNP/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Sony Movies 2 [/COLOR]
+http://37.187.172.168:8080/sony_movies_2_j0alN/index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Showtime HD [/COLOR]
+http://80.80.160.168/live/7/5000000/live.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] NASA HD[/COLOR]
+http://public.infozen.cshls.lldns.net/infozen/public/public/public_1000.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Senate TV Canada [/COLOR]
+http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Sportnet-360 Canada HD [/COLOR]
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000_ipad.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Sportnet-360 HD [/COLOR]
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000_ipad.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] SPORTSNET 360HD 3000 CANADA[/COLOR]
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Sport Time 1 HD [/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+
+#EXTINF:-1,[COLOR ff00afaf] Sport Time 2 HD [/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+
+#EXTINF:-1,[COLOR ff00afaf] Sport Time 3 HD [/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+
+#EXTINF:-1,[COLOR ff00afaf] Sport Time 4 HD [/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+
+#EXTINF:-1,[COLOR ff00afaf] Sport Time 5 HD [/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+
+#EXTINF:-1,[COLOR ff00afaf] Sport Time 6 HD [/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+
+#EXTINF:-1,[COLOR ff00afaf] Sport Time 7 HD [/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+
+#EXTINF:-1,[COLOR cyan] Super Sport 1 [/COLOR]
+http://37.187.172.168:8080/super_sport_1_1lqIQ/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Super Sport 2  [/COLOR]
+http://37.187.172.168:8080/super_sport_2_vjwuP/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Super Sport 3 [/COLOR]
+#EXTIhttp://37.187.172.168:8080/super_sport_3_qmbRP/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Sky 1 [/COLOR]
+http://37.187.172.168:8080/sky_1_jwmBy/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Sky 1 Plus[/COLOR]
+http://37.187.172.168:8080/sky_1_plus_1_8koZN/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Sky 2 Plus[/COLOR]
+http://37.187.172.168:8080/sky_2_aOGci/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Sky Atlantic [/COLOR]
+http://37.187.172.168:8080/sky_atlantic_hfGEL/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Sky Atlantis Plus 1 [/COLOR]
+http://37.187.172.168:8080/sky_atlantic_plus_1_t9RLO/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Discovery Channel [/COLOR]
+http://37.187.172.168:8080/discovery_sL85e/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Discovery History [/COLOR]
+http://37.187.172.168:8080/dischist_aY0vB/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Disney XD [/COLOR]
+http://37.187.172.168:8080/disney_xd_uzR6o/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Sky Movies Disney [/COLOR]
+http://37.187.172.168:8080/sky_disney_hd_otPEr/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Disney Channel [/COLOR]
+http://37.187.172.168:8080/sky_disney_hd_otPEr/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Sky Movies Premiere [/COLOR]
+http://37.187.172.168:8080/sky_mov_premiere_eAGuo/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Sky Movies Action [/COLOR]
+http://37.187.172.168:8080/sky_mov_action_Ht98s/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Sky Movies Thriller [/COLOR]
+http://37.187.172.168:8080/sky_mov_thriller_Bso1z/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Sky Movies Scifi/Horror [/COLOR]
+http://37.187.172.168:8080/sky_mov_scifi_bm2zE/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Sky Movies Showcase [/COLOR]
+http://37.187.172.168:8080/sky_mov_show_case_bKC3W/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Sky Movies Modern Greats [/COLOR]
+http://37.187.172.168:8080/sky_mov_greats_lAH4J/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] Sky Movies Comedy [/COLOR]
+http://37.187.172.168:8080/sky_comedy_hd_JW7hQ/index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Sky News[/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] TLC [/COLOR]
+http://80.80.160.168/live/2/1500000/live.m3u8
+
+#EXTINF:-1,[COLOR cyan] TSN 1 [/COLOR]
+http://37.187.172.168:8080/tsn_1_b1hOZ/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] TSN 2 [/COLOR]
+http://37.187.172.168:8080/tsn_2_of87P/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] TSN 3 [/COLOR]
+http://37.187.172.168:8080/tsn_3_D46rR/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] TSN 4 [/COLOR]
+http://37.187.172.168:8080/tsn_4_tZDJh/index.m3u8
+
+#EXTINF:-1,[COLOR cyan] TSN 5 [/COLOR]
+http://37.187.172.168:8080/tsn_5_fBDad/index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Twoon Room[/COLOR]
+rtmp://b.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://newschat.tv/player.swf pageUrl=http://www.livenewschat.eu/twoons/
+
+#EXTINF:-1,[COLOR ff00afaf] TRT HD[/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Reality[/COLOR]
+http://198.179.30.110/live/1808.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe56d926ec962538b815de0fc910c928bb6568a6043a9b7b63f6d06d6116af9b3bcd845250f16979a46571600f76d175fee7abb3ce1a6df18f9096580be88852a8f110bad329a94578da7a2da9e23360615ccbbe2656f97d2786ab701a89d76b10c5f71caa4a88385570d02dd3ed95000c441530b2ae065ab254b9382c18514980ae6fe6f8bbed152d434c4f650f131bae
+
+#EXTINF:-1,[COLOR ff00afaf] RT Global Auto HD [/COLOR]
+http://odna.octoshape.net/f3f5m2v4/cds/ch1_auto.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] RT America Live Auto HD [/COLOR]
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_auto.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] RT HD [fastest clig tv][/COLOR]
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_720p/chunklist.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] RT Documentary Live Auto HD [/COLOR]
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_auto.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] RT UK Live Auto HD [/COLOR]
+http://odna.octoshape.net/f3f5m2v4/cds/ch6_auto.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] RT America [/COLOR]
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/chunklist.m3u8?Vd?u
+
+#EXTINF:-1,[COLOR ff00afaf] EuroSports 1 HD [/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Vevo -1 HD Country Musics [/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Vevo -2 HD Country Musics [/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Vevo -3 HD Country Musics[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1,[COLOR ff00afaf] Warner TV US [/COLOR]
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8? 
+
+#EXTINF:-1,[COLOR ff00afaf] Weather Network HD [/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+
+
+#EXTINF:-1,[COLOR ff808080] ***** LIVE  SPORTS TV *****[/COLOR]
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8     
+ 
+#EXTINF:-1,[COLOR ff808080] Big Ten Network [/COLOR]
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8 
+ 
+#EXTINF:-1,[COLOR ff808080] Sport\snet East HD  [/COLOR]
+http://xrxs.net/video/live-p12netw-4728.m3u8
+
+#EXTINF:-1,[COLOR ff808080] Pac National 1080 HD [/COLOR]
+http://xrxs.net/video/live-p12netw-4728.m3u8
+ 
+#EXTINF:-1,[COLOR ff808080] Pac Arizona 1080 HD [/COLOR] 
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+ 
+#EXTINF:-1,[COLOR ff808080] Pac Bay Area 720 HD [/COLOR]  
+http://xrxs.net/video/live-p12baya-2328.m3u8
+
+#EXTINF:-1,[COLOR ff808080] Pac Los Angeles 1080 HD [/COLOR] 
+http://xrxs.net/video/live-p12losa-4728.m3u8
+  
+#EXTINF:-1,[COLOR ff808080] Pac Mountain 1080 HD [/COLOR] 
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
+#EXTINF:-1,[COLOR ff808080] PAC-12 Net. (National) [/COLOR] 
+http://xrxs.net/video/live-p12netw-4728.m3u8
+  
+#EXTINF:-1,[COLOR ff808080] PAC-12 Net. (Arizona) HD [/COLOR] 
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+
+#EXTINF:-1,[COLOR ff808080] PAC-12 Net. (Bay Area) HD [/COLOR] 
+http://xrxs.net/video/live-p12baya-4728.m3u8
+
+#EXTINF:-1,[COLOR ff808080] PAC-12 Net. (Los Angeles) HD [/COLOR] 
+http://xrxs.net/video/live-p12losa-4728.m3u8
+
+#EXTINF:-1,[COLOR ff808080] PAC-12 Net. (Moutain) HD [/COLOR] 
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
+#EXTINF:-1,[COLOR ff808080] PAC-12 Net. (Oregon) HD [/COLOR] 
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+#EXTINF:-1,[COLOR ff808080] PAC-12 Net. (Washington) HD [/COLOR]
+http://xrxs.net/video/live-p12wash-4728.m3u8

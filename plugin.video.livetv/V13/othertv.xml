@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+<channel>
+<name>redirect</name>
+<items>
+
+
+<item>
+<title>[COLOR ffff0000]TV[/COLOR] | Vdubt25</title>
+<link>tovdubt25</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/vdubt.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR ffff0000]TV[/COLOR] | Pak India Live</title>
+<link>redirecttopakindia</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/pakindia.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR ffff0000]TV[/COLOR] | Shahid Arabic</title>
+<link>redirecttoshahidmbc</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/shahidmbc.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR ffff0000]TV[/COLOR] | ZEUS VIEO</title>
+<link>tozeus</link>
+<thumbnail>https://googledrive.com/host/0B7zkkQwo5pr5fjVUZG5MRkhFalRKTHF0T0poZnd6aTZUbmx1ZDZWMkwtR3FHZFhtdTB4TTQ/zeus.png</thumbnail>
+</item>
+
+
+</items>
+</channel>
+</channels>
