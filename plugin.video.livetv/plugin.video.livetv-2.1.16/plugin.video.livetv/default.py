@@ -430,7 +430,6 @@ def parameters_string_to_dict(parameters):
     return paramDict
 
 DecryptData = base64.b64decode	
-'''homeurl = 'aHR0cDovL3VwbGF5aGQuY29tL3NvdXJjZWNvZGUvaG9tZS54bWw=' '''
 homeurl = 'aHR0cDovL3JlcG9zLmNoYXVraGFuZy10ZWNoLmNvbS9ob21lLnhtbA=='
 params=parameters_string_to_dict(sys.argv[2])
 mode=params.get('mode')
