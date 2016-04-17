@@ -1,2 +1,0 @@
-version 0.9.5
- - Update channel, htv7, htv9, sctv15.
